@@ -1,4 +1,614 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Consulting the Patron added.
+Rat added.
+Treasure added.
+
+Consulting the Patreon removed.
+Ballad of Shared Flame removed.
+Skyshot Pyromancer removed.
+
+Tomb Titan
+rules_text: Trample
+Whenever Tomb Titan enters or attacks, you may return up to two land cards from your graveyard to the battlefield tapped.
+Fleshbind {2}{G} [i]({2}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Trample
+Whenever Tomb Titan enters or attacks, you may return up to two land cards from your graveyard to the battlefield tapped.
+Fleshbind {2}{G} [i]({2}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Underground Dog Trainer
+rules_text: Whenever you sacrifice a nontoken permanent create a treasure token. This ability triggers only once each turn. => Whenever you sacrifice a nontoken permanent, create a treasure token. This ability triggers only once each turn.
+
+Black Reliquary Executioner
+rules_text: Whenever Black Reliquary Executioner or another creature or artifact you control dies, each opponent loses 1 life and you gain 1 life. If that permanent had mana value 1 or less Black Reliquary Executioner gets +1/+1 until end of turn. => Whenever Black Reliquary Executioner or another creature or artifact you control dies, each opponent loses 1 life and you gain 1 life. If that permanent had mana value 1 or less, Black Reliquary Executioner gets +1/+1 until end of turn.
+
+Thieving Harpy
+rules_text: Flying
+Whenever Thieving Harpy deals combat damage to a player draw a card.
+Fleshbind {G}{U} [i]({G}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Flying
+Whenever Thieving Harpy deals combat damage to a player, draw a card.
+Fleshbind {G}{U} [i]({G}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Fatal Encounter
+rules_text: Destroy target creature if it has mana value 2 or less.
+Destroy that creature if it has mana value 4 or less instead if a card left your graveyard this turn. => Destroy target creature if it has mana value 2 or less.
+Destroy that creature if it has mana value 4 or less instead, if a card left your graveyard this turn.
+
+Elyndor Dragonrider
+cost: {W} => {1}{W}
+pt: 1/1 => 1/2
+
+Elyndor Footknight
+rules_text: Vigilance
+Whenever Elyndor Footknight becomes a target of a spell or ability you control, it gains first strike until end of turn. => Vigilance
+[i]Valiant[/i] — Whenever Elyndor Footknight becomes the target of a spell or ability you control for the first time each turn, it gains first strike until end of turn.
+
+Siege on the South Front
+rules_text: As this enchantment enters, choose Elyndor or Khar-Duun.
+• Elyndor — At the beginning of your end step, each opponent discards a card.
+• Khar-Duun — Creatures you control get +X/+0, where x is the number of creature cards in all graveyards. => As this enchantment enters, choose Elyndor or Khar-Duun.
+• Elyndor — At the beginning of your end step, each opponent discards a card.
+• Khar-Duun — Creatures you control have menace.
+
+Canyonline Explorer
+rules_text: When Canyonline Explorer enters create two map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => When Canyonline Explorer enters, create two Map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Concord Cavalry
+rules_text: Whenever Concord Cavalry becomes a target of a spell or ability you control scry 1. If that spell has incantation scry 2 instead. => [i]Valiant[/i] — Whenever Concord Cavalry becomes the target of a spell or ability you control for the first time each turn, scry 1. If that spell has incantation, scry 2 instead.
+
+Dungeon Shackler
+rules_text: When Dungeon Shackler enters, target creature losses all abilities and can't attack or block until Dungeon Shackler leaves the battlefield. If that creature has power 2 or less, put a shield counter on Dungeon Shackler. => When Dungeon Shackler enters, target creature losses all abilities and can't attack or block until Dungeon Shackler leaves the battlefield. If that creature has power 2 or less, put a shield counter on Dungeon Shackler. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+Wingborne Knights
+rules_text: Flying
+When Wingborne Knights enters, create two map tokens.
+Whenever you put a +1/+1 counter on a creature you control, it gains flying until end of turn. => Flying
+When Wingborne Knights enters, create two Map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Whenever you put a +1/+1 counter on a creature you control, it gains flying until end of turn.
+
+Carrel's Return
+rules_text: Choose One —
+• Carrel's Return deals 3 damage to target attacking or blocking creature.
+• Return target creature card with mana value 1 from your graveyard to the battlefield tapped.
+Incantation 4 => Choose One —
+• Carrel's Return deals 3 damage to target tapped creature.
+• Return target creature card with mana value 1 from your graveyard to the battlefield tapped.
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i]
+
+Highblade Justicar
+rules_text: First strike
+Whenever Highblade Justicar becomes a target of a spell or ability you control, create a 1/1 white Human Knight creature token. => First strike
+[i]Valiant[/i] — Whenever Highblade Justicar becomes the target of a spell or ability you control for the first time each turn, create a 1/1 white Human Knight creature token.
+
+Black Reliquary Champion
+rules_text: First strike, vigilance
+When Black Reliquary Champion enters or attacks, you may return target permanent card with mana value 1 or less from your graveyard to the battlefield. => First strike, vigilance
+Whenever Black Reliquary Champion enters or attacks, you may return target nonland permanent card with mana value 1 or less from your graveyard to the battlefield.
+
+Purge Evil
+cost: {2}{W}{W} => {3}{W}{W}
+
+Temple of the Old Gods
+rules_text: Instant and sorcery spells you cast have incantation x, where x is half their mana value rounded up. => Instant and sorcery spells you cast with mana value 3 or greater, have incantation x, where x is half their mana value rounded up.
+
+Arvek, Sword of the Church
+rules_text: Whenever Arvek becomes the target of a spell or ability you control put a +1/+1 counter on it.
+When Arvek dies, if it had power 4 or greater, create a 1/1 white Human Knight creature token. => [i]Valiant[/i] — Whenever Arvek becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.
+When Arvek dies, if it had power 4 or greater, create a 1/1 white Human Knight creature token.
+
+Veiled Corpsecaller
+rules_text: Whenever Veiled Corpsecaller enters or attacks, mill a card.
+Fleshbind {2}{B} [i]({2}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Whenever Veiled Corpsecaller enters or attacks, mill a card.
+Fleshbind {2}{B} [i]({2}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Reliquary Excision
+rules_text: As additional cost to cast this spell you may sacrifice an artifact or a creature. If you do this spell costs {2} less to cast.
+Destroy target creature. => As additional cost to cast this spell, you may sacrifice an artifact or a creature. If you do this spell costs {2} less to cast.
+Destroy target creature.
+
+Blightwing
+rules_text: Flying
+Fleshbind {3}{B} [i]({3}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Flying
+Fleshbind {3}{B} [i]({3}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Exposed to the Void
+rules_text: Choose One —
+• Target creature gets +3/+0 until end of turn.
+• Target creature gets +0/-3 until end of turn. => Choose one —
+• Target creature gets +3/+0 until end of turn.
+• Target creature gets +0/-3 until end of turn.
+
+Gloomwood Cutthroat
+pt: 2/3 => 3/3
+
+Litany of the Faithful Dead
+rules_text: Whenever a creature or an artifact dies, each opponent loses 1 life and you gain 1 life. => Whenever a creature or an artifact you control dies, each opponent loses 1 life and you gain 1 life.
+
+Enraged Bat
+rules_text: Flying, lifelink
+Fleshbind {1}{B} [i]({1}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Flying, lifelink
+Fleshbind {1}{B} [i]({1}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Graveyard Golem
+rules_text: Graveyard Golem's power and toughness are each equal to the number of creature cards in your graveyard.
+Fleshbind {1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Graveyard Golem's power and toughness are each equal to the number of creature cards in your graveyard.
+Fleshbind {1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Pitborn Imps
+rules_text: As additional cost to cast this spell pay 3 life or discard a card. => As additional cost to cast this spell, pay 3 life or discard a card.
+
+Cursed Dunegon Scroll
+rules_text: Flash
+When Cursed Dunegon Scroll enters, target creature an opponent controls gets -3/-3 until end of turn.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. => Flash
+When Cursed Dunegon Scroll enters, target creature an opponent controls gets -3/-3 until end of turn.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Witchcourt Enforcer
+rules_text: Flying, lifelink
+Whenever one or more cards leave your graveyard you lose 1 life and draw a card. => Flying, lifelink
+Whenever one or more cards leave your graveyard, you lose 1 life and draw a card.
+
+Opportunistic Dungeoneer
+rules_text: Sacrifice another creature or artifact: Opportunistic Dungeoneer explores. Activate only as a sorcery. => Sacrifice another creature or artifact: Opportunistic Dungeoneer explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Zombie Hyena
+rules_text: Menace
+Whenever Zombie Hyena attacks, any number of target players mill number of cards equal to Zombie Hyena's power.
+Fleshbind {B} [i]({B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Menace
+Whenever Zombie Hyena attacks, any number of target players mill number of cards equal to Zombie Hyena's power.
+Fleshbind {B} [i]({B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Seraphine, King's Blade
+rules_text: Ward—Sacrifice a creature.
+Flying, lifelink
+Whenever an opponent discards a card, you may cast that card without paying its mana cost.
+Whenever an opponent sacrifices a permanent, return that permanent to the battlefield under your control. => Flying, lifelink
+Whenever Seraphine enters or attacks, put two oath counters on it. Then each opponent sacrifices creatures and discards cards until the total mana value of creatures they sacrificed this way and cards they discarded way is X or greater, where X is the number of oath counters on Seraphine.
+
+Undead Plundering
+rules_text: As additional cost you may sacrifice an artifact or creature.
+Choose one. If this spell's additional cost was paid you may choose both.
+• Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+• Create a Map and a Treasure token. => As additional cost to cast this spell, you may sacrifice an artifact or creature.
+Choose one. If this spell's additional cost was paid you may choose both.
+• Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+• Create a Treasure and Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Grog, the Creative
+rules_text: Haste, prowess
+Whenever Grog attacks reveal cards from the top of your library until you reveal an instant or sorcery card with mana value equal to or less then Grog's power. Exile it. You may cast cards exiled with Grog as long as you have cast an instant or sorcery spell this turn. => Haste, prowess
+Whenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value equal to or less then Grog's power. Exile it. You may cast cards exiled with Grog as long as you have cast an instant or sorcery spell this turn.
+
+Netherwood Beast
+rules_text: Deathtouch, haste
+Ward—Exile three cards from your graveyard.
+Netherwood Beast can't be blocked by one creature.
+Whenever Questing Beast deals combat damage to an opponent, it deals that much damage to target planeswalker that player controls. => Deathtouch, haste
+Ward—Exile three cards from your graveyard.
+Netherwood Beast can't be blocked by one creature.
+Whenever Netherwood Beast deals combat damage to an opponent, it deals that much damage to target planeswalker that player controls.
+
+Khar-Duun Apex
+rules_text: Deathtouch
+Whenever Khar-Duun Apex deals combat damage to a player, they lose half their life, rounded up.
+Fleshbind {3}{B} [i]({3}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Deathtouch
+Whenever Khar-Duun Apex deals combat damage to a player, they lose half their life, rounded up.
+Fleshbind {3}{B} [i]({3}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Linnet, Depths Delver
+rules_text: Linnet can't be blocked
+Whenever Linnet deals combat damage to an opponent you Draw a card, then discard a card. 
+[i]From the depths[/i] — At the beginning of each end step if there are ten or more cards in your graveyard, untap Linnet and transform it. => Linnet can't be blocked
+Whenever Linnet deals combat damage to an opponent, you draw a card, then discard a card. 
+[i]From the depths[/i] — At the beginning of each end step, if there are ten or more cards in your graveyard, untap Linnet and transform it.
+
+Melia, Gentle Caretaker
+rules_text: {T}: Add {G}.
+[i]From the depths[/i] — At the beginning of each end step if there are ten or more cards in your graveyard, untap Melia and transform it. => {T}: Add {G}.
+[i]From the depths[/i] — At the beginning of each end step, if there are ten or more cards in your graveyard, untap Melia and transform it.
+
+Hagar, the Ruthless
+rules_text: Menace
+Whenever Hagar attacks you may discard a card, if you do draw a card.
+[i]From the depths[/i] — At the beginning of each end step if there are ten or more cards in your graveyard, untap Hagar and transform it. => Menace
+Whenever Hagar attacks, you may discard a card, if you do draw a card.
+[i]From the depths[/i] — At the beginning of each end step, if there are ten or more cards in your graveyard, untap Hagar and transform it.
+
+Bellis, Steward of Offerings
+rules_text: Lifelink
+{T}, Sacrifice a creature: Surveil 1
+[i]From the depths[/i] — At the beginning of each end step if there are ten or more cards in your graveyard, untap Bellis and transform it. => Lifelink
+{T}, Sacrifice a creature: Surveil 1.
+[i]From the depths[/i] — At the beginning of each end step, if there are ten or more cards in your graveyard, untap Bellis and transform it.
+
+Crystal Cave Stasis
+rules_text: Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature can't become untapped. Create a Map token. => Enchant creature
+When Crystal Cave Stasis enters, tap enchanted creature and create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Enchanted creature can't become untapped.
+
+Duskscout Sprite
+rules_text: Flying
+When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Flying
+When Duskscout Sprite enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Misthall Savant
+rules_text: Vigilance
+When Misthall Savant dies, up to two target creatures you control explore. => Vigilance
+When Misthall Savant dies, up to two target creatures you control explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Cliffward Apex
+rules_text: Flying
+Whenever Cliffward Apex deals combat damage to a player, draw a card, then discard a card. 
+Fleshbind {2}{U} [i]({2}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Flying
+Whenever Cliffward Apex deals combat damage to a player, draw a card, then discard a card. 
+Fleshbind {2}{U} [i]({2}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Lumenhex Witch
+rules_text: When Lumenhex Witch attacks up to two target players mill a card.
+
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Whenever Lumenhex Witch attacks, up to two target players mill a card.
+
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Witch of the Ember Rose
+rules_text: Prowess 
+Whenever Witch of the Ember Rose attacks, you may exile an instant or sorcery card from your graveyard with mana value equal to or less than its power. You may cast it, without paying its cost. => Prowess 
+Whenever Witch of the Ember Rose attacks, you may exile an instant or sorcery card from your graveyard with mana value equal to or less than its power. You may cast it without paying its cost.
+
+Sphinx of New Horizons
+rules_text: Flying
+Whenever a creature you control deals combat damage to a player, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Fleshbind {U} [i]({U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Flying
+Whenever a creature you control deals combat damage to a player, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Fleshbind {U} [i]({U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Spellcurrent Jellymage
+rules_text: Prowess
+Instant and sorcery spells you cast, cost {1} less to cast.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Prowess
+Instant and sorcery spells you cast cost {1} less to cast.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Icicle Conjuration
+rules_text: Tap all creatures target player controls, and put a stun counter on them.
+For each creature tapped this way, each player mills a card. => Tap all creatures target player controls and put a stun counter on them.
+For each creature tapped this way, each player mills a card.
+
+Academy Mentor
+rules_text: Whenever you cast a spell from anywhere other than your hand draw a card. => Whenever you cast a spell from anywhere other than your hand, draw a card.
+
+Nightcap Hexer
+rules_text: Flying, prowess => Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+
+Tidecall Temptress
+rules_text: Flash
+When Tidecall Temptress enters counter target activated or triggered ability of a nonland source. If an ability of a creature is countered this way, tap that creature and put a stun counter on it. => Flash
+When Tidecall Temptress enters, counter target activated or triggered ability of a nonland source. If an ability of a creature is countered this way, tap that creature and put a stun counter on it.
+
+Mistscale Crocodile
+rules_text: Mistscale Crocodile can't be blocked.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Mistscale Crocodile can't be blocked.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Pathfinder Relic
+rules_text: Flash
+When Pathfinder Relic enters, draw a card.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. => Flash
+When Pathfinder Relic enters, draw a card.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Path of the Reaping
+
+Bloodmask Zealot
+rules_text: Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+Prowess => Ward—Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+
+Heir of the High Pass
+rules_text: When Heir of the High Pass enters, create a Map or Treasure token. => When Heir of the High Pass enters, create a Treasure or Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Curious Appraiser
+
+Grimjaw Elder
+
+Ironclad Guard
+rules_text: When Ironclad Guard becomes a target of a spell or ability you control, it gets +1/+0 and gains menace until end of turn. => [i]Valiant[/i] — Whenever Ironclad Guard becomes the target of a spell or ability you control for the first time each turn, it gets +1/+0 and gains menace until end of turn.
+
+Scrapstick Skulker
+
+Scorching Dragonfire
+
+Crimson Petal Knight
+rules_text: When Crimson Petal Knight becomes a target of a spell or ability you control, target creature can't block until end of turn. => [i]Valiant[/i] — Whenever Crimson Petal Knight becomes the target of a spell or ability you control for the first time each turn, target creature can't block until end of turn.
+
+Demolition Expert
+rules_text: When Demolition Expert enters destroy target artifact or nonbasic land. Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles. => When Demolition Expert enters, destroy target artifact or nonbasic land. Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
+
+Savage Interruption
+
+Rootwarden Minotaur
+
+Shielded Resolve
+
+Scaldscale Scout
+
+Luminous High Justicar
+rules_text: Flash
+Vigilance, ward {2}
+Whenever a creature you control deals combat damage to a player, create a 1/1 white Human Knight creature token. => Flash
+Vigilance
+Whenever a creature you control deals combat damage to a player, create a 1/1 white Human Knight creature token.
+
+Antiquity Salvager
+rules_text: {T}: Discard a card, then draw a card. 
+{R}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield. => {R}, {T}: Discard a card, then draw a card. 
+{R}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery.
+pt: 2/1 => 2/2
+
+Drown in the Vortex
+
+Blinding Rebuff
+
+Manasiphon Witch
+rules_text: Flying
+Whenever Manasiphon Witch deals combat damage to a player exile target instant or sorcery card from their graveyard. You may cast it this turn, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead. => Flying
+Whenever Manasiphon Witch deals combat damage to a player, exile target instant or sorcery card from their graveyard. You may cast it this turn, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead.
+
+Cult Father
+
+Hired Monster Hunter
+
+Valkor, Cult-Called Harrier
+
+Living Reliquary
+
+Restorative Current
+
+Sapphire Rift Dragon
+rules_text: Sapphire Rift Dragon can't be countered.
+Flying, vigilance
+Whenever Sapphire Rift Dragon deals combat damage to a player, draw that many cards.
+Fleshbind {2}{GU}{GU} [i]({2}{GU}{GU}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Sapphire Rift Dragon can't be countered.
+Flying, vigilance
+Whenever Sapphire Rift Dragon deals combat damage to a player, draw that many cards.
+Fleshbind {2}{GU}{GU} [i]({2}{GU}{GU}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Guiding Emberlantern
+rules_text: Flash
+When Guiding Emberlantern enters, it deals 1 damage to each creature.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. => Flash
+When Guiding Emberlantern enters, it deals 1 damage to each creature.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Skitterback Mercenary
+
+Ember Rune-Reader
+
+Ember-Rose Arcanist
+rules_text: {T}: Add two mana in any combination of colors. This mana can't be spent to cast spells from your hand. => Whenever you cast a spell from anywhere other than your hand, discard a card, then draw a card.
+
+Burning Sentence
+rules_text: As additional cost to cast this spell you may sacrifice an artifact or creature.
+Burning Sentence deals 3 damage to target creature or planeswalker. If this spell's additional cost was paid it deals 6 damage to target creature or planeswalker instead. => As additional cost to cast this spell, you may sacrifice an artifact or creature.
+Burning Sentence deals 3 damage to target creature or planeswalker. If this spell's additional cost was paid it deals 6 damage to target creature or planeswalker instead.
+
+Desecrate the Idol
+
+Witchflame
+
+Feral Invocation
+
+Mirror of the Bloodpool
+
+Ember Vigil
+rules_text: Whenever you sacrifice a nonland permanent exile the top card of your library.
+You may play cards exiled with Ember Vigil as long as one of your opponents lost life this turn. => Whenever you sacrifice a nonland permanent, exile the top card of your library.
+You may play cards exiled with Ember Vigil as long as one of your opponents lost life this turn.
+
+Turn Into Flame
+
+Ursine Goblin Rider
+
+Elyndor Street Thief
+rules_text: When Elyndor Street Thief dies create a tapped treasure token.
+{3}{R}, Sacrifice Elyndor Street Thief: Create a tapped treasure token. => When Elyndor Street Thief dies, create a tapped treasure token.
+{3}{R}, Sacrifice Elyndor Street Thief: Create a tapped treasure token.
+
+Cult Judge
+rules_text: Whenever you sacrifice an artifact or creature, if that permanent had mana value 1 or less discard a card, then draw a card, otherwise draw a card. => Whenever you sacrifice an artifact or creature, if that permanent had mana value 1 or less discard a card then draw a card, otherwise draw a card.
+
+Ember Incantation
+
+Church Knight's Compass
+rules_text: Flash
+When Church Knight's Compass enters, create a 1/1 white Human Knight creature token.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. => Flash
+When Church Knight's Compass enters, create a 1/1 white Human Knight creature token.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Cardshark Cultist
+
+Marksman's Instinct
+
+Verdant Acolyte
+
+Crosswood Sharpshooter
+rules_text: Reach
+When Crosswood Sharpshooter enters, up to two target creatures you control explore. => Reach
+When Crosswood Sharpshooter enters, up to two target creatures you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Rootwake Elemental
+
+Traveling Treefolk
+
+Roots Take Hold
+
+Rotbound Chant
+
+Greenpath Explorer Squad
+
+Wayfinder Relic
+rules_text: Flash
+Mill four cards, then you may return a permanent card from among them to your hand.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. => Flash
+Mill four cards, then you may return a permanent card from among them to your hand.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Hightrail Surveyor
+
+Bone-Throwing Ooze
+rules_text: Reach
+When this creature enters, destroy up to one target artifact or enchantment. Destroyed permanent's controller creates a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Reach
+When Bone-Throwing Ooze enters, destroy up to one target artifact or enchantment. Destroyed permanent's controller creates a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Underfolk Pathrunner
+
+Bloodtrail Hounds
+
+Verdant Monarch
+rules_text: Vigilance, trample, haste
+Fleshbind {1}{G}{G} [i]({1}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Vigilance, trample, haste
+Fleshbind {1}{G}{G} [i]({1}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Khar-Duun Scrapscarab
+rules_text: Trample
+Whenever Khar-Duun Scrapscarab attacks, it gets +X/+0, where x is the number of cards that left your graveyard this turn.
+Fleshbind {G}{G} [i]({G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Trample
+Whenever Khar-Duun Scrapscarab attacks, it gets +1/+0 for each time one or more cards left your graveyard this turn.
+Fleshbind {G}{G} [i]({G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Leaffall Pilgrimage
+
+Challenge of the Depths
+rules_text: Enchant creature you control
+When this Aura enters, enchanted creature fights up to one target creature an opponent controls.
+Whenever enchanted creature deals combat damage to a player, it explores. => Enchant creature you control
+When this Aura enters, enchanted creature fights up to one target creature an opponent controls.
+Whenever enchanted creature deals combat damage to a player, it explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Subterrane Skitterlizard
+rules_text: Trample
+Whenever Subterrane Skitterlizard attacks, double its power until end of turn.
+Fleshbind {1}{G}{G} [i]({1}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Trample
+Whenever Subterrane Skitterlizard attacks, double its power until end of turn.
+Fleshbind {1}{G}{G} [i]({1}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Swamprowler's Trail
+
+Rootforged Golem
+rules_text: Reach
+When Rootforged Golem enters you gain 3 life and draw a card. => Reach
+When Rootforged Golem enters you gain 2 life and draw a card.
+
+Mycelial Dominion
+
+Wildheart Ascension
+
+Boulderaxe Minotaur
+
+Underfolk Bonecaller
+
+Old God's Wisdom
+
+Warden of Depths Enterence
+
+Oculus of the Crone
+
+Cultforged Abomination
+rules_text: Ward—Discard a card.
+Whenever Cultforged Abomination attacks each opponent discards a card.
+Fleshbind {1}{B} => Ward—Discard a card.
+Whenever Cultforged Abomination attacks, each opponent discards a card.
+Fleshbind {1}{B}
+
+Dungeon Overseer
+
+Triune Bladefall
+
+Heart of Khar-Duun
+rules_text: {T}, Sacrifice another artifact: You may put a creature card with mana value equal to 1 plus the sacrificed artifact's mana value from your hand onto the battlefield it gains haste until end of turn.
+{T}, Sacrifice a creature: You may put an artifact card with mana value equal to 1 plus the sacrificed creature's mana value from your hand onto the battlefield it gains haste until end of turn. => {T}, Sacrifice another artifact: You may put a creature card with mana value equal to 1 plus the sacrificed artifact's mana value from your hand onto the battlefield. It gains haste until end of turn.
+{T}, Sacrifice a creature: You may put an artifact card with mana value equal to 1 plus the sacrificed creature's mana value from your hand onto the battlefield. It gains haste until end of turn.
+
+Elderwild Behemoth
+rules_text: Trample, haste
+Whenever Elderwild Behemoth attacks create two green 3/3 beast creature tokens.
+Fleshbind {4}{G}{G} [i]({4}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Trample, haste
+Whenever Elderwild Behemoth attacks, create two green 3/3 beast creature tokens.
+Fleshbind {4}{G}{G} [i]({4}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Rotbound Expeditionist
+
+Beast
+
+Map
+
+Odile, Elyndor Princess
+
+Abysswake Leviathan
+rules_text: Whenever Abysswake Leviathan attacks, draw a card.
+When Abysswake Leviathan dies, you have no maximum hand size for the rest of the game.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Whenever Abysswake Leviathan attacks, draw a card.
+When Abysswake Leviathan dies, you have no maximum hand size for the rest of the game.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+pt: 3/4 => 3/3
+
+Ember Summoner
+rules_text: Flying, haste, prowess
+Whenever Ember Summoner attacks create a 1/1 blue and red Elemental creature token with prowess, that is tapped and attacking. => Flying, haste, prowess
+Whenever Ember Summoner attacks, create a 1/1 blue and red Elemental creature token with prowess, that is tapped and attacking.
+
+Thornfather Ancient
+
+Claimed by the Procession
+cost: {2}{W}{U}{U} => {W}{U}{U}
+rules_text: Gain control of target spell. You may choose new targets for it. => Exile all spells your opponents control.
+
+Old God's Cruelty
+
+Rite of Blood and Flame
+
+Preparations for the Descent
+
+Underworld Guide
+
+Bearer of Blessings
+rules_text: Whenever Bearer of Blessings becomes a target of a spell or ability you control, it gains double strike until end of turn.
+Vigilance, haste => [i]Valiant[/i] — Whenever Bearer of Blessings becomes the target of a spell or ability you control for the first time each turn, it gains double strike until end of turn.
+Vigilance, haste
+
+Bloomsting Assassin
+rules_text: Flash
+Reach
+Whenever Bloomsting Assassin deals combat damage to a player, draw a card, you may play an additional land this turn.
+Fleshbind {1}{G} [i]({1}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn.)[/i] => Flash
+Reach
+Whenever Bloomsting Assassin deals combat damage to a player, draw a card, you may play an additional land this turn.
+Fleshbind {1}{G} [i]({1}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Map of Carrion Grove
+rules_text: When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{T}, Sacrifice Map of Carrion Grove: Target creature you control explores. Activate only as a sorcery. => When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{T}, Sacrifice Map of Carrion Grove: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Guild Provisions
+
+Hunter's Lantern
+
+Ordinary Scarecrow
+
+Sturdy Bow
+rules_text: Equipped creature gets +1/+0 and has reach and “, : This creature deals 1 damage to any target.”
+Equip {1} => Equipped creature gets +1/+0 and has reach and “{T}, : This creature deals 1 damage to any target.”
+Equip {1}
+
+Mysterious Horseman
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
