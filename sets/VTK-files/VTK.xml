@@ -151,7 +151,7 @@ Incantation 3 (If you cast this spell from your hand, exile it with 3 time count
 		</card>
 		<card>
 			<name>Ember Rose Pyromancer</name>
-			<text>Prowess 
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue and red Elemental creature token with prowess.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/8.png" num="190">VTK</set>
 			<prop>
@@ -396,7 +396,7 @@ Incantation 3 (If you cast this spell from your hand, exile it with 3 time count
 		</card>
 		<card>
 			<name>Elemental VTK</name>
-			<text>Prowess</text>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
 			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/22.png" num="5">VTK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2355,7 +2355,7 @@ Incantation 5 (If you cast this spell from your hand, exile it with 5 time count
 		</card>
 		<card>
 			<name>Elemental Incantation</name>
-			<text>Create a 1/1 blue and red Elemental creature token with prowess.
+			<text>Create a 1/1 blue and red Elemental creature token with prowess. (Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)
 Incantation 4 (If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/128.png" num="210">VTK</set>
 			<prop>
@@ -2496,7 +2496,7 @@ Incantation 5 (If you cast this spell from your hand, exile it with 5 time count
 		</card>
 		<card>
 			<name>Spellcurrent Jellymage</name>
-			<text>Prowess
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Instant and sorcery spells you cast cost {1} less to cast.
 Fleshbind {1}{U} ({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature&apos;s abilities until end of turn. Activate only as a sorcery.)</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/136.png" num="68">VTK</set>
@@ -3191,7 +3191,7 @@ Whenever Skitterback Mercenary deals combat damage to a player, create a Map tok
 		</card>
 		<card>
 			<name>Ember Rune-Reader</name>
-			<text>Prowess
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever you cast a spell from anywhere other than your hand, add {R}.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/176.png" num="122">VTK</set>
 			<prop>

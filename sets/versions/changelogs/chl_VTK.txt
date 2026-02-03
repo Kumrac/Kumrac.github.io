@@ -1,4 +1,35 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Ember Rose Pyromancer
+rules_text: Prowess 
+Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue and red Elemental creature token with prowess. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue and red Elemental creature token with prowess.
+
+Elemental
+rules_text: Prowess => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+
+Elemental Incantation
+rules_text: Create a 1/1 blue and red Elemental creature token with prowess.
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Create a 1/1 blue and red Elemental creature token with prowess. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i]
+
+Spellcurrent Jellymage
+rules_text: Prowess
+Instant and sorcery spells you cast cost {1} less to cast.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Instant and sorcery spells you cast cost {1} less to cast.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Ember Rune-Reader
+rules_text: Prowess
+Whenever you cast a spell from anywhere other than your hand, add {R}. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast a spell from anywhere other than your hand, add {R}.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Consulting the Patron added.
