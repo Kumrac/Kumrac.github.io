@@ -5199,7 +5199,49 @@
             "position": "244",
             "rotated": false,
             "notes": ""
+        },
+        {
+            "card_name": "Clattercrew",
+            "color": "",
+            "rarity": "common",
+            "type": "Emblem",
+            "number": 8,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "At the beginning of your end step, create three 1/1 black Skeleton creature tokens. Then each creature you control explores.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "VTK",
+            "loyalty": "",
+            "artist": "Tze Kun Chin",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Odile",
+            "color": "",
+            "rarity": "common",
+            "type": "Emblem",
+            "number": 9,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Nonland permanents you control lose all abilities. Creatures you control have base power and toughness 1/1.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "VTK",
+            "loyalty": "",
+            "artist": "Yi.",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
+            "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

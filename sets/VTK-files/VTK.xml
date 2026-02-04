@@ -5,7 +5,7 @@
 			<name>VTK</name>
 			<longname>Vaelcairn, Tomb of Kingdoms</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-03</releasedate>
+			<releasedate>2026-02-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4382,6 +4382,36 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 				<side>front</side>
 				<type>Token Artifact — Treasure</type>
 				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Clattercrew VTK</name>
+			<text>At the beginning of your end step, create three 1/1 black Skeleton creature tokens. Then each creature you control explores.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/245.png" num="8">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Odile VTK</name>
+			<text>Nonland permanents you control lose all abilities. Creatures you control have base power and toughness 1/1.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/246.png" num="9">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
 			</prop>

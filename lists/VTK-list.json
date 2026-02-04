@@ -2010,6 +2010,22 @@
         "position": "244"
     },
     {
+        "card_name": "Clattercrew",
+        "number": 8,
+        "shape": "token",
+        "set": "VTK",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Odile",
+        "number": 9,
+        "shape": "token",
+        "set": "VTK",
+        "rotated": false,
+        "position": "246"
+    },
+    {
         "card_name": "Human Knight",
         "number": 1,
         "shape": "token",
@@ -2048,12 +2064,6 @@
         "set": "VTK",
         "rotated": false,
         "position": "22"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

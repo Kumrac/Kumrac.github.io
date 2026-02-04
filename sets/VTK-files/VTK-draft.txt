@@ -2477,6 +2477,26 @@
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/244.png"
 			}
+		},
+		{
+			"name": "Clattercrew",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/245.png"
+			}
+		},
+		{
+			"name": "Odile",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/246.png"
+			}
 		}
 	]
 
