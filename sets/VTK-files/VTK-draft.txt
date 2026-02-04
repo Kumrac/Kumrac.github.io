@@ -2283,7 +2283,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Map",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/225.png"
 			}
@@ -2473,7 +2473,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/244.png"
 			}
@@ -2483,7 +2483,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/245.png"
 			}
@@ -2493,9 +2493,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/246.png"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/247.png"
 			}
 		}
 	]

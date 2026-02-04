@@ -4049,7 +4049,7 @@ Fleshbind {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a +1/+1
 		<card>
 			<name>Map VTK</name>
 			<text>{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery</text>
-			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/225.png" num="6">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/225.png" num="7">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4376,7 +4376,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Treasure VTK</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/244.png" num="7">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/244.png" num="8">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4391,7 +4391,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Clattercrew VTK</name>
 			<text>At the beginning of your end step, create three 1/1 black Skeleton creature tokens. Then each creature you control explores.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/245.png" num="8">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/245.png" num="9">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4406,7 +4406,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Odile VTK</name>
 			<text>Nonland permanents you control lose all abilities. Creatures you control have base power and toughness 1/1.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/246.png" num="9">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/246.png" num="10">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4416,6 +4416,24 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Skeleton VTK</name>
+			<text></text>
+			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/247.png" num="6">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
 			<token>1</token>
 		</card>
 	</cards>

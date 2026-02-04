@@ -1995,7 +1995,7 @@
     "a->token",
     {
         "card_name": "Map",
-        "number": 6,
+        "number": 7,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2003,7 +2003,7 @@
     },
     {
         "card_name": "Treasure",
-        "number": 7,
+        "number": 8,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2011,7 +2011,7 @@
     },
     {
         "card_name": "Clattercrew",
-        "number": 8,
+        "number": 9,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2019,7 +2019,7 @@
     },
     {
         "card_name": "Odile",
-        "number": 9,
+        "number": 10,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2058,15 +2058,20 @@
         "position": "224"
     },
     {
+        "card_name": "Skeleton",
+        "number": 6,
+        "shape": "token",
+        "set": "VTK",
+        "rotated": false,
+        "position": "247"
+    },
+    {
         "card_name": "Elemental",
         "number": 5,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
         "position": "22"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
