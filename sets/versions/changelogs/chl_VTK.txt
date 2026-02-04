@@ -1,4 +1,54 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Underground Dog Trainer
+rules_text: Whenever you sacrifice a nontoken permanent, create a treasure token. This ability triggers only once each turn. => Whenever you sacrifice a nontoken permanent, create a Treasure token. This ability triggers only once each turn.
+
+Guild's Cartographer
+rules_text: Whenever you cast a creature spell, create a map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Whenever you cast a creature spell, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Wayfinder's Cloak
+rules_text: Equipped creature gets +1/+1 and has vigilance.
+Whenever quipped creature attacks, create a map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Equip {1} => Equipped creature gets +1/+1 and has vigilance.
+Whenever quipped creature attacks, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Equip {1}
+
+Undead Plundering
+rules_text: As additional cost to cast this spell, you may sacrifice an artifact or creature.
+Choose one. If this spell's additional cost was paid you may choose both.
+• Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+• Create a Treasure and Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => As additional cost to cast this spell, you may sacrifice an artifact or creature.
+Choose one. If this spell's additional cost was paid you may choose both.
+• Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+• Create two Map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Heir of the High Pass
+rules_text: When Heir of the High Pass enters, create a Treasure or Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => When Heir of the High Pass enters, choose one:
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+• Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Hired Monster Hunter
+rules_text: Menace
+Whenever Hired Monster Hunter attacks, create a treasure token. => Menace
+Whenever Hired Monster Hunter attacks, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Elyndor Street Thief
+rules_text: When Elyndor Street Thief dies, create a tapped treasure token.
+{3}{R}, Sacrifice Elyndor Street Thief: Create a tapped treasure token. => When Elyndor Street Thief dies, create a tapped Treasure token.
+{3}{R}, Sacrifice Elyndor Street Thief: Create a tapped Treasure token.
+
+Elderwild Behemoth
+rules_text: Trample, haste
+Whenever Elderwild Behemoth attacks, create two green 3/3 beast creature tokens.
+Fleshbind {4}{G}{G} [i]({4}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Trample, haste
+Whenever Elderwild Behemoth attacks, create two green 3/3 Beast creature tokens.
+Fleshbind {4}{G}{G} [i]({4}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Skeleton added.

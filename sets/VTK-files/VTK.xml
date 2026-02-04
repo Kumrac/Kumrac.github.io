@@ -204,7 +204,7 @@ Whenever you cast an instant or sorcery spell, draw a card then discard a card. 
 		</card>
 		<card>
 			<name>Underground Dog Trainer</name>
-			<text>Whenever you sacrifice a nontoken permanent, create a treasure token. This ability triggers only once each turn.</text>
+			<text>Whenever you sacrifice a nontoken permanent, create a Treasure token. This ability triggers only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/11.png" num="200">VTK</set>
 			<prop>
 				<layout>normal</layout>
@@ -239,7 +239,7 @@ Whenever a creature you control deals combat damage to a player, it explores. (R
 		</card>
 		<card>
 			<name>Guild&apos;s Cartographer</name>
-			<text>Whenever you cast a creature spell, create a map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
+			<text>Whenever you cast a creature spell, create a Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/13.png" num="193">VTK</set>
 			<prop>
 				<layout>normal</layout>
@@ -870,7 +870,7 @@ Incantation 3 (If you cast this spell from your hand, exile it with 3 time count
 		<card>
 			<name>Wayfinder&apos;s Cloak</name>
 			<text>Equipped creature gets +1/+1 and has vigilance.
-Whenever quipped creature attacks, create a map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)
+Whenever quipped creature attacks, create a Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)
 Equip {1}</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/49.png" num="35">VTK</set>
 			<prop>
@@ -1797,7 +1797,7 @@ Whenever Seraphine enters or attacks, put two oath counters on it. Then each opp
 			<text>As additional cost to cast this spell, you may sacrifice an artifact or creature.
 Choose one. If this spell&apos;s additional cost was paid you may choose both.
 • Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
-• Create a Treasure and Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
+• Create two Map tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/102.png" num="102">VTK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2754,7 +2754,9 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 		</card>
 		<card>
 			<name>Heir of the High Pass</name>
-			<text>When Heir of the High Pass enters, create a Treasure or Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
+			<text>When Heir of the High Pass enters, choose one:
+• Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+• Create a Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/151.png" num="131">VTK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3065,7 +3067,7 @@ Whenever Manasiphon Witch deals combat damage to a player, exile target instant 
 		<card>
 			<name>Hired Monster Hunter</name>
 			<text>Menace
-Whenever Hired Monster Hunter attacks, create a treasure token.</text>
+Whenever Hired Monster Hunter attacks, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/169.png" num="214">VTK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3360,8 +3362,8 @@ You may play cards exiled with Ember Vigil as long as one of your opponents lost
 		</card>
 		<card>
 			<name>Elyndor Street Thief</name>
-			<text>When Elyndor Street Thief dies, create a tapped treasure token.
-{3}{R}, Sacrifice Elyndor Street Thief: Create a tapped treasure token.</text>
+			<text>When Elyndor Street Thief dies, create a tapped Treasure token.
+{3}{R}, Sacrifice Elyndor Street Thief: Create a tapped Treasure token.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/186.png" num="120">VTK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3995,7 +3997,7 @@ Look at X cards from the top of your library where x is the number of creatures 
 		<card>
 			<name>Elderwild Behemoth</name>
 			<text>Trample, haste
-Whenever Elderwild Behemoth attacks, create two green 3/3 beast creature tokens.
+Whenever Elderwild Behemoth attacks, create two green 3/3 Beast creature tokens.
 Fleshbind {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature&apos;s abilities until end of turn. Activate only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/222.png" num="154">VTK</set>
 			<prop>
