@@ -1,4 +1,50 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Vortex Manta added.
+
+Drown in the Vortex removed.
+
+Fatal Encounter
+rules_text: Destroy target creature if it has mana value 2 or less.
+Destroy that creature if it has mana value 4 or less instead, if a card left your graveyard this turn. => Destroy target creature if it has mana value 2 or less.
+Destroy that creature if it has mana value 4 or less instead if a card left your graveyard this turn.
+
+Bones as Bearings
+rules_text: Enchant creature
+Enchanted creature loses all abilities and becomes a colorless artifact Map with: “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as sorcery.” [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i] => Enchant creature or Map
+Enchanted creature loses all abilities and becomes a colorless artifact Map with: “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as sorcery.” [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Temple of the Old Gods
+rules_text: Instant and sorcery spells you cast with mana value 3 or greater, have incantation x, where x is half their mana value rounded up. => Instant and sorcery spells you cast with mana value 3 or greater, have incantation X, where X is half their mana value rounded up.
+
+Grog, the Creative
+type: Creature — Troll Painter => Legendary Creature — Troll Painter
+rules_text: Haste, prowess
+Whenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value equal to or less then Grog's power. Exile it. You may cast cards exiled with Grog as long as you have cast an instant or sorcery spell this turn. => Prowess
+Whenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value equal to or less then Grog's power. Exile it. You may cast exiled cards as long as they remain exiled and you have cast an instant or sorcery spell this turn. Put the rest on the bottom of your library in a random order.
+
+Hagar, the Ruthless
+rules_text: Menace
+Whenever Hagar attacks, you may discard a card, if you do draw a card.
+[i]From the depths[/i] — At the beginning of each end step, if there are ten or more cards in your graveyard, untap Hagar and transform it. => Menace
+Whenever Hagar attacks, you may discard a card. When you do, draw a card.
+[i]From the depths[/i] — At the beginning of each end step, if there are ten or more cards in your graveyard, untap Hagar and transform it.
+
+Mistscale Crocodile
+cost: {U} => {2}{U}
+rules_text: Mistscale Crocodile can't be blocked.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Whenever one or more cards leave your graveyard, put a +1/+1 counter on Mistscale Crocodile.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+pt: 1/1 => 3/3
+
+Triune Bladefall
+rules_text: Triune Bladefall deals 3 damage to each creature and each planeswalker.
+Look at X cards from the top of your library where x is the number of creatures that died this turn. Exile one of them, you may play it this turn. Put the rest on the bottom of your library in random order. => Triune Bladefall deals 3 damage to each creature and each planeswalker.
+Look at X cards from the top of your library where X is the number of creatures that died this turn. Exile one of them, you may play it this turn. Put the rest on the bottom of your library in random order.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

@@ -1494,7 +1494,7 @@
     },
     {
         "card_name": "Luminous High Justicar",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1502,7 +1502,7 @@
     },
     {
         "card_name": "Manasiphon Witch",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1510,7 +1510,7 @@
     },
     {
         "card_name": "Valkor, Cult-Called Harrier",
-        "number": 229,
+        "number": 228,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1518,7 +1518,7 @@
     },
     {
         "card_name": "Rootwarden Minotaur",
-        "number": 222,
+        "number": 221,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1526,7 +1526,7 @@
     },
     {
         "card_name": "Nina, Spore-Sheltered",
-        "number": 220,
+        "number": 219,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1574,15 +1574,15 @@
     },
     {
         "card_name": "Tidecall Temptress",
-        "number": 228,
+        "number": 227,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "143"
     },
     {
-        "card_name": "Drown in the Vortex",
-        "number": 209,
+        "card_name": "Vortex Manta",
+        "number": 229,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1590,7 +1590,7 @@
     },
     {
         "card_name": "Hired Monster Hunter",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1606,7 +1606,7 @@
     },
     {
         "card_name": "Graveside Lament",
-        "number": 213,
+        "number": 212,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1614,7 +1614,7 @@
     },
     {
         "card_name": "Shielded Resolve",
-        "number": 225,
+        "number": 224,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1646,7 +1646,7 @@
     },
     {
         "card_name": "Sylvan Prayer",
-        "number": 227,
+        "number": 226,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1663,7 +1663,7 @@
     },
     {
         "card_name": "Savage Interruption",
-        "number": 224,
+        "number": 223,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1761,7 +1761,7 @@
     },
     {
         "card_name": "Sapphire Rift Dragon",
-        "number": 223,
+        "number": 222,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1785,7 +1785,7 @@
     },
     {
         "card_name": "Netherwood Beast",
-        "number": 219,
+        "number": 218,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1809,7 +1809,7 @@
     },
     {
         "card_name": "Gilded Reanimation",
-        "number": 212,
+        "number": 211,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1817,7 +1817,7 @@
     },
     {
         "card_name": "Elemental Incantation",
-        "number": 210,
+        "number": 209,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1833,7 +1833,7 @@
     },
     {
         "card_name": "Luminous Concord Cleric",
-        "number": 216,
+        "number": 215,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1841,7 +1841,7 @@
     },
     {
         "card_name": "Living Reliquary",
-        "number": 215,
+        "number": 214,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1849,7 +1849,7 @@
     },
     {
         "card_name": "From Depths Reborn",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1873,7 +1873,7 @@
     },
     {
         "card_name": "Song of Steel",
-        "number": 226,
+        "number": 225,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1881,7 +1881,7 @@
     },
     {
         "card_name": "Restorative Current",
-        "number": 221,
+        "number": 220,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,

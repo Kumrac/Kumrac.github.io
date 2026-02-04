@@ -615,7 +615,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Instant",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/61.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/B}",
 			"type": "Instant",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/66.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
 			"type": "Sorcery",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/86.png"
 			}
@@ -1034,7 +1034,7 @@
 			"name": "Grog, the Creative",
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
-			"type": "Creature — Troll Painter",
+			"type": "Legendary Creature — Troll Painter",
 			"collector_number": "192",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/103.png"
@@ -1055,7 +1055,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/105.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/W}{G/W}",
 			"type": "Sorcery",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/107.png"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G/W}{G/W}",
 			"type": "Legendary Creature — Fungus Cleric",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/108.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Instant",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/109.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Creature — Dwarf Cleric",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/110.png"
 			}
@@ -1313,7 +1313,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}",
 			"type": "Sorcery",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/128.png"
 			}
@@ -1463,7 +1463,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}",
 			"type": "Creature — Elemental Siren",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/143.png"
 			}
@@ -1481,7 +1481,7 @@
 		{
 			"name": "Mistscale Crocodile",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Crocodile",
 			"collector_number": "59",
 			"image_uris": {
@@ -1623,7 +1623,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/G}",
 			"type": "Sorcery",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/159.png"
 			}
@@ -1633,7 +1633,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R/G}{R/G}",
 			"type": "Creature — Minotaur Druid",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/160.png"
 			}
@@ -1643,7 +1643,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/U}",
 			"type": "Instant",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/161.png"
 			}
@@ -1663,7 +1663,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Creature — Human Knight Cleric",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/163.png"
 			}
@@ -1679,11 +1679,11 @@
 			}
 		},
 		{
-			"name": "Drown in the Vortex",
+			"name": "Vortex Manta",
 			"rarity": "uncommon",
 			"mana_cost": "{U/B}",
-			"type": "Instant",
-			"collector_number": "209",
+			"type": "Creature — Fish",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/165.png"
 			}
@@ -1703,7 +1703,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U/B}{U/B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/167.png"
 			}
@@ -1723,7 +1723,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/R}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/169.png"
 			}
@@ -1733,7 +1733,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B/R}{B/R}",
 			"type": "Legendary Creature — Demon Bird",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/170.png"
 			}
@@ -1743,7 +1743,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}",
 			"type": "Creature — Wall",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/171.png"
 			}
@@ -1753,7 +1753,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}",
 			"type": "Instant",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/172.png"
 			}
@@ -1763,7 +1763,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G/U}{G/U}",
 			"type": "Creature — Dragon",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/173.png"
 			}
@@ -2632,7 +2632,7 @@
 	4 Pathfinder Relic
 	4 Demolition Expert
 	4 Scaldscale Scout
-	4 Drown in the Vortex
+	4 Vortex Manta
 	4 Hired Monster Hunter
 	4 Living Reliquary
 	4 Guiding Emberlantern
@@ -2995,7 +2995,7 @@
 	6 Scaldscale Scout
 	2 Luminous High Justicar
 	2 Antiquity Salvager
-	6 Drown in the Vortex
+	6 Vortex Manta
 	12 Blinding Rebuff
 	2 Manasiphon Witch
 	12 Cult Father
@@ -3234,7 +3234,7 @@
 	15 Scaldscale Scout
 	7 Luminous High Justicar
 	7 Antiquity Salvager
-	15 Drown in the Vortex
+	15 Vortex Manta
 	6 Blinding Rebuff
 	7 Manasiphon Witch
 	6 Cult Father
