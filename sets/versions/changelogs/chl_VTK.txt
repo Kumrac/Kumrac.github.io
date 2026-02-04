@@ -1,4 +1,17 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Elderwild Behemoth
+rules_text: Trample, haste
+Whenever Elderwild Behemoth attacks, create two green 3/3 Beast creature tokens.
+Fleshbind {4}{G}{G} [i]({4}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Trample, haste
+Whenever Elderwild Behemoth attacks, create two 3/3 green Beast creature tokens.
+Fleshbind {4}{G}{G} [i]({4}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
