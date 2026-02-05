@@ -3633,7 +3633,7 @@
             "number": 228,
             "color_identity": "BR",
             "cost": "{2}{BR}{BR}",
-            "rules_text": "First strike, haste\nWhenever Valkor attacks, reveal cards from the top of your library until you reveal a card with mana value 2 or less and exile it. You may cast that card by discarding a card rather than paying its mana cost.",
+            "rules_text": "First strike, haste\nWhenever Valkor attacks, reveal cards from the top of your library until you reveal a nonland card with mana value 2 or less and exile it. You may cast that card by discarding a card rather than paying its mana cost. Put the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",

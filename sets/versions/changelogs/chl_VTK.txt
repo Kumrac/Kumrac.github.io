@@ -1,4 +1,15 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Valkor, Cult-Called Harrier
+rules_text: First strike, haste
+Whenever Valkor attacks, reveal cards from the top of your library until you reveal a card with mana value 2 or less and exile it. You may cast that card by discarding a card rather than paying its mana cost. => First strike, haste
+Whenever Valkor attacks, reveal cards from the top of your library until you reveal a nonland card with mana value 2 or less and exile it. You may cast that card by discarding a card rather than paying its mana cost. Put the rest on the bottom of your library in a random order.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 No changes.
