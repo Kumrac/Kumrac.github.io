@@ -5,7 +5,7 @@
 			<name>VTK</name>
 			<longname>Vaelcairn, Tomb of Kingdoms</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-04</releasedate>
+			<releasedate>2026-02-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1814,7 +1814,7 @@ Choose one. If this spell&apos;s additional cost was paid you may choose both.
 		<card>
 			<name>Grog, the Creative</name>
 			<text>Prowess
-Whenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value equal to or less then Grog&apos;s power. Exile it. You may cast exiled cards as long as they remain exiled and you have cast an instant or sorcery spell this turn. Put the rest on the bottom of your library in a random order.</text>
+Whenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value less than or equal to Grog&apos;s power. Exile it. You may cast that card for as long as it remains exiled and you have cast an instant or sorcery spell this turn. Put the rest on the bottom of your library in a random order.</text>
 			<set rarity="rare" picurl="https://Kumrac.github.io.-/sets/VTK-files/img/103.png" num="192">VTK</set>
 			<prop>
 				<layout>normal</layout>

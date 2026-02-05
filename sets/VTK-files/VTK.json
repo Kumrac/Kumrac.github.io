@@ -862,7 +862,7 @@
             "shape": "normal",
             "set": "VTK",
             "loyalty": "",
-            "artist": "",
+            "artist": "Mila Pesic",
             "alias": "",
             "position": "40",
             "rotated": false,
@@ -1051,7 +1051,7 @@
             "shape": "normal",
             "set": "VTK",
             "loyalty": "",
-            "artist": "",
+            "artist": "Magdalena Radziej",
             "alias": "",
             "position": "49",
             "rotated": false,
@@ -2178,7 +2178,7 @@
             "number": 192,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "Prowess\nWhenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value equal to or less then Grog's power. Exile it. You may cast exiled cards as long as they remain exiled and you have cast an instant or sorcery spell this turn. Put the rest on the bottom of your library in a random order.",
+            "rules_text": "Prowess\nWhenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value less than or equal to Grog's power. Exile it. You may cast that card for as long as it remains exiled and you have cast an instant or sorcery spell this turn. Put the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5264,5 +5264,5 @@
             "notes": ""
         }
     ],
-    "version": 8
+    "version": 9
 }

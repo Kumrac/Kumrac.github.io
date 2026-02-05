@@ -1,4 +1,19 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Descent of the Radiant
+
+Wayfinder's Cloak
+
+Grog, the Creative
+rules_text: Prowess
+Whenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value equal to or less then Grog's power. Exile it. You may cast exiled cards as long as they remain exiled and you have cast an instant or sorcery spell this turn. Put the rest on the bottom of your library in a random order. => Prowess
+Whenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value less than or equal to Grog's power. Exile it. You may cast that card for as long as it remains exiled and you have cast an instant or sorcery spell this turn. Put the rest on the bottom of your library in a random order.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Vortex Manta added.
