@@ -1,4 +1,200 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Graveshifter added.
+Walking Ossuary added.
+Rotbound Pursuer added.
+Frost Command added.
+Arcane-Called Drake added.
+Luminous High Priestess added.
+Oath-Mender Paladin added.
+Idas, Ruined King added.
+Lightforged Prayer added.
+Fallen Kingdom of the Moon added.
+Fallen Kingdom of the Ancients added.
+Fallen Kingdom of the Flame added.
+Fallen Kingdom of the Sun added.
+Fallen Kingdom of the Tides added.
+Marble Ruins added.
+Overgrown Ruins added.
+Sanctified Ruins added.
+Crackling Ruins added.
+Ashen Ruins added.
+Cursed Ruins added.
+Underground Ruins added.
+Echoing Ruins added.
+Titanic Ruins added.
+Sunscorched Ruins added.
+Breach from the Depths added.
+Rhyme of Unmaking added.
+Morbid Collector added.
+Moss-Made Paladin added.
+Black Reliquary Banshee added.
+Expressive Iteration added.
+Khar-Duun Map Merchant added.
+Paladin's Resolve added.
+Carrioncaster Mage added.
+Daring Dungeon Raider added.
+Orva, Cauldron Rider added.
+Catacomb Warden added.
+The Architect added.
+Ember Smite added.
+Eternal Hunter added.
+Saint Gwen's Blessing added.
+Mirrorbrood Horror added.
+Autumn Witch added.
+False New God added.
+Coven's Offering added.
+Black Market Connections added.
+Monster Tracker's Song added.
+Khar-Duun Dragon Breeder added.
+Egg added.
+Albino Dreadkite added.
+
+Reliquary Acolyte removed.
+Venomglass Skitter removed.
+Khar-Duun Apex removed.
+Frozen Command removed.
+Mistscale Crocodile removed.
+Heart of Khar-Duun removed.
+
+Tomb Titan
+rules_text: Trample
+Whenever Tomb Titan enters or attacks, you may return up to two land cards from your graveyard to the battlefield tapped.
+Fleshbind {2}{G} [i]({2}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Vigilance, trample
+Whenever Tomb Titan enters or attacks, create a tapped colorless land token named Everywhere that is every basic land type.
+Fleshbind {2}{G} [i]({2}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Elyndor Dragonrider
+cost: {1}{W} => {W}
+pt: 1/2 => 1/1
+
+The Clattercrew
+rules_text: As long as The Clattercrew isn't on the battlefield, it's a 1/1 skeleton creature in addition to its other types.
+[+1]: Mill a card. Create a Map token.
+[-3]: Destroy target nonland permanent.
+[-7]: You get an emblem with “At the beginning of your end step, create three 1/1 black Skeleton creature tokens. Then each creature you control explores.” => As long as The Clattercrew isn't on the battlefield, it's a 1/1 Skeleton creature in addition to its other types.
+[+1]: Mill a card. Create a Map token.
+[-3]: Destroy target nonland permanent.
+[-7]: You get an emblem with “At the beginning of your end step, create three 1/1 black Skeleton creature tokens. Then each creature you control explores.”
+special_text: As long as The Clattercrew isn't on the battlefield, it's a 1/1 skeleton creature in addition to its other types.
+[+1]: Mill a card. Create a Map token.
+[-3]: Destroy target nonland permanent.
+[-7]: You get an emblem with “At the beginning of your end step, create three 1/1 black Skeleton creature tokens. Then each creature you control explores.” => As long as The Clattercrew isn't on the battlefield, it's a 1/1 Skeleton creature in addition to its other types.
+[+1]: Mill a card. Create a Map token.
+[-3]: Destroy target nonland permanent.
+[-7]: You get an emblem with “At the beginning of your end step, create three 1/1 black Skeleton creature tokens. Then each creature you control explores.”
+
+Fallen Champion
+cost: {1}{W} => {W}
+pt: 2/2 => 1/1
+
+Cliffpath Wayfarer
+rules_text: Whenever Cliffpath Wayfarer enters or dies, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => When Cliffpath Wayfarer dies, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+pt: 2/1 => 1/3
+
+Bad Omen
+rules_text: Flying
+Whenever one or more cards leave your graveyard, each opponent losses 1 life. => Flying
+Whenever one or more cards leave your graveyard, each opponent losses 1 life and you gain 1 life.
+
+Crowcleaver Reaper
+rules_text: When Crowcleaver Reaper enters, each opponent discards a card. => {3}{B}, Exile Crowcleaver Reaper from your graveyard: Each opponent discards a card. Activate only as a sorcery.
+pt: 1/1 => 2/2
+
+Depth's Edict
+
+Defy the Depths
+
+Consulting the Patron
+cost: {3}{B} => {1}{B}{B}
+
+Desperate Spark
+
+Cult Father
+
+Sapphire Rift Dragon
+rules_text: Sapphire Rift Dragon can't be countered.
+Flying, vigilance
+Whenever Sapphire Rift Dragon deals combat damage to a player, draw that many cards.
+Fleshbind {2}{GU}{GU} [i]({2}{GU}{GU}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Flying, vigilance, ward {3}
+Whenever Sapphire Rift Dragon deals combat damage to a player, draw that many cards.
+Fleshbind {2}{GU}{GU} [i]({2}{GU}{GU}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i]
+
+Crosswood Sharpshooter
+rules_text: Reach
+When Crosswood Sharpshooter enters, up to two target creatures you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => Reach
+When Crosswood Sharpshooter enters, up to two target creatures you control explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Hightrail Surveyor
+cost: {1}{G}{G} => {G}{G}
+rules_text: Vigilance
+Whenever Hightrail Surveyor enters or attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Vigilance
+At the beginning of your upkeep, Hightrail Surveyor explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+pt: 3/3 => 1/1
+
+Elderwild Behemoth
+
+Rutili,Rotbound Expeditionist
+
+Beast
+
+Map
+
+Odile, Elyndor Princess
+
+Abysswake Leviathan
+
+Crimson-Flame Summoner
+
+Thornfather Ancient
+
+Claimed by the Procession
+cost: {W}{U}{U} => {W}{U}
+rules_text: Exile all spells your opponents control. => Return target spell or nonland permanent an opponent controls to its owner's hand. That spell's or permanent's owner can't cast spells with the same name as that spell or permanent until your next turn.
+
+Old God's Cruelty
+
+Rite of Blood and Flame
+
+Preparations for the Descent
+
+Underworld Guide
+
+Bearer of Blessings
+
+Bloomsting Assassin
+
+Map of Carrion Grove
+
+Guild Provisions
+
+Hunter's Lantern
+
+Ordinary Scarecrow
+
+Sturdy Bow
+
+Mysterious Horseman
+
+Rat
+
+Treasure
+
+Clattercrew
+
+Odile
+
+Skeleton
+
+
+type: Sorcery => 
+cost: {1}{B}{B}{G} => 
+rules_text: Destroy target nonland permanent.
+Return target permanent card from your graveyard to your hand. => 
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Valenor's Return added.
