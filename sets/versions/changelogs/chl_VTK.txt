@@ -1,4 +1,457 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Althea, Hope of Khar-Duun added.
+Gore Omadi, Daughter of Ash added.
+Nira, New God of Courage added.
+
+Undercrypt Howler removed.
+Grimjaw Elder removed.
+
+Depth's Edict
+
+Pact to the Old Gods
+
+Skullfeather Harrier
+
+Gravebloom Bug
+
+Reliquary Excision
+
+Blightwing
+
+Defy the Depths
+
+Exposed to the Void
+
+Gloomwood Cutthroat
+
+Consulting the Patron
+
+Ball of Rats
+
+Litany of the Faithful Dead
+
+Gilded Reanimation
+
+Enraged Bat
+
+Rat Hurl
+
+March of the Rat-Piper
+
+Witches' Sabbath
+
+Graveyard Golem
+
+Graveshifter
+
+Walking Ossuary
+
+Black Reliquary Oracle
+
+Pitborn Imps
+
+Cursed Dunegon Scroll
+
+Witchcourt Enforcer
+
+Corrupted Smite
+
+Opportunistic Dungeoneer
+
+Zombie Hyena
+
+Seraphine, King's Blade
+
+Undead Plundering
+
+Grog, the Creative
+
+Voyage Trough the Depths
+
+Netherwood Beast
+
+Radiant Repulse
+
+Sylvan Prayer
+
+Nina, Spore-Sheltered
+
+Song of Steel
+
+Luminous Concord Cleric
+
+Rotbound Pursuer
+
+Linnet, Depths Delver
+
+Melia, Gentle Caretaker
+
+Hagar, the Ruthless
+
+Bellis, Steward of Offerings
+
+Crystal Cave Stasis
+
+Skylore Aerie-Mage
+
+Duskscout Sprite
+
+Falling-Leaf Arcanist
+
+Incantation of Repulsion
+
+Misthall Savant
+
+Cliffward Apex
+
+Lumenhex Witch
+
+Incantation of Insight
+
+Refute
+
+Coven-Stitched Horror
+
+Arcane Murmur
+
+Elemental Incantation
+
+Desperate Spark
+
+Witch of the Ember Rose
+
+Veilwing Harpy
+
+Sphinx of New Horizons
+
+Sphinx Prayer
+
+Crustacean Curse
+
+Incantation of Duplication
+
+Spellcurrent Jellymage
+
+Arcane Smite
+
+Academy Mentor
+
+Croak-Hag Warlock
+
+Nightcap Hexer
+
+Chart a Course
+
+Frost Command
+
+Tidecall Temptress
+
+Luminous Ceremony
+
+Arcane-Called Drake
+
+Pathfinder Relic
+
+Bloodaxe Berserker
+
+Trailreading Adept
+
+Path of the Reaping
+
+Bloodmask Zealot
+
+Heir of the High Pass
+
+Curious Appraiser
+
+Ironclad Guard
+
+Scrapstick Skulker
+
+Scorching Dragonfire
+
+Crimson Petal Knight
+
+Demolition Expert
+
+Savage Interruption
+
+Rootwarden Minotaur
+
+Shielded Resolve
+
+Scaldscale Scout
+
+Luminous High Justicar
+
+Antiquity Salvager
+
+Vortex Manta
+
+Blinding Rebuff
+
+Manasiphon Witch
+
+Cult Father
+
+Hired Monster Hunter
+
+Valkor, Cult-Called Harrier
+
+Living Reliquary
+
+Restorative Current
+
+Sapphire Rift Dragon
+
+Guiding Emberlantern
+
+Skitterback Mercenary
+
+Ember Rune-Reader
+
+Ember-Rose Watcher
+
+Burning Sentence
+
+Valkor's Claim
+
+Raven's Incantation
+
+Feral Invocation
+
+Incantation of Autumn Sleep
+
+Ember Vigil
+
+Furious Smite
+
+Ursine Goblin Rider
+
+Elyndor Street Thief
+
+Cult Judge
+
+Ember Incantation
+
+Church Knight's Compass
+
+Cardshark Cultist
+
+Marksman's Instinct
+
+Verdant Acolyte
+
+Crosswood Sharpshooter
+
+Rootwake Elemental
+
+Traveling Treefolk
+
+Roots Take Hold
+
+Earthen Chant
+
+Greenpath Explorer Squad
+
+Wayfinder Relic
+
+Hightrail Surveyor
+
+Bone-Throwing Ooze
+
+Underfolk Pathrunner
+
+Bloodtrail Hounds
+
+Verdant Monarch
+
+Khar-Duun Scrapscarab
+
+Blooming Smite
+
+Challenge of the Depths
+
+Subterrane Skitterlizard
+
+Swamprowler's Trail
+
+Rootforged Golem
+
+Mycelial Dominion
+
+Wildheart Ascension
+
+Boulderaxe Minotaur
+
+Underfolk Bonecaller
+
+Old God's Wisdom
+
+Warden of Depths Enterence
+
+Oculus of the Crone
+
+Cultforged Abomination
+
+Dungeon Overseer
+
+Triune Bladefall
+
+Elderwild Behemoth
+
+Rutili,Rotbound Expeditionist
+
+Beast
+
+Map
+
+Odile, Elyndor Princess
+
+Abysswake Leviathan
+
+Crimson-Flame Summoner
+
+Thornfather Ancient
+
+Claimed by the Procession
+
+Old God's Cruelty
+
+Rite of Blood and Flame
+
+Preparations for the Descent
+
+Underworld Guide
+
+Bearer of Blessings
+
+Bloomsting Assassin
+
+Map of Carrion Grove
+
+Guild Provisions
+
+Hunter's Lantern
+
+Ordinary Scarecrow
+
+Sturdy Bow
+
+Mysterious Horseman
+
+Rat
+
+Treasure
+
+Clattercrew
+
+Odile
+
+Skeleton
+
+Luminous High Priestess
+
+Oath-Mender Paladin
+
+Idas, Ruined King
+
+Lightforged Prayer
+
+Fallen Kingdom of the Moon
+
+Fallen Kingdom of the Ancients
+
+Fallen Kingdom of the Flame
+
+Fallen Kingdom of the Sun
+
+Fallen Kingdom of the Tides
+
+Marble Ruins
+
+Overgrown Ruins
+
+Sanctified Ruins
+
+Crackling Ruins
+
+Ashen Ruins
+
+Cursed Ruins
+
+Underground Ruins
+
+Echoing Ruins
+
+Titanic Ruins
+
+Sunscorched Ruins
+
+Breach from the Depths
+
+Rhyme of Unmaking
+
+Morbid Collector
+
+Moss-Made Paladin
+
+Black Reliquary Banshee
+
+Expressive Iteration
+
+Khar-Duun Map Merchant
+
+Paladin's Resolve
+
+Carrioncaster Mage
+
+Daring Dungeon Raider
+
+Orva, Cauldron Rider
+
+Catacomb Warden
+
+The Architect
+
+Ember Smite
+
+Eternal Hunter
+
+Saint Gwen's Blessing
+
+Mirrorbrood Horror
+
+Autumn Witch
+
+False New God
+
+Coven's Offering
+
+Black Market Connections
+
+Monster Tracker's Song
+
+Khar-Duun Dragon Breeder
+rules_text: Ward {1}
+At the beginning of your end step, create a 0/1green Egg creature token with “When this creature dies, reveal cards from the top of your library until you reveal a creature card. Put it into your hand. Put the rest on the bottom of your library in random order.”
+{1}{G}: Put a +1/+1 counter on target creature you control. => At the beginning of your end step, create a 0/1green Egg creature token with “When this creature dies, reveal cards from the top of your library until you reveal a creature card. Put it into your hand. Put the rest on the bottom of your library in random order.”
+{1}{G}: Put a +1/+1 counter on target creature you control.
+
+
+type: Sorcery => 
+cost: {1}{B}{B}{G} => 
+rules_text: Destroy target nonland permanent.
+Return target permanent card from your graveyard to your hand. => 
+
+Egg
+
+Albino Dreadkite
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Graveshifter added.
