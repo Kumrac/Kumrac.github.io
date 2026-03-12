@@ -5,7 +5,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Hedgehog Scout",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/1.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Giant Golem",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/4.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}{G}",
 			"type": "Legendary Creature — Human Bard",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "210",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "230",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Human",
-			"collector_number": "228",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "231",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Harpy",
-			"collector_number": "229",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "227",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/18.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W/B}{W/B}",
 			"type": "Sorcery",
-			"collector_number": "261",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/23.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/30.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/33.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/35.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Instant",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/41.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Dwarf Scout",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight Cleric",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/46.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/47.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Planeswalker — Clattercrew",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/48.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Spirit Knight",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/52.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Fox Druid",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/53.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/54.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Zombie Wizard",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/55.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/58.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Zombie Knight Cleric",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/59.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/60.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Instant",
-			"collector_number": "241",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/61.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/62.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/63.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R/W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "232",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/65.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/B}",
 			"type": "Instant",
-			"collector_number": "239",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/66.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/69.png"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/G}",
 			"type": "Instant",
-			"collector_number": "235",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/79.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
 			"type": "Sorcery",
-			"collector_number": "240",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/85.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Troll Painter",
-			"collector_number": "211",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/102.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Sorcery",
-			"collector_number": "259",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/103.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "247",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/104.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/105.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/W}{G/W}",
 			"type": "Sorcery",
-			"collector_number": "255",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/106.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G/W}{G/W}",
 			"type": "Legendary Creature — Fungus Cleric",
-			"collector_number": "248",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/107.png"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Instant",
-			"collector_number": "254",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/108.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Creature — Dwarf Cleric",
-			"collector_number": "244",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/109.png"
 			}
@@ -1166,7 +1166,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Elf Cleric",
-			"collector_number": "3",
+			"collector_number": "2",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1303,7 +1303,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}",
 			"type": "Sorcery",
-			"collector_number": "238",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/127.png"
 			}
@@ -1313,7 +1313,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}",
 			"type": "Instant",
-			"collector_number": "237",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/128.png"
 			}
@@ -1323,7 +1323,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "260",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/129.png"
 			}
@@ -1453,7 +1453,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}",
 			"type": "Creature — Elemental Siren",
-			"collector_number": "256",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/142.png"
 			}
@@ -1593,7 +1593,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/G}{R/G}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "236",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/156.png"
 			}
@@ -1603,7 +1603,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/G}",
 			"type": "Sorcery",
-			"collector_number": "252",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/157.png"
 			}
@@ -1613,7 +1613,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R/G}{R/G}",
 			"type": "Creature — Minotaur Druid",
-			"collector_number": "250",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/158.png"
 			}
@@ -1623,7 +1623,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/U}",
 			"type": "Instant",
-			"collector_number": "253",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/159.png"
 			}
@@ -1643,7 +1643,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Creature — Human Knight Cleric",
-			"collector_number": "245",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/161.png"
 			}
@@ -1663,7 +1663,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/B}",
 			"type": "Creature — Fish",
-			"collector_number": "258",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/163.png"
 			}
@@ -1673,7 +1673,7 @@
 			"rarity": "common",
 			"mana_cost": "{U/B}",
 			"type": "Instant",
-			"collector_number": "233",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/164.png"
 			}
@@ -1683,7 +1683,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U/B}{U/B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "246",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/165.png"
 			}
@@ -1693,7 +1693,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "234",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/166.png"
 			}
@@ -1703,7 +1703,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/R}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "242",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/167.png"
 			}
@@ -1713,7 +1713,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B/R}{B/R}",
 			"type": "Legendary Creature — Demon Bird",
-			"collector_number": "257",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/168.png"
 			}
@@ -1723,7 +1723,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}",
 			"type": "Creature — Wall",
-			"collector_number": "243",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/169.png"
 			}
@@ -1733,7 +1733,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}",
 			"type": "Instant",
-			"collector_number": "249",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/170.png"
 			}
@@ -1743,7 +1743,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G/U}{G/U}",
 			"type": "Creature — Dragon",
-			"collector_number": "251",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/171.png"
 			}
@@ -1903,7 +1903,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Map",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/187.png"
 			}
@@ -1933,7 +1933,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/190.png"
 			}
@@ -1963,7 +1963,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/193.png"
 			}
@@ -2003,7 +2003,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Map",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/197.png"
 			}
@@ -2033,7 +2033,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Peasant",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/200.png"
 			}
@@ -2053,7 +2053,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Elk",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/202.png"
 			}
@@ -2133,7 +2133,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/210.png"
 			}
@@ -2153,7 +2153,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Zombie Shaman",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/212.png"
 			}
@@ -2263,7 +2263,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Legendary Planeswalker — Odile",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/223.png"
 			}
@@ -2293,7 +2293,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Elder Treefolk",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/226.png"
 			}
@@ -2303,7 +2303,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/227.png"
 			}
@@ -2311,9 +2311,9 @@
 		{
 			"name": "Old God's Cruelty",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{B}",
-			"type": "Instant",
-			"collector_number": "221",
+			"mana_cost": "{2}{U}{U}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/228.png"
 			}
@@ -2323,7 +2323,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Instant",
-			"collector_number": "226",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/229.png"
 			}
@@ -2333,7 +2333,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/230.png"
 			}
@@ -2343,7 +2343,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Zombie Horse",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/231.png"
 			}
@@ -2353,7 +2353,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/232.png"
 			}
@@ -2363,7 +2363,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Insect Plant Assassin",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/233.png"
 			}
@@ -2373,7 +2373,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Map",
-			"collector_number": "264",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/234.png"
 			}
@@ -2383,7 +2383,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "262",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/235.png"
 			}
@@ -2393,7 +2393,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "263",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/236.png"
 			}
@@ -2403,7 +2403,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "266",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/237.png"
 			}
@@ -2413,7 +2413,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "267",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/238.png"
 			}
@@ -2423,7 +2423,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Robot Knight",
-			"collector_number": "265",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/239.png"
 			}
@@ -2483,7 +2483,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "285",
+			"collector_number": "288",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/245.png"
 			}
@@ -2493,7 +2493,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/246.png"
 			}
@@ -2503,7 +2503,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "282",
+			"collector_number": "284",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/247.png"
 			}
@@ -2513,7 +2513,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "279",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/248.png"
 			}
@@ -2523,7 +2523,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "289",
+			"collector_number": "292",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/249.png"
 			}
@@ -2533,7 +2533,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "290",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/250.png"
 			}
@@ -2543,7 +2543,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/251.png"
 			}
@@ -2553,7 +2553,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "283",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/252.png"
 			}
@@ -2563,7 +2563,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "280",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/253.png"
 			}
@@ -2573,7 +2573,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "277",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/254.png"
 			}
@@ -2583,7 +2583,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Angel Cleric",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/255.png"
 			}
@@ -2593,7 +2593,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Creature — Giant Knight Cleric",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/256.png"
 			}
@@ -2613,7 +2613,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/258.png"
 			}
@@ -2623,7 +2623,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "274",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/259.png"
 			}
@@ -2633,7 +2633,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "272",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/260.png"
 			}
@@ -2643,7 +2643,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "273",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/261.png"
 			}
@@ -2653,7 +2653,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "275",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/262.png"
 			}
@@ -2663,7 +2663,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "276",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/263.png"
 			}
@@ -2673,7 +2673,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "281",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/264.png"
 			}
@@ -2683,7 +2683,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "284",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/265.png"
 			}
@@ -2693,7 +2693,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "287",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/266.png"
 			}
@@ -2703,7 +2703,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/267.png"
 			}
@@ -2713,7 +2713,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/268.png"
 			}
@@ -2723,7 +2723,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/269.png"
 			}
@@ -2733,7 +2733,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "292",
+			"collector_number": "294",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/270.png"
 			}
@@ -2743,7 +2743,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "271",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/271.png"
 			}
@@ -2753,7 +2753,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "291",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/272.png"
 			}
@@ -2763,7 +2763,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "288",
+			"collector_number": "290",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/273.png"
 			}
@@ -2773,7 +2773,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/274.png"
 			}
@@ -2783,7 +2783,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Instant",
-			"collector_number": "225",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/275.png"
 			}
@@ -2793,7 +2793,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Zombie",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/276.png"
 			}
@@ -2803,7 +2803,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Plant Knight Cleric",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/277.png"
 			}
@@ -2813,7 +2813,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/278.png"
 			}
@@ -2823,7 +2823,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/279.png"
 			}
@@ -2833,7 +2833,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Turtle Citizen",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/280.png"
 			}
@@ -2843,7 +2843,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/281.png"
 			}
@@ -2853,7 +2853,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/282.png"
 			}
@@ -2873,7 +2873,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{B}{B}",
 			"type": "Legendary Planeswalker",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/284.png"
 			}
@@ -2883,7 +2883,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{G}",
 			"type": "Creature — Giant Skeleton Golem",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/285.png"
 			}
@@ -2913,7 +2913,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}",
 			"type": "Creature — Spirit Knight",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/288.png"
 			}
@@ -2923,7 +2923,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/289.png"
 			}
@@ -2963,7 +2963,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Instant",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/293.png"
 			}
@@ -2983,7 +2983,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/295.png"
 			}
@@ -2999,13 +2999,20 @@
 			}
 		},
 		{
-			"name": "",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "1",
+			"name": "Sanctwhale of Prayer",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit Whale",
+			"collector_number": "31",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Kumrac.github.io.-/sets/VTK-files/img/297_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/297.png"
+				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/297_front.png"
 			}
 		},
 		{
@@ -3033,7 +3040,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/300.png"
 			}
@@ -3043,7 +3050,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/301.png"
 			}
@@ -3053,9 +3060,36 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/302.png"
+			}
+		},
+		{
+			"name": "Rhaz, Old God of Flame",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — God",
+			"collector_number": "226",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Kumrac.github.io.-/sets/VTK-files/img/303_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/303_front.png"
+			}
+		},
+		{
+			"name": "Tala, New Godess of Beasts",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/304.png"
 			}
 		}
 	]
@@ -3133,10 +3167,13 @@
 	2 Black Market Connections
 	1 Monster Tracker's Song
 	2 Khar-Duun Dragon Breeder
+	1 Sanctwhale of Prayer
 	2 Albino Dreadkite
 	2 Althea, Hope of Khar-Duun
 	2 Gore Omadi, Daughter of Ash
 	1 Nira, New God of Courage
+	1 Rhaz, Old God of Flame
+	1 Tala, New Godess of Beasts
 [uncommon(3)]
 	4 Blade of Regrowth
 	4 Ember Rose Pyromancer
@@ -3344,7 +3381,6 @@
 	8 Echoing Ruins
 	8 Titanic Ruins
 	8 Sunscorched Ruins
-	8 
 [common | masterpiece(1)]
 	8 Underfolk Scavenger
 	8 Belowborn Lullaby
@@ -3434,7 +3470,6 @@
 	8 Echoing Ruins
 	8 Titanic Ruins
 	8 Sunscorched Ruins
-	8 
 [foil(1)]
 	6 Blade of Regrowth
 	12 Underfolk Scavenger
@@ -3713,11 +3748,13 @@
 	2 Black Market Connections
 	1 Monster Tracker's Song
 	2 Khar-Duun Dragon Breeder
-	12 
+	1 Sanctwhale of Prayer
 	2 Albino Dreadkite
 	2 Althea, Hope of Khar-Duun
 	2 Gore Omadi, Daughter of Ash
 	1 Nira, New God of Courage
+	1 Rhaz, Old God of Flame
+	1 Tala, New Godess of Beasts
 [wildcard(1)]
 	15 Blade of Regrowth
 	6 Underfolk Scavenger
@@ -3996,8 +4033,10 @@
 	7 Black Market Connections
 	4 Monster Tracker's Song
 	7 Khar-Duun Dragon Breeder
-	6 
+	4 Sanctwhale of Prayer
 	7 Albino Dreadkite
 	7 Althea, Hope of Khar-Duun
 	7 Gore Omadi, Daughter of Ash
 	4 Nira, New God of Courage
+	4 Rhaz, Old God of Flame
+	4 Tala, New Godess of Beasts

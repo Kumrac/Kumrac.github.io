@@ -1,4 +1,27 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Sanctwhale of Prayer added.
+Rhaz, Old God of Flame added.
+Tala, New Godess of Beasts added.
+
+
+Old God's Cruelty
+type: Instant => Sorcery
+cost: {1}{U}{B} => {2}{U}{U}{B}{B}
+rules_text: Destroy target creature or planeswalker.
+It's controller mills cards equal to twice the destroyed permanents mana value. => Exile all creatures and planeswalkers, then any number of players each mill half their library, rounded down.
+
+Bloomsting Assassin
+pt: 4/3 => 4/4
+
+Gore Omadi, Daughter of Ash
+rules_text: Whenever Gore Omadi enters or attacks, you may sacrifice another creature or artifact. If you do, discard a card, then draw a card.
+Whenever another creature or artifact you control dies, target opponent loses 1 life and you gain 1 life. => Whenever Gore Omadi enters or attacks, you may sacrifice another creature or artifact. If you do, discard a card, then draw a card.
+Whenever another creature or artifact you control dies, target opponent loses 1 life.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Althea, Hope of Khar-Duun added.
