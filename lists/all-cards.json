@@ -6656,7 +6656,7 @@
             "type": "Instant",
             "number": 133,
             "color_identity": "R",
-            "cost": "{X}{R}{R}",
+            "cost": "{X}{R}",
             "rules_text": "This spell can't be countered.\nEmber Smite deals X damage to any target, this damage can't be prevented.",
             "flavor_text": "[i]The gods do not raise their voices. They do not argue. They simply decide.[/i]",
             "pt": "",

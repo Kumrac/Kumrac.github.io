@@ -2901,7 +2901,7 @@
 		{
 			"name": "Ember Smite",
 			"rarity": "rare",
-			"mana_cost": "{X}{R}{R}",
+			"mana_cost": "{X}{R}",
 			"type": "Instant",
 			"collector_number": "133",
 			"image_uris": {

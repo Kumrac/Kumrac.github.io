@@ -1,4 +1,13 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Ember Smite
+cost: {X}{R}{R} => {X}{R}
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Sanctwhale of Prayer added.

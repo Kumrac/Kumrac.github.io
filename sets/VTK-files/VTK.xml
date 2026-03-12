@@ -5091,8 +5091,8 @@ Ember Smite deals X damage to any target, this damage can&apos;t be prevented.</
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>XRR</manacost>
-				<cmc>2</cmc>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
