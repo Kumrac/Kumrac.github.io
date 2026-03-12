@@ -7,7 +7,7 @@
 			"type": "Sorcery",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/0.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Hedgehog Scout",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/1.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/1.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/2.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/2.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/3.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/3.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Giant Golem",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/4.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/4.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Knight Cleric",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/5.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/5.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Legendary Creature — Human Bard",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/6.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/6.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Sorcery",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/7.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/7.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/8.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/8.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/9.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/9.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/10.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/10.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/11.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/11.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Human",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/12.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/12.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/13.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/13.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Enchantment",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/14.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/14.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/15.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/15.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/16.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/16.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Creature — Harpy",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/17.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/17.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Sorcery",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/18.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/18.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Sorcery",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/19.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/19.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Token Legendary Creature — Demon",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/20.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/20.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Token Creature — Human Knight",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/21.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/21.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/22.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/22.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Sorcery",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/23.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/23.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Sorcery",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/24.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/24.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/25.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/25.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Instant",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/26.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/26.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Instant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/27.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/27.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Instant",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/28.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/28.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Legendary Creature — Treefolk Druid",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/29.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/29.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/30.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/30.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/31.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/31.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Instant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/32.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/32.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/33.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/33.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Enchantment",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/34.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/34.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/35.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/35.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Enchantment",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/36.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/36.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Enchantment",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/37.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/37.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Enchantment",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/38.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/38.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Enchantment",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/39.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/39.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/40.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/40.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/41.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/41.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/42.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/42.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Creature — Dwarf Scout",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/43.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/43.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/44.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/44.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Human Knight Cleric",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/45.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/45.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/46.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/46.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Sorcery",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/47.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/47.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Legendary Planeswalker — Clattercrew",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/48.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/48.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/49.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/49.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Enchantment",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/50.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/50.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Creature — Spirit Knight",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/51.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/51.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/52.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/52.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Creature — Fox Druid",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/53.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/53.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/54.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/54.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Creature — Zombie Wizard",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/55.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/55.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/56.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/56.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/57.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/57.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/58.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/58.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Creature — Zombie Knight Cleric",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/59.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/59.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Instant",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/60.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/60.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Instant",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/61.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/61.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/62.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/62.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/63.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/63.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Enchantment",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/64.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/64.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/65.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/65.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Instant",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/66.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/66.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Legendary Creature — Human Archer",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/67.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/67.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/68.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/68.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/69.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/69.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/70.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/70.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/71.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/71.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Creature — Zombie Wizard",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/72.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/72.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Instant",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/73.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/73.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Sorcery",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/74.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/74.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Creature — Harpy Warrior",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/75.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/75.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/76.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/76.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Instant",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/77.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/77.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Creature — Zombie Dragon",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/78.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/78.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Instant",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/79.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/79.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Instant",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/80.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/80.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/81.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/81.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Sorcery",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/82.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/82.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Creature — Rat",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/83.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/83.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Enchantment",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/84.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/84.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Sorcery",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/85.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/85.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Creature — Bat",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/86.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/86.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Instant",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/87.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/87.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Enchantment",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/88.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/88.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/89.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/89.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Creature — Zombie Golem",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/90.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/90.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/91.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/91.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Creature — Giant Zombie Horror",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/92.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/92.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/93.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/93.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Creature — Imp",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/94.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/94.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Artifact — Map",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/95.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/95.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Creature — Harpy Warlock",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/96.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/96.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Sorcery",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/97.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/97.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Creature — Vampire Mercenary",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/98.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/98.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Creature — Zombie Hyena",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/99.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/99.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Legendary Creature — Angel Knight",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/100.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/100.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Instant",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/101.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/101.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Legendary Creature — Troll Painter",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/102.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/102.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Sorcery",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/103.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/103.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Creature — Beast Horror",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/104.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/104.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Instant",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/105.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/105.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Sorcery",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/106.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/106.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Legendary Creature — Fungus Cleric",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/107.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/107.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Instant",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/108.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/108.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Creature — Dwarf Cleric",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/109.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/109.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Zombie Knight Cleric",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/110.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/110.png"
 			}
 		},
 		{
@@ -1120,11 +1120,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Kumrac.github.io.-/sets/VTK-files/img/111_back.png"
+					"en": "https://Kumrac.github.io/sets/VTK-files/img/111_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/111_front.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/111_front.png"
 			}
 		},
 		{
@@ -1137,11 +1137,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Kumrac.github.io.-/sets/VTK-files/img/112_back.png"
+					"en": "https://Kumrac.github.io/sets/VTK-files/img/112_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/112_front.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/112_front.png"
 			}
 		},
 		{
@@ -1154,11 +1154,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Kumrac.github.io.-/sets/VTK-files/img/113_back.png"
+					"en": "https://Kumrac.github.io/sets/VTK-files/img/113_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/113_front.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/113_front.png"
 			}
 		},
 		{
@@ -1171,11 +1171,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Kumrac.github.io.-/sets/VTK-files/img/114_back.png"
+					"en": "https://Kumrac.github.io/sets/VTK-files/img/114_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/114_front.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/114_front.png"
 			}
 		},
 		{
@@ -1185,7 +1185,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/115.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/115.png"
 			}
 		},
 		{
@@ -1195,7 +1195,7 @@
 			"type": "Creature — Bird Wizard",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/116.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/116.png"
 			}
 		},
 		{
@@ -1205,7 +1205,7 @@
 			"type": "Creature — Faerie Knight",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/117.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/117.png"
 			}
 		},
 		{
@@ -1215,7 +1215,7 @@
 			"type": "Creature — Treefolk Wizard",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/118.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/118.png"
 			}
 		},
 		{
@@ -1225,7 +1225,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/119.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/119.png"
 			}
 		},
 		{
@@ -1235,7 +1235,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/120.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/120.png"
 			}
 		},
 		{
@@ -1245,7 +1245,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/121.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/121.png"
 			}
 		},
 		{
@@ -1255,7 +1255,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/122.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/122.png"
 			}
 		},
 		{
@@ -1265,7 +1265,7 @@
 			"type": "Instant",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/123.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/123.png"
 			}
 		},
 		{
@@ -1275,7 +1275,7 @@
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/124.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/124.png"
 			}
 		},
 		{
@@ -1285,7 +1285,7 @@
 			"type": "Creature — Zombie Warlock Horror",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/125.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/125.png"
 			}
 		},
 		{
@@ -1295,7 +1295,7 @@
 			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/126.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/126.png"
 			}
 		},
 		{
@@ -1305,7 +1305,7 @@
 			"type": "Sorcery",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/127.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/127.png"
 			}
 		},
 		{
@@ -1315,7 +1315,7 @@
 			"type": "Instant",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/128.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/128.png"
 			}
 		},
 		{
@@ -1325,7 +1325,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/129.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/129.png"
 			}
 		},
 		{
@@ -1335,7 +1335,7 @@
 			"type": "Creature — Harpy Warlock",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/130.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/130.png"
 			}
 		},
 		{
@@ -1345,7 +1345,7 @@
 			"type": "Creature — Sphinx",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/131.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/131.png"
 			}
 		},
 		{
@@ -1355,7 +1355,7 @@
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/132.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/132.png"
 			}
 		},
 		{
@@ -1365,7 +1365,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/133.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/133.png"
 			}
 		},
 		{
@@ -1375,7 +1375,7 @@
 			"type": "Sorcery",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/134.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/134.png"
 			}
 		},
 		{
@@ -1385,7 +1385,7 @@
 			"type": "Creature — Jellyfish Wizard",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/135.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/135.png"
 			}
 		},
 		{
@@ -1395,7 +1395,7 @@
 			"type": "Sorcery",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/136.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/136.png"
 			}
 		},
 		{
@@ -1405,7 +1405,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/137.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/137.png"
 			}
 		},
 		{
@@ -1415,7 +1415,7 @@
 			"type": "Creature — Frog Warlock",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/138.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/138.png"
 			}
 		},
 		{
@@ -1425,7 +1425,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/139.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/139.png"
 			}
 		},
 		{
@@ -1435,7 +1435,7 @@
 			"type": "Sorcery",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/140.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/140.png"
 			}
 		},
 		{
@@ -1445,7 +1445,7 @@
 			"type": "Instant",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/141.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/141.png"
 			}
 		},
 		{
@@ -1455,7 +1455,7 @@
 			"type": "Creature — Elemental Siren",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/142.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/142.png"
 			}
 		},
 		{
@@ -1465,7 +1465,7 @@
 			"type": "Instant",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/143.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/143.png"
 			}
 		},
 		{
@@ -1475,7 +1475,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/144.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/144.png"
 			}
 		},
 		{
@@ -1485,7 +1485,7 @@
 			"type": "Artifact — Map",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/145.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/145.png"
 			}
 		},
 		{
@@ -1495,7 +1495,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/146.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/146.png"
 			}
 		},
 		{
@@ -1505,7 +1505,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/147.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/147.png"
 			}
 		},
 		{
@@ -1515,7 +1515,7 @@
 			"type": "Instant",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/148.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/148.png"
 			}
 		},
 		{
@@ -1525,7 +1525,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/149.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/149.png"
 			}
 		},
 		{
@@ -1535,7 +1535,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/150.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/150.png"
 			}
 		},
 		{
@@ -1545,7 +1545,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/151.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/151.png"
 			}
 		},
 		{
@@ -1555,7 +1555,7 @@
 			"type": "Creature — Dwarf Warrior",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/152.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/152.png"
 			}
 		},
 		{
@@ -1565,7 +1565,7 @@
 			"type": "Creature — Goblin",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/153.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/153.png"
 			}
 		},
 		{
@@ -1575,7 +1575,7 @@
 			"type": "Instant",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/154.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/154.png"
 			}
 		},
 		{
@@ -1585,7 +1585,7 @@
 			"type": "Creature — Plant Knight",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/155.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/155.png"
 			}
 		},
 		{
@@ -1595,7 +1595,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/156.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/156.png"
 			}
 		},
 		{
@@ -1605,7 +1605,7 @@
 			"type": "Sorcery",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/157.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/157.png"
 			}
 		},
 		{
@@ -1615,7 +1615,7 @@
 			"type": "Creature — Minotaur Druid",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/158.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/158.png"
 			}
 		},
 		{
@@ -1625,7 +1625,7 @@
 			"type": "Instant",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/159.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/159.png"
 			}
 		},
 		{
@@ -1635,7 +1635,7 @@
 			"type": "Creature — Salamander Scout",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/160.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/160.png"
 			}
 		},
 		{
@@ -1645,7 +1645,7 @@
 			"type": "Creature — Human Knight Cleric",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/161.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/161.png"
 			}
 		},
 		{
@@ -1655,7 +1655,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/162.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/162.png"
 			}
 		},
 		{
@@ -1665,7 +1665,7 @@
 			"type": "Creature — Fish",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/163.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/163.png"
 			}
 		},
 		{
@@ -1675,7 +1675,7 @@
 			"type": "Instant",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/164.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/164.png"
 			}
 		},
 		{
@@ -1685,7 +1685,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/165.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/165.png"
 			}
 		},
 		{
@@ -1695,7 +1695,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/166.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/166.png"
 			}
 		},
 		{
@@ -1705,7 +1705,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/167.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/167.png"
 			}
 		},
 		{
@@ -1715,7 +1715,7 @@
 			"type": "Legendary Creature — Demon Bird",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/168.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/168.png"
 			}
 		},
 		{
@@ -1725,7 +1725,7 @@
 			"type": "Creature — Wall",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/169.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/169.png"
 			}
 		},
 		{
@@ -1735,7 +1735,7 @@
 			"type": "Instant",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/170.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/170.png"
 			}
 		},
 		{
@@ -1745,7 +1745,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/171.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/171.png"
 			}
 		},
 		{
@@ -1755,7 +1755,7 @@
 			"type": "Artifact — Map",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/172.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/172.png"
 			}
 		},
 		{
@@ -1765,7 +1765,7 @@
 			"type": "Creature — Goblin Mercenary",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/173.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/173.png"
 			}
 		},
 		{
@@ -1775,7 +1775,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/174.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/174.png"
 			}
 		},
 		{
@@ -1785,7 +1785,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/175.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/175.png"
 			}
 		},
 		{
@@ -1795,7 +1795,7 @@
 			"type": "Instant",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/176.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/176.png"
 			}
 		},
 		{
@@ -1805,7 +1805,7 @@
 			"type": "Sorcery",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/177.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/177.png"
 			}
 		},
 		{
@@ -1815,7 +1815,7 @@
 			"type": "Instant",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/178.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/178.png"
 			}
 		},
 		{
@@ -1825,7 +1825,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/179.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/179.png"
 			}
 		},
 		{
@@ -1835,7 +1835,7 @@
 			"type": "Sorcery",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/180.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/180.png"
 			}
 		},
 		{
@@ -1845,7 +1845,7 @@
 			"type": "Enchantment",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/181.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/181.png"
 			}
 		},
 		{
@@ -1855,7 +1855,7 @@
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/182.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/182.png"
 			}
 		},
 		{
@@ -1865,7 +1865,7 @@
 			"type": "Creature — Goblin Warrior",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/183.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/183.png"
 			}
 		},
 		{
@@ -1875,7 +1875,7 @@
 			"type": "Creature — Goblin Rogue",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/184.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/184.png"
 			}
 		},
 		{
@@ -1885,7 +1885,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/185.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/185.png"
 			}
 		},
 		{
@@ -1895,7 +1895,7 @@
 			"type": "Instant",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/186.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/186.png"
 			}
 		},
 		{
@@ -1905,7 +1905,7 @@
 			"type": "Artifact — Map",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/187.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/187.png"
 			}
 		},
 		{
@@ -1915,7 +1915,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/188.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/188.png"
 			}
 		},
 		{
@@ -1925,7 +1925,7 @@
 			"type": "Instant",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/189.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/189.png"
 			}
 		},
 		{
@@ -1935,7 +1935,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/190.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/190.png"
 			}
 		},
 		{
@@ -1945,7 +1945,7 @@
 			"type": "Creature — Human Archer",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/191.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/191.png"
 			}
 		},
 		{
@@ -1955,7 +1955,7 @@
 			"type": "Creature — Plant Elemental",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/192.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/192.png"
 			}
 		},
 		{
@@ -1965,7 +1965,7 @@
 			"type": "Creature — Treefolk",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/193.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/193.png"
 			}
 		},
 		{
@@ -1975,7 +1975,7 @@
 			"type": "Sorcery",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/194.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/194.png"
 			}
 		},
 		{
@@ -1985,7 +1985,7 @@
 			"type": "Instant",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/195.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/195.png"
 			}
 		},
 		{
@@ -1995,7 +1995,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/196.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/196.png"
 			}
 		},
 		{
@@ -2005,7 +2005,7 @@
 			"type": "Artifact — Map",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/197.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/197.png"
 			}
 		},
 		{
@@ -2015,7 +2015,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/198.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/198.png"
 			}
 		},
 		{
@@ -2025,7 +2025,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/199.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/199.png"
 			}
 		},
 		{
@@ -2035,7 +2035,7 @@
 			"type": "Creature — Human Peasant",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/200.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/200.png"
 			}
 		},
 		{
@@ -2045,7 +2045,7 @@
 			"type": "Creature — Dog",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/201.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/201.png"
 			}
 		},
 		{
@@ -2055,7 +2055,7 @@
 			"type": "Creature — Elk",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/202.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/202.png"
 			}
 		},
 		{
@@ -2065,7 +2065,7 @@
 			"type": "Creature — Zombie Insect",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/203.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/203.png"
 			}
 		},
 		{
@@ -2075,7 +2075,7 @@
 			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/204.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/204.png"
 			}
 		},
 		{
@@ -2085,7 +2085,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/205.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/205.png"
 			}
 		},
 		{
@@ -2095,7 +2095,7 @@
 			"type": "Creature — Lizard",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/206.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/206.png"
 			}
 		},
 		{
@@ -2105,7 +2105,7 @@
 			"type": "Enchantment",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/207.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/207.png"
 			}
 		},
 		{
@@ -2115,7 +2115,7 @@
 			"type": "Creature — Treefolk Golem",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/208.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/208.png"
 			}
 		},
 		{
@@ -2125,7 +2125,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/209.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/209.png"
 			}
 		},
 		{
@@ -2135,7 +2135,7 @@
 			"type": "Instant",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/210.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/210.png"
 			}
 		},
 		{
@@ -2145,7 +2145,7 @@
 			"type": "Creature — Minotaur",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/211.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/211.png"
 			}
 		},
 		{
@@ -2155,7 +2155,7 @@
 			"type": "Creature — Zombie Shaman",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/212.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/212.png"
 			}
 		},
 		{
@@ -2165,7 +2165,7 @@
 			"type": "Instant",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/213.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/213.png"
 			}
 		},
 		{
@@ -2175,7 +2175,7 @@
 			"type": "Creature — Zombie Sphinx",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/214.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/214.png"
 			}
 		},
 		{
@@ -2185,7 +2185,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/215.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/215.png"
 			}
 		},
 		{
@@ -2195,7 +2195,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/216.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/216.png"
 			}
 		},
 		{
@@ -2205,7 +2205,7 @@
 			"type": "Creature — Zombie Wizard",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/217.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/217.png"
 			}
 		},
 		{
@@ -2215,7 +2215,7 @@
 			"type": "Sorcery",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/218.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/218.png"
 			}
 		},
 		{
@@ -2225,7 +2225,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/219.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/219.png"
 			}
 		},
 		{
@@ -2235,7 +2235,7 @@
 			"type": "Legendary Creature — Spirit Knight Cleric",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/220.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/220.png"
 			}
 		},
 		{
@@ -2245,7 +2245,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/221.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/221.png"
 			}
 		},
 		{
@@ -2255,7 +2255,7 @@
 			"type": "Token Artifact — Map",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/222.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/222.png"
 			}
 		},
 		{
@@ -2265,7 +2265,7 @@
 			"type": "Legendary Planeswalker — Odile",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/223.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/223.png"
 			}
 		},
 		{
@@ -2275,7 +2275,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/224.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/224.png"
 			}
 		},
 		{
@@ -2285,7 +2285,7 @@
 			"type": "Creature — Devil Wizard",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/225.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/225.png"
 			}
 		},
 		{
@@ -2295,7 +2295,7 @@
 			"type": "Creature — Elder Treefolk",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/226.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/226.png"
 			}
 		},
 		{
@@ -2305,7 +2305,7 @@
 			"type": "Instant",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/227.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/227.png"
 			}
 		},
 		{
@@ -2315,7 +2315,7 @@
 			"type": "Sorcery",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/228.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/228.png"
 			}
 		},
 		{
@@ -2325,7 +2325,7 @@
 			"type": "Instant",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/229.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/229.png"
 			}
 		},
 		{
@@ -2335,7 +2335,7 @@
 			"type": "Enchantment",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/230.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/230.png"
 			}
 		},
 		{
@@ -2345,7 +2345,7 @@
 			"type": "Creature — Zombie Horse",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/231.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/231.png"
 			}
 		},
 		{
@@ -2355,7 +2355,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/232.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/232.png"
 			}
 		},
 		{
@@ -2365,7 +2365,7 @@
 			"type": "Creature — Insect Plant Assassin",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/233.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/233.png"
 			}
 		},
 		{
@@ -2375,7 +2375,7 @@
 			"type": "Artifact — Map",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/234.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/234.png"
 			}
 		},
 		{
@@ -2385,7 +2385,7 @@
 			"type": "Artifact",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/235.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/235.png"
 			}
 		},
 		{
@@ -2395,7 +2395,7 @@
 			"type": "Artifact",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/236.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/236.png"
 			}
 		},
 		{
@@ -2405,7 +2405,7 @@
 			"type": "Artifact",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/237.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/237.png"
 			}
 		},
 		{
@@ -2415,7 +2415,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/238.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/238.png"
 			}
 		},
 		{
@@ -2425,7 +2425,7 @@
 			"type": "Artifact Creature — Robot Knight",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/239.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/239.png"
 			}
 		},
 		{
@@ -2435,7 +2435,7 @@
 			"type": "Token Creature — Rat",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/240.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/240.png"
 			}
 		},
 		{
@@ -2445,7 +2445,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/241.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/241.png"
 			}
 		},
 		{
@@ -2455,7 +2455,7 @@
 			"type": "Emblem",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/242.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/242.png"
 			}
 		},
 		{
@@ -2465,7 +2465,7 @@
 			"type": "Emblem",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/243.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/243.png"
 			}
 		},
 		{
@@ -2475,7 +2475,7 @@
 			"type": "Token Creature — Skeleton",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/244.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/244.png"
 			}
 		},
 		{
@@ -2485,7 +2485,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/245.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/245.png"
 			}
 		},
 		{
@@ -2495,7 +2495,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/246.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/246.png"
 			}
 		},
 		{
@@ -2505,7 +2505,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/247.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/247.png"
 			}
 		},
 		{
@@ -2515,7 +2515,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/248.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/248.png"
 			}
 		},
 		{
@@ -2525,7 +2525,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/249.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/249.png"
 			}
 		},
 		{
@@ -2535,7 +2535,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/250.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/250.png"
 			}
 		},
 		{
@@ -2545,7 +2545,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/251.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/251.png"
 			}
 		},
 		{
@@ -2555,7 +2555,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/252.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/252.png"
 			}
 		},
 		{
@@ -2565,7 +2565,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/253.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/253.png"
 			}
 		},
 		{
@@ -2575,7 +2575,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/254.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/254.png"
 			}
 		},
 		{
@@ -2585,7 +2585,7 @@
 			"type": "Creature — Angel Cleric",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/255.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/255.png"
 			}
 		},
 		{
@@ -2595,7 +2595,7 @@
 			"type": "Creature — Giant Knight Cleric",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/256.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/256.png"
 			}
 		},
 		{
@@ -2605,7 +2605,7 @@
 			"type": "Legendary Creature — Demon Noble",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/257.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/257.png"
 			}
 		},
 		{
@@ -2615,7 +2615,7 @@
 			"type": "Instant",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/258.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/258.png"
 			}
 		},
 		{
@@ -2625,7 +2625,7 @@
 			"type": "Land — Swamp",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/259.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/259.png"
 			}
 		},
 		{
@@ -2635,7 +2635,7 @@
 			"type": "Land — Forest",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/260.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/260.png"
 			}
 		},
 		{
@@ -2645,7 +2645,7 @@
 			"type": "Land — Mountain",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/261.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/261.png"
 			}
 		},
 		{
@@ -2655,7 +2655,7 @@
 			"type": "Land — Plains",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/262.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/262.png"
 			}
 		},
 		{
@@ -2665,7 +2665,7 @@
 			"type": "Land — Island",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/263.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/263.png"
 			}
 		},
 		{
@@ -2675,7 +2675,7 @@
 			"type": "Land",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/264.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/264.png"
 			}
 		},
 		{
@@ -2685,7 +2685,7 @@
 			"type": "Land",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/265.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/265.png"
 			}
 		},
 		{
@@ -2695,7 +2695,7 @@
 			"type": "Land",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/266.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/266.png"
 			}
 		},
 		{
@@ -2705,7 +2705,7 @@
 			"type": "Land",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/267.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/267.png"
 			}
 		},
 		{
@@ -2715,7 +2715,7 @@
 			"type": "Land",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/268.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/268.png"
 			}
 		},
 		{
@@ -2725,7 +2725,7 @@
 			"type": "Land",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/269.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/269.png"
 			}
 		},
 		{
@@ -2735,7 +2735,7 @@
 			"type": "Land",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/270.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/270.png"
 			}
 		},
 		{
@@ -2745,7 +2745,7 @@
 			"type": "Land",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/271.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/271.png"
 			}
 		},
 		{
@@ -2755,7 +2755,7 @@
 			"type": "Land",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/272.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/272.png"
 			}
 		},
 		{
@@ -2765,7 +2765,7 @@
 			"type": "Land",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/273.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/273.png"
 			}
 		},
 		{
@@ -2775,7 +2775,7 @@
 			"type": "Enchantment",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/274.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/274.png"
 			}
 		},
 		{
@@ -2785,7 +2785,7 @@
 			"type": "Instant",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/275.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/275.png"
 			}
 		},
 		{
@@ -2795,7 +2795,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/276.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/276.png"
 			}
 		},
 		{
@@ -2805,7 +2805,7 @@
 			"type": "Creature — Plant Knight Cleric",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/277.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/277.png"
 			}
 		},
 		{
@@ -2815,7 +2815,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/278.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/278.png"
 			}
 		},
 		{
@@ -2825,7 +2825,7 @@
 			"type": "Sorcery",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/279.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/279.png"
 			}
 		},
 		{
@@ -2835,7 +2835,7 @@
 			"type": "Creature — Turtle Citizen",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/280.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/280.png"
 			}
 		},
 		{
@@ -2845,7 +2845,7 @@
 			"type": "Instant",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/281.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/281.png"
 			}
 		},
 		{
@@ -2855,7 +2855,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/282.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/282.png"
 			}
 		},
 		{
@@ -2865,7 +2865,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/283.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/283.png"
 			}
 		},
 		{
@@ -2875,7 +2875,7 @@
 			"type": "Legendary Planeswalker",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/284.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/284.png"
 			}
 		},
 		{
@@ -2885,7 +2885,7 @@
 			"type": "Creature — Giant Skeleton Golem",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/285.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/285.png"
 			}
 		},
 		{
@@ -2895,7 +2895,7 @@
 			"type": "Creature — Horror Artificer",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/286.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/286.png"
 			}
 		},
 		{
@@ -2905,7 +2905,7 @@
 			"type": "Instant",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/287.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/287.png"
 			}
 		},
 		{
@@ -2915,7 +2915,7 @@
 			"type": "Creature — Spirit Knight",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/288.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/288.png"
 			}
 		},
 		{
@@ -2925,7 +2925,7 @@
 			"type": "Sorcery",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/289.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/289.png"
 			}
 		},
 		{
@@ -2935,7 +2935,7 @@
 			"type": "Creature — Drake Horror",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/290.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/290.png"
 			}
 		},
 		{
@@ -2945,7 +2945,7 @@
 			"type": "Creature — Horror Warlock",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/291.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/291.png"
 			}
 		},
 		{
@@ -2955,7 +2955,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/292.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/292.png"
 			}
 		},
 		{
@@ -2965,7 +2965,7 @@
 			"type": "Instant",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/293.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/293.png"
 			}
 		},
 		{
@@ -2975,7 +2975,7 @@
 			"type": "Enchantment",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/294.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/294.png"
 			}
 		},
 		{
@@ -2985,7 +2985,7 @@
 			"type": "Sorcery",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/295.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/295.png"
 			}
 		},
 		{
@@ -2995,7 +2995,7 @@
 			"type": "Creature — Dwarf Druid",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/296.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/296.png"
 			}
 		},
 		{
@@ -3008,11 +3008,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Kumrac.github.io.-/sets/VTK-files/img/297_back.png"
+					"en": "https://Kumrac.github.io/sets/VTK-files/img/297_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/297_front.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/297_front.png"
 			}
 		},
 		{
@@ -3022,7 +3022,7 @@
 			"type": "Token Creature — Egg",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/298.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/298.png"
 			}
 		},
 		{
@@ -3032,7 +3032,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/299.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/299.png"
 			}
 		},
 		{
@@ -3042,7 +3042,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/300.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/300.png"
 			}
 		},
 		{
@@ -3052,7 +3052,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/301.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/301.png"
 			}
 		},
 		{
@@ -3062,7 +3062,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/302.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/302.png"
 			}
 		},
 		{
@@ -3075,11 +3075,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Kumrac.github.io.-/sets/VTK-files/img/303_back.png"
+					"en": "https://Kumrac.github.io/sets/VTK-files/img/303_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/303_front.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/303_front.png"
 			}
 		},
 		{
@@ -3089,7 +3089,7 @@
 			"type": "Legendary Creature — God",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Kumrac.github.io.-/sets/VTK-files/img/304.png"
+				"en": "https://Kumrac.github.io/sets/VTK-files/img/304.png"
 			}
 		}
 	]
