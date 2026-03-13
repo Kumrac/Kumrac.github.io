@@ -1,4 +1,32 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Witchcourt's Highest Seat added.
+Eclipsed Tormentor added.
+Agony added.
+Rotbound Awakener added.
+Ritual Flute added.
+
+
+Old God's Cruelty
+type: Sorcery => Instant
+cost: {2}{U}{U}{B}{B} => {2}{U}{B}
+rules_text: Exile all creatures and planeswalkers, then any number of players each mill half their library, rounded down. => Counter target spell. You may cast a creature, instant, sorcery, or planeswalker spell from your graveyard with mana value less than or equal to that spell's mana value by paying life equal to it's mana value instead of paying its mana cost.
+
+Orva, Cauldron Rider
+rules_text: If an instant or sorcery card would be put into your graveyard from your hand or library, exile it instead and put a Hex counter on it.
+[+1]: Draw two cards, then discard a card.
+[-2]: You may cast a copy of an instant or sorcery card with mana value 3 or less from among cards in exile with Hex counters on them. => If an instant or sorcery card would be put into your graveyard from your hand or library, exile it instead and put a hex counter on it.
+[+1]: Draw two cards, then discard a card.
+[-2]: You may cast a copy of an instant or sorcery card with mana value 3 or less from among cards in exile with hex counters on them.
+special_text: If an instant or sorcery card would be put into your graveyard from your hand or library, exile it instead and put a Hex counter on it.
+[+1]: Draw two cards, then discard a card.
+[-2]: You may cast a copy of an instant or sorcery card with mana value 3 or less from among cards in exile with Hex counters on them. => If an instant or sorcery card would be put into your graveyard from your hand or library, exile it instead and put a hex counter on it.
+[+1]: Draw two cards, then discard a card.
+[-2]: You may cast a copy of an instant or sorcery card with mana value 3 or less from among cards in exile with hex counters on them.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 

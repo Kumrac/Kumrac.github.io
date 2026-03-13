@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Idas, Ruined King",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Crimson-Flame Summoner",
-        "number": 125,
+        "number": 127,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Tala, New Godess of Beasts",
-        "number": 181,
+        "number": 184,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -48,32 +48,32 @@
         "position": "297"
     },
     {
-        "card_name": "Autumn Witch",
-        "number": 45,
+        "card_name": "Witchcourt's Highest Seat",
+        "number": 78,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "291"
+        "position": "305"
     },
     {
         "card_name": "Seraphine, King's Blade",
-        "number": 107,
+        "number": 109,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "100"
     },
     {
-        "card_name": "Albino Dreadkite",
-        "number": 116,
+        "card_name": "Eclipsed Tormentor",
+        "number": 132,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "299"
+        "position": "306"
     },
     {
         "card_name": "Thornfather Ancient",
-        "number": 182,
+        "number": 185,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -88,32 +88,32 @@
         "position": "114"
     },
     {
-        "card_name": "Linnet, Depths Delver",
-        "number": 59,
-        "shape": "transform double faced",
+        "card_name": "Autumn Witch",
+        "number": 45,
+        "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "111"
+        "position": "291"
     },
     {
         "card_name": "Black Market Connections",
-        "number": 80,
+        "number": 81,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "294"
     },
     {
-        "card_name": "Antiquity Salvager",
-        "number": 117,
+        "card_name": "Albino Dreadkite",
+        "number": 118,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "162"
+        "position": "299"
     },
     {
         "card_name": "Drvog, Hero's Guide",
-        "number": 163,
+        "number": 166,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -128,32 +128,32 @@
         "position": "59"
     },
     {
-        "card_name": "Lunapollen Dancer",
-        "number": 62,
-        "shape": "normal",
+        "card_name": "Linnet, Depths Delver",
+        "number": 59,
+        "shape": "transform double faced",
         "set": "VTK",
         "rotated": false,
-        "position": "68"
+        "position": "111"
     },
     {
         "card_name": "Consulting the Patron",
-        "number": 83,
+        "number": 84,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "82"
     },
     {
-        "card_name": "The Architect",
-        "number": 118,
+        "card_name": "Antiquity Salvager",
+        "number": 119,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "286"
+        "position": "162"
     },
     {
         "card_name": "Elderwild Behemoth",
-        "number": 165,
+        "number": 168,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -168,32 +168,32 @@
         "position": "288"
     },
     {
-        "card_name": "Mirrorbrood Horror",
-        "number": 63,
+        "card_name": "Lunapollen Dancer",
+        "number": 62,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "290"
+        "position": "68"
     },
     {
         "card_name": "Cultforged Abomination",
-        "number": 86,
+        "number": 87,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "216"
     },
     {
-        "card_name": "Daring Dungeon Raider",
-        "number": 128,
+        "card_name": "The Architect",
+        "number": 120,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "283"
+        "position": "286"
     },
     {
         "card_name": "Khar-Duun Dragon Breeder",
-        "number": 168,
+        "number": 171,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -208,32 +208,32 @@
         "position": "69"
     },
     {
-        "card_name": "Oculus of the Crone",
-        "number": 66,
+        "card_name": "Mirrorbrood Horror",
+        "number": 63,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "215"
+        "position": "290"
     },
     {
         "card_name": "Dungeon Overseer",
-        "number": 89,
+        "number": 90,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "217"
     },
     {
-        "card_name": "Ember Smite",
-        "number": 133,
+        "card_name": "Daring Dungeon Raider",
+        "number": 130,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "287"
+        "position": "283"
     },
     {
         "card_name": "Melia, Gentle Caretaker",
-        "number": 171,
+        "number": 174,
         "shape": "transform double faced",
         "set": "VTK",
         "rotated": false,
@@ -248,32 +248,32 @@
         "position": "289"
     },
     {
-        "card_name": "Old God's Wisdom",
-        "number": 67,
+        "card_name": "Oculus of the Crone",
+        "number": 66,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "213"
+        "position": "215"
     },
     {
         "card_name": "False New God",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "292"
     },
     {
-        "card_name": "Hagar, the Ruthless",
-        "number": 139,
-        "shape": "transform double faced",
+        "card_name": "Ember Smite",
+        "number": 136,
+        "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "113"
+        "position": "287"
     },
     {
         "card_name": "Rutili,Rotbound Expeditionist",
-        "number": 177,
+        "number": 180,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -288,32 +288,32 @@
         "position": "34"
     },
     {
-        "card_name": "Siege on the North Front",
-        "number": 71,
+        "card_name": "Old God's Wisdom",
+        "number": 67,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "36"
+        "position": "213"
     },
     {
         "card_name": "March of the Rat-Piper",
-        "number": 100,
+        "number": 101,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "88"
     },
     {
-        "card_name": "Siege on the East Front",
-        "number": 148,
-        "shape": "normal",
+        "card_name": "Hagar, the Ruthless",
+        "number": 142,
+        "shape": "transform double faced",
         "set": "VTK",
         "rotated": false,
-        "position": "38"
+        "position": "113"
     },
     {
         "card_name": "Siege on the West Front",
-        "number": 178,
+        "number": 181,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -328,32 +328,32 @@
         "position": "64"
     },
     {
-        "card_name": "Warden of Depths Enterence",
-        "number": 77,
+        "card_name": "Siege on the North Front",
+        "number": 71,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "214"
+        "position": "36"
     },
     {
         "card_name": "Rotbound Pursuer",
-        "number": 106,
+        "number": 108,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "110"
     },
     {
-        "card_name": "Triune Bladefall",
+        "card_name": "Siege on the East Front",
         "number": 151,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "218"
+        "position": "38"
     },
     {
         "card_name": "Tomb Titan",
-        "number": 183,
+        "number": 186,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -368,32 +368,32 @@
         "position": "67"
     },
     {
-        "card_name": "Academy Mentor",
-        "number": 41,
+        "card_name": "Warden of Depths Enterence",
+        "number": 77,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "137"
+        "position": "214"
     },
     {
         "card_name": "Siege on the South Front",
-        "number": 108,
+        "number": 110,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "37"
     },
     {
-        "card_name": "Burning Sentence",
-        "number": 122,
+        "card_name": "Triune Bladefall",
+        "number": 154,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "176"
+        "position": "218"
     },
     {
         "card_name": "Underworld Guide",
-        "number": 188,
+        "number": 191,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -408,32 +408,32 @@
         "position": "33"
     },
     {
-        "card_name": "Arcane Smite",
-        "number": 43,
+        "card_name": "Academy Mentor",
+        "number": 41,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "136"
+        "position": "137"
     },
     {
         "card_name": "Black Reliquary Oracle",
-        "number": 81,
+        "number": 82,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "93"
     },
     {
-        "card_name": "Cardshark Cultist",
-        "number": 123,
+        "card_name": "Burning Sentence",
+        "number": 124,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "188"
+        "position": "176"
     },
     {
         "card_name": "Bloodtrail Hounds",
-        "number": 156,
+        "number": 159,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -448,32 +448,32 @@
         "position": "187"
     },
     {
-        "card_name": "Arcane-Called Drake",
-        "number": 44,
+        "card_name": "Arcane Smite",
+        "number": 43,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "144"
+        "position": "136"
     },
     {
         "card_name": "Corrupted Smite",
-        "number": 84,
+        "number": 85,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "97"
     },
     {
-        "card_name": "Cult Judge",
-        "number": 126,
+        "card_name": "Cardshark Cultist",
+        "number": 125,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "185"
+        "position": "188"
     },
     {
         "card_name": "Blooming Smite",
-        "number": 157,
+        "number": 160,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -488,32 +488,32 @@
         "position": "55"
     },
     {
-        "card_name": "Chart a Course",
-        "number": 46,
+        "card_name": "Arcane-Called Drake",
+        "number": 44,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "140"
+        "position": "144"
     },
     {
         "card_name": "Cursed Dunegon Scroll",
-        "number": 87,
+        "number": 88,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "95"
     },
     {
-        "card_name": "Elyndor Street Thief",
-        "number": 130,
+        "card_name": "Cult Judge",
+        "number": 128,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "184"
+        "position": "185"
     },
     {
         "card_name": "Bone-Throwing Ooze",
-        "number": 158,
+        "number": 161,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -528,32 +528,32 @@
         "position": "30"
     },
     {
-        "card_name": "Croak-Hag Warlock",
-        "number": 49,
+        "card_name": "Chart a Course",
+        "number": 46,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "138"
+        "position": "140"
     },
     {
         "card_name": "Enraged Bat",
-        "number": 90,
+        "number": 91,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "86"
     },
     {
-        "card_name": "Ember Incantation",
-        "number": 131,
+        "card_name": "Elyndor Street Thief",
+        "number": 133,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "186"
+        "position": "184"
     },
     {
         "card_name": "Boulderaxe Minotaur",
-        "number": 159,
+        "number": 162,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -568,32 +568,32 @@
         "position": "53"
     },
     {
-        "card_name": "Crustacean Curse",
-        "number": 50,
+        "card_name": "Croak-Hag Warlock",
+        "number": 49,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "133"
+        "position": "138"
     },
     {
         "card_name": "Fatal Encounter",
-        "number": 93,
+        "number": 94,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "28"
     },
     {
-        "card_name": "Ember Rune-Reader",
-        "number": 132,
+        "card_name": "Ember Incantation",
+        "number": 134,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "174"
+        "position": "186"
     },
     {
         "card_name": "Challenge of the Depths",
-        "number": 160,
+        "number": 163,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -608,32 +608,32 @@
         "position": "51"
     },
     {
-        "card_name": "Frost Command",
-        "number": 55,
+        "card_name": "Crustacean Curse",
+        "number": 50,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "141"
+        "position": "133"
     },
     {
         "card_name": "Graveshifter",
-        "number": 96,
+        "number": 97,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "91"
     },
     {
-        "card_name": "Ember Vigil",
-        "number": 134,
+        "card_name": "Ember Rune-Reader",
+        "number": 135,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "181"
+        "position": "174"
     },
     {
         "card_name": "Hightrail Surveyor",
-        "number": 167,
+        "number": 170,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -648,32 +648,32 @@
         "position": "58"
     },
     {
-        "card_name": "Incantation of Duplication",
-        "number": 56,
+        "card_name": "Frost Command",
+        "number": 55,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "134"
+        "position": "141"
     },
     {
         "card_name": "Graveyard Golem",
-        "number": 97,
+        "number": 98,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "90"
     },
     {
-        "card_name": "Ember-Rose Watcher",
-        "number": 135,
+        "card_name": "Ember Vigil",
+        "number": 137,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "175"
+        "position": "181"
     },
     {
         "card_name": "Khar-Duun Scrapscarab",
-        "number": 169,
+        "number": 172,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -688,32 +688,32 @@
         "position": "62"
     },
     {
-        "card_name": "Luminous Ceremony",
-        "number": 61,
+        "card_name": "Incantation of Duplication",
+        "number": 56,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "143"
+        "position": "134"
     },
     {
         "card_name": "Litany of the Faithful Dead",
-        "number": 99,
+        "number": 100,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "84"
     },
     {
-        "card_name": "Feral Invocation",
-        "number": 136,
+        "card_name": "Ember-Rose Watcher",
+        "number": 138,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "179"
+        "position": "175"
     },
     {
         "card_name": "Mycelial Dominion",
-        "number": 172,
+        "number": 175,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -728,32 +728,32 @@
         "position": "52"
     },
     {
-        "card_name": "Nightcap Hexer",
-        "number": 65,
+        "card_name": "Luminous Ceremony",
+        "number": 61,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "139"
+        "position": "143"
     },
     {
         "card_name": "Opportunistic Dungeoneer",
-        "number": 101,
+        "number": 102,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "98"
     },
     {
-        "card_name": "Furious Smite",
-        "number": 137,
+        "card_name": "Feral Invocation",
+        "number": 139,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "182"
+        "position": "179"
     },
     {
         "card_name": "Rootforged Golem",
-        "number": 173,
+        "number": 176,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -768,32 +768,32 @@
         "position": "60"
     },
     {
-        "card_name": "Pathfinder Relic",
-        "number": 68,
+        "card_name": "Nightcap Hexer",
+        "number": 65,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "145"
+        "position": "139"
     },
     {
         "card_name": "Pitborn Imps",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "94"
     },
     {
-        "card_name": "Guiding Emberlantern",
-        "number": 138,
+        "card_name": "Furious Smite",
+        "number": 140,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "172"
+        "position": "182"
     },
     {
         "card_name": "Subterrane Skitterlizard",
-        "number": 179,
+        "number": 182,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -808,32 +808,32 @@
         "position": "105"
     },
     {
-        "card_name": "Scaldscale Scout",
-        "number": 70,
+        "card_name": "Pathfinder Relic",
+        "number": 68,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "160"
+        "position": "145"
     },
     {
         "card_name": "Rat Hurl",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "87"
     },
     {
-        "card_name": "Incantation of Autumn Sleep",
+        "card_name": "Guiding Emberlantern",
         "number": 141,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "180"
+        "position": "172"
     },
     {
         "card_name": "Swamprowler's Trail",
-        "number": 180,
+        "number": 183,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -848,32 +848,32 @@
         "position": "54"
     },
     {
-        "card_name": "Spellcurrent Jellymage",
-        "number": 73,
+        "card_name": "Scaldscale Scout",
+        "number": 70,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "135"
+        "position": "160"
     },
     {
         "card_name": "Undead Plundering",
-        "number": 110,
+        "number": 112,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "101"
     },
     {
-        "card_name": "Raven's Incantation",
-        "number": 145,
+        "card_name": "Incantation of Autumn Sleep",
+        "number": 144,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "178"
+        "position": "180"
     },
     {
         "card_name": "Underfolk Bonecaller",
-        "number": 185,
+        "number": 188,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -888,32 +888,32 @@
         "position": "57"
     },
     {
-        "card_name": "Sphinx of New Horizons",
-        "number": 74,
+        "card_name": "Spellcurrent Jellymage",
+        "number": 73,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "131"
+        "position": "135"
     },
     {
         "card_name": "Walking Ossuary",
-        "number": 112,
+        "number": 114,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "92"
     },
     {
-        "card_name": "Skitterback Mercenary",
-        "number": 149,
+        "card_name": "Raven's Incantation",
+        "number": 148,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "173"
+        "position": "178"
     },
     {
         "card_name": "Underfolk Pathrunner",
-        "number": 186,
+        "number": 189,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -928,32 +928,32 @@
         "position": "50"
     },
     {
-        "card_name": "Sphinx Prayer",
-        "number": 75,
+        "card_name": "Sphinx of New Horizons",
+        "number": 74,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "132"
+        "position": "131"
     },
     {
         "card_name": "Witchcourt Enforcer",
-        "number": 113,
+        "number": 115,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "96"
     },
     {
-        "card_name": "Ursine Goblin Rider",
+        "card_name": "Skitterback Mercenary",
         "number": 152,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "183"
+        "position": "173"
     },
     {
         "card_name": "Verdant Monarch",
-        "number": 190,
+        "number": 193,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -968,32 +968,32 @@
         "position": "49"
     },
     {
-        "card_name": "Veilwing Harpy",
-        "number": 76,
+        "card_name": "Sphinx Prayer",
+        "number": 75,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "130"
+        "position": "132"
     },
     {
         "card_name": "Witches' Sabbath",
-        "number": 114,
+        "number": 116,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "89"
     },
     {
-        "card_name": "Valkor's Claim",
-        "number": 153,
+        "card_name": "Ursine Goblin Rider",
+        "number": 155,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "177"
+        "position": "183"
     },
     {
         "card_name": "Wayfinder Relic",
-        "number": 191,
+        "number": 194,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1008,32 +1008,32 @@
         "position": "56"
     },
     {
-        "card_name": "Arcane Murmur",
-        "number": 42,
+        "card_name": "Veilwing Harpy",
+        "number": 76,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "126"
+        "position": "130"
     },
     {
         "card_name": "Zombie Hyena",
-        "number": 115,
+        "number": 117,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "99"
     },
     {
-        "card_name": "Blasphemous Lightning",
-        "number": 119,
+        "card_name": "Valkor's Claim",
+        "number": 156,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "26"
+        "position": "177"
     },
     {
         "card_name": "Wildheart Ascension",
-        "number": 192,
+        "number": 195,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1048,32 +1048,32 @@
         "position": "45"
     },
     {
-        "card_name": "Cliffward Apex",
-        "number": 47,
+        "card_name": "Arcane Murmur",
+        "number": 42,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "121"
+        "position": "126"
     },
     {
         "card_name": "Bad Omen",
-        "number": 78,
+        "number": 79,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "70"
     },
     {
-        "card_name": "Bloodaxe Berserker",
-        "number": 120,
+        "card_name": "Blasphemous Lightning",
+        "number": 121,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "146"
+        "position": "26"
     },
     {
         "card_name": "Belowborn Lullaby",
-        "number": 154,
+        "number": 157,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1088,32 +1088,32 @@
         "position": "43"
     },
     {
-        "card_name": "Coven-Stitched Horror",
-        "number": 48,
+        "card_name": "Cliffward Apex",
+        "number": 47,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "125"
+        "position": "121"
     },
     {
         "card_name": "Ball of Rats",
-        "number": 79,
+        "number": 80,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "83"
     },
     {
-        "card_name": "Bloodmask Zealot",
-        "number": 121,
+        "card_name": "Bloodaxe Berserker",
+        "number": 122,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "149"
+        "position": "146"
     },
     {
         "card_name": "Big Game Hunt",
-        "number": 155,
+        "number": 158,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1128,32 +1128,32 @@
         "position": "63"
     },
     {
-        "card_name": "Crystal Cave Stasis",
-        "number": 51,
+        "card_name": "Coven-Stitched Horror",
+        "number": 48,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "115"
+        "position": "125"
     },
     {
         "card_name": "Blightwing",
-        "number": 82,
+        "number": 83,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "78"
     },
     {
-        "card_name": "Crimson Petal Knight",
-        "number": 124,
+        "card_name": "Bloodmask Zealot",
+        "number": 123,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "155"
+        "position": "149"
     },
     {
         "card_name": "Covenant Recruiters",
-        "number": 161,
+        "number": 164,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1168,32 +1168,32 @@
         "position": "46"
     },
     {
-        "card_name": "Duskscout Sprite",
-        "number": 52,
+        "card_name": "Crystal Cave Stasis",
+        "number": 51,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "117"
+        "position": "115"
     },
     {
         "card_name": "Crowcleaver Reaper",
-        "number": 85,
+        "number": 86,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "71"
     },
     {
-        "card_name": "Curious Appraiser",
-        "number": 127,
+        "card_name": "Crimson Petal Knight",
+        "number": 126,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "151"
+        "position": "155"
     },
     {
         "card_name": "Crosswood Sharpshooter",
-        "number": 162,
+        "number": 165,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1208,32 +1208,32 @@
         "position": "32"
     },
     {
-        "card_name": "Escaping a Dungeon",
-        "number": 53,
+        "card_name": "Duskscout Sprite",
+        "number": 52,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "25"
+        "position": "117"
     },
     {
         "card_name": "Depth's Edict",
-        "number": 88,
+        "number": 89,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "73"
     },
     {
-        "card_name": "Demand Answers",
+        "card_name": "Curious Appraiser",
         "number": 129,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "27"
+        "position": "151"
     },
     {
         "card_name": "Earthen Chant",
-        "number": 164,
+        "number": 167,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1248,32 +1248,32 @@
         "position": "44"
     },
     {
-        "card_name": "Falling-Leaf Arcanist",
-        "number": 54,
+        "card_name": "Escaping a Dungeon",
+        "number": 53,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "118"
+        "position": "25"
     },
     {
         "card_name": "Exposed to the Void",
-        "number": 91,
+        "number": 92,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "80"
     },
     {
-        "card_name": "Heir of the High Pass",
-        "number": 140,
+        "card_name": "Demand Answers",
+        "number": 131,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "150"
+        "position": "27"
     },
     {
         "card_name": "Greenpath Explorer Squad",
-        "number": 166,
+        "number": 169,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1288,32 +1288,32 @@
         "position": "40"
     },
     {
-        "card_name": "Incantation of Insight",
-        "number": 57,
+        "card_name": "Falling-Leaf Arcanist",
+        "number": 54,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "123"
+        "position": "118"
     },
     {
         "card_name": "Gloomwood Cutthroat",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "81"
     },
     {
-        "card_name": "Ironclad Guard",
-        "number": 142,
+        "card_name": "Heir of the High Pass",
+        "number": 143,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "152"
+        "position": "150"
     },
     {
         "card_name": "Marksman's Instinct",
-        "number": 170,
+        "number": 173,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1328,32 +1328,32 @@
         "position": "35"
     },
     {
-        "card_name": "Incantation of Repulsion",
-        "number": 58,
+        "card_name": "Incantation of Insight",
+        "number": 57,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "119"
+        "position": "123"
     },
     {
         "card_name": "Gravebloom Bug",
-        "number": 95,
+        "number": 96,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "76"
     },
     {
-        "card_name": "Path of the Reaping",
-        "number": 143,
+        "card_name": "Ironclad Guard",
+        "number": 145,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "148"
+        "position": "152"
     },
     {
         "card_name": "Roots Take Hold",
-        "number": 174,
+        "number": 177,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1368,32 +1368,32 @@
         "position": "31"
     },
     {
-        "card_name": "Lumenhex Witch",
-        "number": 60,
+        "card_name": "Incantation of Repulsion",
+        "number": 58,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "122"
+        "position": "119"
     },
     {
         "card_name": "Pact to the Old Gods",
-        "number": 102,
+        "number": 103,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "74"
     },
     {
-        "card_name": "Radiant Charge",
-        "number": 144,
+        "card_name": "Path of the Reaping",
+        "number": 146,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "24"
+        "position": "148"
     },
     {
         "card_name": "Rootwake Elemental",
-        "number": 175,
+        "number": 178,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1408,32 +1408,32 @@
         "position": "41"
     },
     {
-        "card_name": "Misthall Savant",
-        "number": 64,
+        "card_name": "Lumenhex Witch",
+        "number": 60,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "120"
+        "position": "122"
     },
     {
         "card_name": "Reliquary Excision",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "77"
     },
     {
-        "card_name": "Scorching Dragonfire",
-        "number": 146,
+        "card_name": "Radiant Charge",
+        "number": 147,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "154"
+        "position": "24"
     },
     {
         "card_name": "Rotbound Paladin",
-        "number": 176,
+        "number": 179,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1448,32 +1448,32 @@
         "position": "47"
     },
     {
-        "card_name": "Refute",
-        "number": 69,
+        "card_name": "Misthall Savant",
+        "number": 64,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "124"
+        "position": "120"
     },
     {
-        "card_name": "Skullfeather Harrier",
-        "number": 109,
+        "card_name": "Rotbound Awakener",
+        "number": 107,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "75"
+        "position": "308"
     },
     {
-        "card_name": "Scrapstick Skulker",
-        "number": 147,
+        "card_name": "Scorching Dragonfire",
+        "number": 149,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "153"
+        "position": "154"
     },
     {
         "card_name": "Traveling Treefolk",
-        "number": 184,
+        "number": 187,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1488,32 +1488,32 @@
         "position": "7"
     },
     {
-        "card_name": "Skylore Aerie-Mage",
-        "number": 72,
+        "card_name": "Refute",
+        "number": 69,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "116"
+        "position": "124"
     },
     {
-        "card_name": "Veiled Corpsecaller",
+        "card_name": "Skullfeather Harrier",
         "number": 111,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "72"
+        "position": "75"
     },
     {
-        "card_name": "Trailreading Adept",
+        "card_name": "Scrapstick Skulker",
         "number": 150,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "147"
+        "position": "153"
     },
     {
         "card_name": "Underfolk Scavenger",
-        "number": 187,
+        "number": 190,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1528,17 +1528,32 @@
         "position": "42"
     },
     {
-        "card_name": "e"
+        "card_name": "Skylore Aerie-Mage",
+        "number": 72,
+        "shape": "normal",
+        "set": "VTK",
+        "rotated": false,
+        "position": "116"
     },
     {
-        "card_name": "e"
+        "card_name": "Veiled Corpsecaller",
+        "number": 113,
+        "shape": "normal",
+        "set": "VTK",
+        "rotated": false,
+        "position": "72"
     },
     {
-        "card_name": "e"
+        "card_name": "Trailreading Adept",
+        "number": 153,
+        "shape": "normal",
+        "set": "VTK",
+        "rotated": false,
+        "position": "147"
     },
     {
         "card_name": "Verdant Acolyte",
-        "number": 189,
+        "number": 192,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1559,7 +1574,7 @@
     "a->gold",
     {
         "card_name": "Oath-Mender Paladin",
-        "number": 221,
+        "number": 224,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1567,7 +1582,7 @@
     },
     {
         "card_name": "Orva, Cauldron Rider",
-        "number": 223,
+        "number": 226,
         "shape": "planeswalker",
         "set": "VTK",
         "rotated": false,
@@ -1575,7 +1590,7 @@
     },
     {
         "card_name": "Rhaz, Old God of Flame",
-        "number": 226,
+        "number": 229,
         "shape": "transform double faced",
         "set": "VTK",
         "rotated": false,
@@ -1583,7 +1598,7 @@
     },
     {
         "card_name": "Monster Tracker's Song",
-        "number": 217,
+        "number": 220,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1591,7 +1606,7 @@
     },
     {
         "card_name": "Nira, New God of Courage",
-        "number": 220,
+        "number": 223,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1599,7 +1614,7 @@
     },
     {
         "card_name": "Claimed by the Procession",
-        "number": 203,
+        "number": 206,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1607,7 +1622,7 @@
     },
     {
         "card_name": "Coven's Offering",
-        "number": 205,
+        "number": 208,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1615,7 +1630,7 @@
     },
     {
         "card_name": "Gore Omadi, Daughter of Ash",
-        "number": 210,
+        "number": 213,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1623,7 +1638,7 @@
     },
     {
         "card_name": "Breach from the Depths",
-        "number": 200,
+        "number": 203,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1631,7 +1646,7 @@
     },
     {
         "card_name": "Althea, Hope of Khar-Duun",
-        "number": 193,
+        "number": 196,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1639,7 +1654,7 @@
     },
     {
         "card_name": "Luminous High Priestess",
-        "number": 216,
+        "number": 219,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1647,7 +1662,7 @@
     },
     {
         "card_name": "Old God's Cruelty",
-        "number": 222,
+        "number": 225,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1655,7 +1670,7 @@
     },
     {
         "card_name": "Rite of Blood and Flame",
-        "number": 228,
+        "number": 231,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1663,7 +1678,7 @@
     },
     {
         "card_name": "Demon Tamer Morveth",
-        "number": 206,
+        "number": 209,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1671,7 +1686,7 @@
     },
     {
         "card_name": "Preparations for the Descent",
-        "number": 225,
+        "number": 228,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1679,7 +1694,7 @@
     },
     {
         "card_name": "Luminous High Justicar",
-        "number": 247,
+        "number": 251,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1687,7 +1702,7 @@
     },
     {
         "card_name": "Manasiphon Witch",
-        "number": 248,
+        "number": 252,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1695,7 +1710,7 @@
     },
     {
         "card_name": "Valkor, Cult-Called Harrier",
-        "number": 259,
+        "number": 263,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1703,7 +1718,7 @@
     },
     {
         "card_name": "Rootwarden Minotaur",
-        "number": 252,
+        "number": 256,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1711,7 +1726,7 @@
     },
     {
         "card_name": "Nina, Spore-Sheltered",
-        "number": 250,
+        "number": 254,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1719,7 +1734,7 @@
     },
     {
         "card_name": "Devoted Priests",
-        "number": 207,
+        "number": 210,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1727,7 +1742,7 @@
     },
     {
         "card_name": "Grimwoods Hag",
-        "number": 211,
+        "number": 214,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1735,7 +1750,7 @@
     },
     {
         "card_name": "Morbid Collector",
-        "number": 218,
+        "number": 221,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1743,7 +1758,7 @@
     },
     {
         "card_name": "Seasoned Adventurer",
-        "number": 230,
+        "number": 234,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1751,7 +1766,7 @@
     },
     {
         "card_name": "Guild's Cartographer",
-        "number": 213,
+        "number": 216,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1759,7 +1774,7 @@
     },
     {
         "card_name": "Lightforged Prayer",
-        "number": 215,
+        "number": 218,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1767,7 +1782,7 @@
     },
     {
         "card_name": "Rhyme of Unmaking",
-        "number": 227,
+        "number": 230,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1775,7 +1790,7 @@
     },
     {
         "card_name": "Underground Dog Trainer",
-        "number": 232,
+        "number": 236,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1783,7 +1798,7 @@
     },
     {
         "card_name": "Wayfinder's Curiosity",
-        "number": 233,
+        "number": 237,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1791,7 +1806,7 @@
     },
     {
         "card_name": "Moss-Made Paladin",
-        "number": 219,
+        "number": 222,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1799,7 +1814,7 @@
     },
     {
         "card_name": "Tidecall Temptress",
-        "number": 258,
+        "number": 262,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1807,7 +1822,7 @@
     },
     {
         "card_name": "Vortex Manta",
-        "number": 260,
+        "number": 264,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1815,7 +1830,7 @@
     },
     {
         "card_name": "Hired Monster Hunter",
-        "number": 244,
+        "number": 248,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1823,7 +1838,7 @@
     },
     {
         "card_name": "Demolition Expert",
-        "number": 238,
+        "number": 242,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1831,7 +1846,7 @@
     },
     {
         "card_name": "Graveside Lament",
-        "number": 243,
+        "number": 247,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1839,7 +1854,7 @@
     },
     {
         "card_name": "Shielded Resolve",
-        "number": 255,
+        "number": 259,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1847,7 +1862,7 @@
     },
     {
         "card_name": "Blinding Rebuff",
-        "number": 235,
+        "number": 239,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1855,7 +1870,7 @@
     },
     {
         "card_name": "Cult Father",
-        "number": 236,
+        "number": 240,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1863,7 +1878,7 @@
     },
     {
         "card_name": "Savage Interruption",
-        "number": 254,
+        "number": 258,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1871,7 +1886,7 @@
     },
     {
         "card_name": "Sylvan Prayer",
-        "number": 257,
+        "number": 261,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1894,7 +1909,7 @@
     },
     {
         "card_name": "Rite of the Second Oath",
-        "number": 229,
+        "number": 232,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1902,7 +1917,7 @@
     },
     {
         "card_name": "Grog, the Creative",
-        "number": 212,
+        "number": 215,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1910,7 +1925,7 @@
     },
     {
         "card_name": "The Clattercrew",
-        "number": 204,
+        "number": 207,
         "shape": "planeswalker",
         "set": "VTK",
         "rotated": false,
@@ -1918,7 +1933,7 @@
     },
     {
         "card_name": "Bearer of Blessings",
-        "number": 194,
+        "number": 197,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1926,23 +1941,23 @@
     },
     {
         "card_name": "Bloomsting Assassin",
-        "number": 198,
+        "number": 201,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "233"
     },
     {
-        "card_name": "Wrath of the Old Gods",
-        "number": 263,
+        "card_name": "Ritual Flute",
+        "number": 233,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "23"
+        "position": "309"
     },
     {
         "card_name": "Witch of the Ember Rose",
-        "number": 262,
+        "number": 266,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1950,7 +1965,7 @@
     },
     {
         "card_name": "Catacomb Warden",
-        "number": 202,
+        "number": 205,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1958,7 +1973,7 @@
     },
     {
         "card_name": "Arvek, Sword of the Church",
-        "number": 234,
+        "number": 238,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1966,23 +1981,23 @@
     },
     {
         "card_name": "Sapphire Rift Dragon",
-        "number": 253,
+        "number": 257,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "171"
     },
     {
-        "card_name": "Black Reliquary Banshee",
-        "number": 195,
+        "card_name": "Wrath of the Old Gods",
+        "number": 267,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "278"
+        "position": "23"
     },
     {
         "card_name": "Ember Rose Pyromancer",
-        "number": 208,
+        "number": 211,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1990,7 +2005,7 @@
     },
     {
         "card_name": "Netherwood Beast",
-        "number": 249,
+        "number": 253,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -1998,7 +2013,7 @@
     },
     {
         "card_name": "Boasting Commander",
-        "number": 199,
+        "number": 202,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2006,23 +2021,23 @@
     },
     {
         "card_name": "Carrioncaster Mage",
-        "number": 201,
+        "number": 204,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "282"
     },
     {
-        "card_name": "Black Reliquary Executioner",
-        "number": 196,
+        "card_name": "Black Reliquary Banshee",
+        "number": 198,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "15"
+        "position": "278"
     },
     {
         "card_name": "Expressive Iteration",
-        "number": 209,
+        "number": 212,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2030,7 +2045,7 @@
     },
     {
         "card_name": "Blade of Regrowth",
-        "number": 197,
+        "number": 200,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2038,7 +2053,7 @@
     },
     {
         "card_name": "Paladin's Resolve",
-        "number": 224,
+        "number": 227,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2046,23 +2061,23 @@
     },
     {
         "card_name": "Thieving Harpy",
-        "number": 231,
+        "number": 235,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "17"
     },
     {
-        "card_name": "Gilded Reanimation",
-        "number": 242,
+        "card_name": "Black Reliquary Executioner",
+        "number": 199,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "85"
+        "position": "15"
     },
     {
         "card_name": "Elemental Incantation",
-        "number": 240,
+        "number": 244,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2070,7 +2085,7 @@
     },
     {
         "card_name": "Khar-Duun Map Merchant",
-        "number": 214,
+        "number": 217,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2078,7 +2093,7 @@
     },
     {
         "card_name": "Luminous Concord Cleric",
-        "number": 246,
+        "number": 250,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2086,23 +2101,23 @@
     },
     {
         "card_name": "Living Reliquary",
-        "number": 245,
+        "number": 249,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "169"
     },
     {
-        "card_name": "From Depths Reborn",
-        "number": 241,
+        "card_name": "Gilded Reanimation",
+        "number": 246,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
-        "position": "66"
+        "position": "85"
     },
     {
         "card_name": "Desperate Spark",
-        "number": 239,
+        "number": 243,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2110,7 +2125,7 @@
     },
     {
         "card_name": "Voyage Trough the Depths",
-        "number": 261,
+        "number": 265,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2118,7 +2133,7 @@
     },
     {
         "card_name": "Song of Steel",
-        "number": 256,
+        "number": 260,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2126,21 +2141,26 @@
     },
     {
         "card_name": "Restorative Current",
-        "number": 251,
+        "number": 255,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
         "position": "170"
     },
     {
-        "card_name": "e"
+        "card_name": "From Depths Reborn",
+        "number": 245,
+        "shape": "normal",
+        "set": "VTK",
+        "rotated": false,
+        "position": "66"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Defy the Depths",
-        "number": 237,
+        "number": 241,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2167,7 +2187,7 @@
     "a->colorless",
     {
         "card_name": "Mysterious Horseman",
-        "number": 267,
+        "number": 271,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2175,7 +2195,7 @@
     },
     {
         "card_name": "Ordinary Scarecrow",
-        "number": 268,
+        "number": 272,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2183,7 +2203,7 @@
     },
     {
         "card_name": "Guild Provisions",
-        "number": 264,
+        "number": 268,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2191,7 +2211,7 @@
     },
     {
         "card_name": "Hunter's Lantern",
-        "number": 265,
+        "number": 269,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2199,7 +2219,7 @@
     },
     {
         "card_name": "Map of Carrion Grove",
-        "number": 266,
+        "number": 270,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2207,7 +2227,7 @@
     },
     {
         "card_name": "Sturdy Bow",
-        "number": 269,
+        "number": 273,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2240,7 +2260,7 @@
     "a->land",
     {
         "card_name": "Fallen Kingdom of the Sun",
-        "number": 277,
+        "number": 281,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2248,7 +2268,7 @@
     },
     {
         "card_name": "Fallen Kingdom of the Tides",
-        "number": 278,
+        "number": 282,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2256,7 +2276,7 @@
     },
     {
         "card_name": "Fallen Kingdom of the Moon",
-        "number": 276,
+        "number": 280,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2264,7 +2284,7 @@
     },
     {
         "card_name": "Fallen Kingdom of the Flame",
-        "number": 275,
+        "number": 279,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2272,7 +2292,7 @@
     },
     {
         "card_name": "Fallen Kingdom of the Ancients",
-        "number": 274,
+        "number": 278,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2295,7 +2315,7 @@
     },
     {
         "card_name": "Ashen Ruins",
-        "number": 270,
+        "number": 274,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2303,7 +2323,7 @@
     },
     {
         "card_name": "Crackling Ruins",
-        "number": 271,
+        "number": 275,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2311,7 +2331,7 @@
     },
     {
         "card_name": "Cursed Ruins",
-        "number": 272,
+        "number": 276,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2319,7 +2339,7 @@
     },
     {
         "card_name": "Echoing Ruins",
-        "number": 273,
+        "number": 277,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2327,7 +2347,7 @@
     },
     {
         "card_name": "Marble Ruins",
-        "number": 283,
+        "number": 287,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2335,7 +2355,7 @@
     },
     {
         "card_name": "Overgrown Ruins",
-        "number": 286,
+        "number": 290,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2343,7 +2363,7 @@
     },
     {
         "card_name": "Sanctified Ruins",
-        "number": 289,
+        "number": 293,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2351,7 +2371,7 @@
     },
     {
         "card_name": "Sunscorched Ruins",
-        "number": 290,
+        "number": 294,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2359,7 +2379,7 @@
     },
     {
         "card_name": "Titanic Ruins",
-        "number": 293,
+        "number": 297,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2367,7 +2387,7 @@
     },
     {
         "card_name": "Underground Ruins",
-        "number": 294,
+        "number": 298,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2390,7 +2410,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 288,
+        "number": 291,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2398,7 +2418,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 279,
+        "number": 284,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2406,7 +2426,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 284,
+        "number": 289,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2414,7 +2434,7 @@
     },
     {
         "card_name": "Island",
-        "number": 281,
+        "number": 286,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2422,7 +2442,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 292,
+        "number": 295,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2430,7 +2450,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 291,
+        "number": 296,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2438,7 +2458,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 287,
+        "number": 292,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2446,7 +2466,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 285,
+        "number": 288,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2454,7 +2474,7 @@
     },
     {
         "card_name": "Island",
-        "number": 282,
+        "number": 285,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2462,7 +2482,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 280,
+        "number": 283,
         "shape": "normal",
         "set": "VTK",
         "rotated": false,
@@ -2483,7 +2503,7 @@
     "a->token",
     {
         "card_name": "Map",
-        "number": 8,
+        "number": 9,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2491,7 +2511,7 @@
     },
     {
         "card_name": "Treasure",
-        "number": 9,
+        "number": 10,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2499,7 +2519,7 @@
     },
     {
         "card_name": "Clattercrew",
-        "number": 10,
+        "number": 11,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2507,7 +2527,7 @@
     },
     {
         "card_name": "Odile",
-        "number": 11,
+        "number": 12,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2538,8 +2558,16 @@
         "position": "20"
     },
     {
-        "card_name": "Beast",
+        "card_name": "Agony",
         "number": 4,
+        "shape": "token",
+        "set": "VTK",
+        "rotated": false,
+        "position": "307"
+    },
+    {
+        "card_name": "Beast",
+        "number": 5,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2547,7 +2575,7 @@
     },
     {
         "card_name": "Egg",
-        "number": 5,
+        "number": 6,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2555,7 +2583,7 @@
     },
     {
         "card_name": "Skeleton",
-        "number": 7,
+        "number": 8,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
@@ -2563,14 +2591,11 @@
     },
     {
         "card_name": "Elemental",
-        "number": 6,
+        "number": 7,
         "shape": "token",
         "set": "VTK",
         "rotated": false,
         "position": "22"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
