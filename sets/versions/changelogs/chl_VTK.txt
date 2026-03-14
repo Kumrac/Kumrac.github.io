@@ -1,4 +1,14 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Voyage Trough the Depths
+
+Sanctwhale of Prayer
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Wish Granting Priest added.

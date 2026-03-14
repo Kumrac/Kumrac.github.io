@@ -2179,7 +2179,7 @@
             "color_identity": "BG",
             "cost": "{2}{BG}{BG}",
             "rules_text": "Return up to three target creature cards from your graveyard to your hand.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cYour journey will be a long one. Sadly there is no other way.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -6301,7 +6301,7 @@
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Flying\nWhen Sanctwhale of Prayer enters, if it entered from a graveyard, transform it.\n{3}{W}: Transform Sanctwhale of Prayer.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]They listen to every prayer of Elyndor, but to prayers of underworld they are deaf.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "transform double faced",
@@ -6842,5 +6842,5 @@
             "notes": ""
         }
     ],
-    "version": 18
+    "version": 19
 }
