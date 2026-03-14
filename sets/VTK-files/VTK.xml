@@ -5731,7 +5731,7 @@ At the beginning of combat on your turn, put a +1/+1 counter on target creature 
 		<card>
 			<name>Aelun, New God of Prosperity</name>
 			<text>Flash
-When Aelun enters, attacks and at the beginning of each end step you may draw a card then you may put a land card from your hand onto the battlefield.</text>
+Whenever Aelun enters or attacks and at the beginning of each end step, you may draw a card. Then you may put a land card from your hand onto the battlefield.</text>
 			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/321.png" num="196">VTK</set>
 			<prop>
 				<layout>normal</layout>

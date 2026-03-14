@@ -1,4 +1,15 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+
+
+Aelun, New God of Prosperity
+rules_text: Flash
+When Aelun enters, attacks and at the beginning of each end step you may draw a card then you may put a land card from your hand onto the battlefield. => Flash
+Whenever Aelun enters or attacks and at the beginning of each end step, you may draw a card. Then you may put a land card from your hand onto the battlefield.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 
