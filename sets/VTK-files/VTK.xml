@@ -5,7 +5,7 @@
 			<name>VTK</name>
 			<longname>Vaelcairn, Tomb of Kingdoms</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-13</releasedate>
+			<releasedate>2026-03-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Blade of Regrowth</name>
 			<text>Destroy target nonland permanent.
 Return target permanent card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/0.png" num="200">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/0.png" num="201">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,7 +118,7 @@ Fleshbind {2}{G} ({2}{G}, Exile this card from your graveyard: Put a +1/+1 count
 			<name>Demon Tamer Morveth</name>
 			<text>When Demon Tamer Morveth enters, create Kraghul, a legendary red Demon creature token with &quot;Kraghul&apos;s power and toughness are each equal to the number of lands you control.&quot;
 Whenever you would put a land card from your library or graveyard into your hand, put it onto the battlefield tapped instead.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/6.png" num="209">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/6.png" num="211">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -153,7 +153,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Ember Rose Pyromancer</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue and red Elemental creature token with prowess.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/8.png" num="211">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/8.png" num="214">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -170,7 +170,7 @@ Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue 
 		<card>
 			<name>Devoted Priests</name>
 			<text>When Devoted Priests enters, look at the top five cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. If a card with Incantation was revealed this way gain 2 life. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/9.png" num="210">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/9.png" num="212">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -188,7 +188,7 @@ Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue 
 			<name>Grimwoods Hag</name>
 			<text>Menace
 Whenever you cast an instant or sorcery spell, draw a card then discard a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/10.png" num="214">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/10.png" num="219">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -205,7 +205,7 @@ Whenever you cast an instant or sorcery spell, draw a card then discard a card. 
 		<card>
 			<name>Underground Dog Trainer</name>
 			<text>Whenever you sacrifice a nontoken permanent, create a Treasure token. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/11.png" num="236">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/11.png" num="242">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -223,7 +223,7 @@ Whenever you cast an instant or sorcery spell, draw a card then discard a card. 
 			<name>Seasoned Adventurer</name>
 			<text>Trample
 Whenever a creature you control deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/12.png" num="234">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/12.png" num="240">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -240,7 +240,7 @@ Whenever a creature you control deals combat damage to a player, it explores. (R
 		<card>
 			<name>Guild&apos;s Cartographer</name>
 			<text>Whenever you cast a creature spell, create a Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/13.png" num="216">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/13.png" num="221">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -258,7 +258,7 @@ Whenever a creature you control deals combat damage to a player, it explores. (R
 			<name>Wayfinder&apos;s Curiosity</name>
 			<text>Creature spells you control can&apos;t be countered. 
 Whenever a nontoken creature you control enters, it explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/14.png" num="237">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/14.png" num="244">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -274,7 +274,7 @@ Whenever a nontoken creature you control enters, it explores. (Reveal the top ca
 		<card>
 			<name>Black Reliquary Executioner</name>
 			<text>Whenever Black Reliquary Executioner or another creature or artifact you control dies, each opponent loses 1 life and you gain 1 life. If that permanent had mana value 1 or less, Black Reliquary Executioner gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/15.png" num="199">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/15.png" num="200">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -292,7 +292,7 @@ Whenever a nontoken creature you control enters, it explores. (Reveal the top ca
 			<name>Boasting Commander</name>
 			<text>Vigilance
 Whenever you cast a spell targeting a creature you control, put a +1/+1 counter on it and gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/16.png" num="202">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/16.png" num="203">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -311,7 +311,7 @@ Whenever you cast a spell targeting a creature you control, put a +1/+1 counter 
 			<text>Flying
 Whenever Thieving Harpy deals combat damage to a player, draw a card.
 Fleshbind {G}{U} ({G}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature&apos;s abilities until end of turn. Activate only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/17.png" num="235">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/17.png" num="241">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -329,7 +329,7 @@ Fleshbind {G}{U} ({G}{U}, Exile this card from your graveyard: Put a +1/+1 count
 			<name>Rite of the Second Oath</name>
 			<text>Return all creature cards with mana value 2 or less from your graveyard to the battlefield.
 Incantation 3 (If you cast this spell from your hand, exile it with 3 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/18.png" num="232">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/18.png" num="238">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -416,7 +416,7 @@ Incantation 3 (If you cast this spell from your hand, exile it with 3 time count
 			<name>Wrath of the Old Gods</name>
 			<text>Destroy all creatures.
 Incantation 4 (If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/23.png" num="267">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/23.png" num="275">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -853,7 +853,7 @@ Incantation 3 (If you cast this spell from your hand, exile it with 3 time count
 [+1]: Mill a card. Create a Map token.
 [-3]: Destroy target nonland permanent.
 [-7]: You get an emblem with &quot;At the beginning of your end step, create three 1/1 black Skeleton creature tokens. Then each creature you control explores.&quot;</text>
-			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/48.png" num="207">VTK</set>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/48.png" num="208">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1085,7 +1085,7 @@ Incantation 2 (If you cast this spell from your hand, exile it with 2 time count
 • Destroy target artifact or enchantment.
 • Exile target player&apos;s graveyard.
 Incantation 5 (If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/61.png" num="247">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/61.png" num="255">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1151,7 +1151,7 @@ Incantation 5 (If you cast this spell from your hand, exile it with 5 time count
 			<name>Arvek, Sword of the Church</name>
 			<text>Valiant — Whenever Arvek becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.
 When Arvek dies, if it had power 4 or greater, create a 1/1 white Human Knight creature token.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/65.png" num="238">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/65.png" num="246">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1168,7 +1168,7 @@ When Arvek dies, if it had power 4 or greater, create a 1/1 white Human Knight c
 		<card>
 			<name>From Depths Reborn</name>
 			<text>Until end of turn, target creature gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/66.png" num="245">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/66.png" num="253">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1398,7 +1398,7 @@ Fleshbind {3}{B} ({3}{B}, Exile this card from your graveyard: Put a +1/+1 count
 		<card>
 			<name>Defy the Depths</name>
 			<text>Target creature you control gains deathtouch and indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/79.png" num="241">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/79.png" num="249">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1500,7 +1500,7 @@ When Ball of Rats dies, return target creature card with mana value 1 or less fr
 		<card>
 			<name>Gilded Reanimation</name>
 			<text>Return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/85.png" num="246">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/85.png" num="254">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1799,7 +1799,7 @@ Choose one. If this spell&apos;s additional cost was paid you may choose both.
 			<name>Grog, the Creative</name>
 			<text>Prowess
 Whenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value less than or equal to Grog&apos;s power. Exile it. You may cast that card for as long as it remains exiled and you have cast an instant or sorcery spell this turn. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/102.png" num="215">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/102.png" num="220">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1816,7 +1816,7 @@ Whenever Grog attacks, reveal cards from the top of your library until you revea
 		<card>
 			<name>Voyage Trough the Depths</name>
 			<text>Return up to three target creature cards from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/103.png" num="265">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/103.png" num="273">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1835,7 +1835,7 @@ Whenever Grog attacks, reveal cards from the top of your library until you revea
 Ward—Exile three cards from your graveyard.
 Netherwood Beast can&apos;t be blocked by one creature.
 Whenever Netherwood Beast deals combat damage to an opponent, it deals that much damage to target planeswalker that player controls.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/104.png" num="253">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/104.png" num="261">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1869,7 +1869,7 @@ Whenever Netherwood Beast deals combat damage to an opponent, it deals that much
 			<name>Sylvan Prayer</name>
 			<text>Put a +1/+1 counter on each creature you control.
 Incantation 4 (If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/106.png" num="261">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/106.png" num="269">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1887,7 +1887,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<text>Nina can&apos;t be countered.
 Vigilance
 Whenever a creature you control or a creature spell you control becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on Nina then draw a card.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/107.png" num="254">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/107.png" num="262">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1905,7 +1905,7 @@ Whenever a creature you control or a creature spell you control becomes the targ
 			<name>Song of Steel</name>
 			<text>Target creature you control gains double strike until end of turn.
 Incantation 4 (If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/108.png" num="260">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/108.png" num="268">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1922,7 +1922,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Luminous Concord Cleric</name>
 			<text>Other creatures you control get +1/+0.
 Other Attacking creatures you control get +1/+0.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/109.png" num="250">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/109.png" num="258">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2341,7 +2341,7 @@ Incantation 5 (If you cast this spell from your hand, exile it with 5 time count
 			<name>Elemental Incantation</name>
 			<text>Create a 1/1 blue and red Elemental creature token with prowess. (Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)
 Incantation 5 (If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/127.png" num="244">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/127.png" num="252">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2357,7 +2357,7 @@ Incantation 5 (If you cast this spell from your hand, exile it with 5 time count
 		<card>
 			<name>Desperate Spark</name>
 			<text>You may discard a card. If you do, draw two cards.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/128.png" num="243">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/128.png" num="251">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2374,7 +2374,7 @@ Incantation 5 (If you cast this spell from your hand, exile it with 5 time count
 			<name>Witch of the Ember Rose</name>
 			<text>Prowess 
 Whenever Witch of the Ember Rose attacks, you may exile an instant or sorcery card from your graveyard with mana value equal to or less than its power. You may cast it without paying its cost.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/129.png" num="266">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/129.png" num="274">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2601,7 +2601,7 @@ Incantation 3 (If you cast this spell from your hand, exile it with 3 time count
 			<name>Tidecall Temptress</name>
 			<text>Flash
 When Tidecall Temptress enters, counter target activated or triggered ability of a nonland source. If an ability of a creature is countered this way, tap that creature and put a stun counter on it.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/142.png" num="262">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/142.png" num="270">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2843,7 +2843,7 @@ When Scrapstick Skulker dies, create a Map token. (It&apos;s an artifact with &q
 		<card>
 			<name>Demolition Expert</name>
 			<text>When Demolition Expert enters, destroy target artifact or nonbasic land. Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/156.png" num="242">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/156.png" num="250">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2860,7 +2860,7 @@ When Scrapstick Skulker dies, create a Map token. (It&apos;s an artifact with &q
 		<card>
 			<name>Savage Interruption</name>
 			<text>Target creature you control fights target creature an opponent controls.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/157.png" num="258">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/157.png" num="266">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2878,7 +2878,7 @@ When Scrapstick Skulker dies, create a Map token. (It&apos;s an artifact with &q
 			<text>Trample
 Whenever you reveal a creature spell, while exploring, you may put it into your hand.
 At the beginning of your upkeep Rootwarden Minotaur explores.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/158.png" num="256">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/158.png" num="264">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2895,7 +2895,7 @@ At the beginning of your upkeep Rootwarden Minotaur explores.</text>
 		<card>
 			<name>Shielded Resolve</name>
 			<text>Target creature you control gets +1/+1 and gains hexproof until end of turn.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/159.png" num="259">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/159.png" num="267">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2931,7 +2931,7 @@ Whenever you draw your second card each turn, create a Map token. (It&apos;s an 
 			<text>Flash
 Vigilance
 Whenever a creature you control deals combat damage to a player, create a 1/1 white Human Knight creature token.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/161.png" num="251">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/161.png" num="259">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2967,7 +2967,7 @@ Whenever a creature you control deals combat damage to a player, create a 1/1 wh
 			<name>Vortex Manta</name>
 			<text>Vortex Manta can&apos;t be blocked.
 Fleshbind {1}{UB} ({1}{UB}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature&apos;s abilities until end of turn. Activate only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/163.png" num="264">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/163.png" num="272">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2985,7 +2985,7 @@ Fleshbind {1}{UB} ({1}{UB}, Exile this card from your graveyard: Put a +1/+1 cou
 			<name>Blinding Rebuff</name>
 			<text>Target creature gets -2/-0 until end of turn.
 Draw a card.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/164.png" num="239">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/164.png" num="247">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3002,7 +3002,7 @@ Draw a card.</text>
 			<name>Manasiphon Witch</name>
 			<text>Flying
 Whenever Manasiphon Witch deals combat damage to a player, exile target instant or sorcery card from their graveyard. You may cast it this turn, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/165.png" num="252">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/165.png" num="260">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3019,7 +3019,7 @@ Whenever Manasiphon Witch deals combat damage to a player, exile target instant 
 		<card>
 			<name>Cult Father</name>
 			<text>Whenever you discard a card or sacrifice an artifact, Cult Father deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/166.png" num="240">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/166.png" num="248">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3037,7 +3037,7 @@ Whenever Manasiphon Witch deals combat damage to a player, exile target instant 
 			<name>Hired Monster Hunter</name>
 			<text>Menace
 Whenever Hired Monster Hunter attacks, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/167.png" num="248">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/167.png" num="256">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3055,7 +3055,7 @@ Whenever Hired Monster Hunter attacks, create a Treasure token. (It&apos;s an ar
 			<name>Valkor, Cult-Called Harrier</name>
 			<text>First strike, haste
 Whenever Valkor attacks, reveal cards from the top of your library until you reveal a nonland card with mana value 2 or less and exile it. You may cast that card by discarding a card rather than paying its mana cost. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/168.png" num="263">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/168.png" num="271">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3073,7 +3073,7 @@ Whenever Valkor attacks, reveal cards from the top of your library until you rev
 			<name>Living Reliquary</name>
 			<text>Defender
 When Living Reliquary enters, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/169.png" num="249">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/169.png" num="257">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3091,7 +3091,7 @@ When Living Reliquary enters, draw a card.</text>
 			<name>Restorative Current</name>
 			<text>Target creature has base power and toughness 3/3 until end of turn.
 Incantation 4 (If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/170.png" num="255">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/170.png" num="263">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3109,7 +3109,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<text>Flying, vigilance, ward {3}
 Whenever Sapphire Rift Dragon deals combat damage to a player, draw that many cards.
 Fleshbind {2}{GU}{GU} ({2}{GU}{GU}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature&apos;s abilities until end of turn. Activate only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/171.png" num="257">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/171.png" num="265">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4094,7 +4094,7 @@ Whenever Thornfather Ancient attacks, search your library for a land card, put i
 		<card>
 			<name>Claimed by the Procession</name>
 			<text>Return target spell or nonland permanent an opponent controls to its owner&apos;s hand. That spell&apos;s or permanent&apos;s owner can&apos;t cast spells with the same name as that spell or permanent until your next turn.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/227.png" num="206">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/227.png" num="207">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4110,7 +4110,7 @@ Whenever Thornfather Ancient attacks, search your library for a land card, put i
 		<card>
 			<name>Old God&apos;s Cruelty</name>
 			<text>Counter target spell. You may cast a creature, instant, sorcery, or planeswalker spell from your graveyard with mana value less than or equal to that spell&apos;s mana value by paying life equal to it&apos;s mana value instead of paying its mana cost.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/228.png" num="225">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/228.png" num="231">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4131,7 +4131,7 @@ Choose two, if this card&apos;s additional cost was paid choose three instead:
 • Target creature gets -3/-3 until end of turn.
 • Destroy target artifact.
 • Rite of Blood and Flame deals 1 damage to each opponent and each creature your opponents control.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/229.png" num="231">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/229.png" num="237">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4148,7 +4148,7 @@ Choose two, if this card&apos;s additional cost was paid choose three instead:
 			<name>Preparations for the Descent</name>
 			<text>At the beginning of your upkeep create a Map token.
 If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/230.png" num="228">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/230.png" num="234">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4184,7 +4184,7 @@ Fleshbind {1}{G}</text>
 			<name>Bearer of Blessings</name>
 			<text>Valiant — Whenever Bearer of Blessings becomes the target of a spell or ability you control for the first time each turn, it gains double strike until end of turn.
 Vigilance, haste</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/232.png" num="197">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/232.png" num="198">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4204,7 +4204,7 @@ Vigilance, haste</text>
 Reach
 Whenever Bloomsting Assassin deals combat damage to a player, draw a card, you may play an additional land this turn.
 Fleshbind {1}{G} ({1}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature&apos;s abilities until end of turn. Activate only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/233.png" num="201">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/233.png" num="202">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4222,7 +4222,7 @@ Fleshbind {1}{G} ({1}{G}, Exile this card from your graveyard: Put a +1/+1 count
 			<name>Map of Carrion Grove</name>
 			<text>When this artifact enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
 {T}, Sacrifice Map of Carrion Grove: Target creature you control explores. Activate only as a sorcery. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/234.png" num="270">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/234.png" num="278">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4237,7 +4237,7 @@ Fleshbind {1}{G} ({1}{G}, Exile this card from your graveyard: Put a +1/+1 count
 			<name>Guild Provisions</name>
 			<text>{T}: Add one mana of any color.
 {1}, {T}: Target creature you control explores. Activate only as a sorcery. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/235.png" num="268">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/235.png" num="276">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4252,7 +4252,7 @@ Fleshbind {1}{G} ({1}{G}, Exile this card from your graveyard: Put a +1/+1 count
 			<name>Hunter&apos;s Lantern</name>
 			<text>{T}: Add {C} or mana of any color among cards exiled with Hunter&apos;s Lantern.
 {T}: Exile target card in a graveyard, until Hunter&apos;s Lantern leaves the battlefield.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/236.png" num="269">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/236.png" num="277">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4267,7 +4267,7 @@ Fleshbind {1}{G} ({1}{G}, Exile this card from your graveyard: Put a +1/+1 count
 			<name>Ordinary Scarecrow</name>
 			<text>{1}, {T}: Add one mana of any color.
 {4}: Put four +1/+1 counters on Ordinary Scarecrow. It becomes a 0/0 scarecrow creature in addition to its other types. Activate only once.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/237.png" num="272">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/237.png" num="281">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4282,7 +4282,7 @@ Fleshbind {1}{G} ({1}{G}, Exile this card from your graveyard: Put a +1/+1 count
 			<name>Sturdy Bow</name>
 			<text>Equipped creature gets +1/+0 and has reach and &quot;{T}, : This creature deals 1 damage to any target.&quot;
 Equip {1}</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/238.png" num="273">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/238.png" num="282">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4297,7 +4297,7 @@ Equip {1}</text>
 			<name>Mysterious Horseman</name>
 			<text>Vigilance, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Whenever Mysterious Horseman attacks, exile target card from a graveyard and gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/239.png" num="271">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/239.png" num="280">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4345,7 +4345,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Clattercrew VTK</name>
 			<text>At the beginning of your end step, create three 1/1 black Skeleton creature tokens. Then each creature you control explores.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/242.png" num="11">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/242.png" num="12">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4360,7 +4360,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Odile VTK</name>
 			<text>Nonland permanents you control lose all abilities. Creatures you control have base power and toughness 1/1.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/243.png" num="12">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/243.png" num="13">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4393,7 +4393,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/245.png" num="291">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/245.png" num="302">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4408,7 +4408,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/246.png" num="284">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/246.png" num="293">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4423,7 +4423,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/247.png" num="289">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/247.png" num="297">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4438,7 +4438,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/248.png" num="286">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/248.png" num="294">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4453,7 +4453,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/249.png" num="295">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/249.png" num="307">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4468,7 +4468,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/250.png" num="296">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/250.png" num="306">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4483,7 +4483,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/251.png" num="292">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/251.png" num="301">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4498,7 +4498,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/252.png" num="288">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/252.png" num="298">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4513,7 +4513,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/253.png" num="285">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/253.png" num="295">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4528,7 +4528,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/254.png" num="283">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/254.png" num="292">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4545,7 +4545,7 @@ Whenever Mysterious Horseman attacks, exile target card from a graveyard and gai
 			<text>Flash 
 Flying
 When Luminous High Priestess enters, you may cast an instant or sorcery spell with mana value 2 or less from your hand without paying its mana cost. If that spell is an incantation, you gain 2 life and draw a card, otherwise it gains incantation 3.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/255.png" num="219">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/255.png" num="225">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4563,7 +4563,7 @@ When Luminous High Priestess enters, you may cast an instant or sorcery spell wi
 			<name>Oath-Mender Paladin</name>
 			<text>Oath-Mender Paladin can&apos;t be countered.
 When Oath-Mender Paladin enters, create two 1/1 white Human Knight creature tokens. Whenever a Knight you control dies, reveal cards from the top of your library until you reveal an instant or sorcery card. Put it into your hand. Put the rest on the bottom of your library in random order.</text>
-			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/256.png" num="224">VTK</set>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/256.png" num="230">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4602,7 +4602,7 @@ Discard a card: Idas gains indestructible until end of turn. Tap it.</text>
 • Return target creature card with mana value 1 from your graveyard to the battlefield tapped.
 • Copy target instant or sorcery card in your graveyard with mana value 1. You may cast the copy.
 Incantation 4 (If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/258.png" num="218">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/258.png" num="224">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4620,7 +4620,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<text>Fallen Kingdom of the Moon enters tapped unless you control a basic land.
 {T}: Add {B}.
 {3}{B}, {T}, Sacrifice Fallen Kingdom of the Moon: Reveal cards from the top of your library until you reveal a sorcery card. Put it into your hand. Put the rest on the bottom of your library in random order.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/259.png" num="280">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/259.png" num="289">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4637,7 +4637,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<text>Fallen Kingdom of the Ancients enters tapped unless you control a basic land.
 {T}: Add {G}.
 {3}{G}, {T}, Sacrifice Fallen Kingdom of the Ancients: Reveal cards from the top of your library until you reveal a creature card. Put it into your hand. Put the rest on the bottom of your library in random order.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/260.png" num="278">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/260.png" num="287">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4654,7 +4654,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<text>Fallen Kingdom of the Flame enters tapped unless you control a basic land.
 {T}: Add {R}.
 {3}{R}, {T}, Sacrifice Fallen Kingdom of the Flame: Reveal cards from the top of your library until you reveal an artifact card. Put it into your hand. Put the rest on the bottom of your library in random order.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/261.png" num="279">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/261.png" num="288">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4671,7 +4671,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<text>Fallen Kingdom of the Sun enters tapped unless you control a basic land.
 {T}: Add {W}.
 {3}{W}, {T}, Sacrifice Fallen Kingdom of the Sun: Reveal cards from the top of your library until you reveal an enchantment card. Put it into your hand. Put the rest on the bottom of your library in random order.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/262.png" num="281">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/262.png" num="290">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4688,7 +4688,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<text>Fallen Kingdom of the Tides enters tapped unless you control a basic land.
 {T}: Add {U}.
 {3}{U}, {T}, Sacrifice Fallen Kingdom of the Tides: Reveal cards from the top of your library until you reveal an instant card. Put it into your hand. Put the rest on the bottom of your library in random order.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/263.png" num="282">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/263.png" num="291">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4704,7 +4704,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Marble Ruins</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Marble Ruins: Search your library for a basic Plains or Island card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/264.png" num="287">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/264.png" num="296">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4719,7 +4719,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Overgrown Ruins</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Overgrown Ruins: Search your library for a basic Swamp or Forest card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/265.png" num="290">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/265.png" num="300">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4734,7 +4734,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Sanctified Ruins</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Sanctified Ruins: Search your library for a basic Forest or Plains card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/266.png" num="293">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/266.png" num="303">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4749,7 +4749,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Crackling Ruins</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Crackling Ruins: Search your library for a basic Island or Mountain card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/267.png" num="275">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/267.png" num="284">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4764,7 +4764,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Ashen Ruins</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Ashen Ruins: Search your library for a basic Plains or Swamp card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/268.png" num="274">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/268.png" num="283">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4779,7 +4779,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Cursed Ruins</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Cursed Ruins: Search your library for a basic Swamp or Mountain card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/269.png" num="276">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/269.png" num="285">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4794,7 +4794,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Underground Ruins</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Underground Ruins: Search your library for a basic Island or Swamp card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/270.png" num="298">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/270.png" num="309">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4809,7 +4809,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Echoing Ruins</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Echoing Ruins: Search your library for a basic Forest or Island card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/271.png" num="277">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/271.png" num="286">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4824,7 +4824,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Titanic Ruins</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Titanic Ruins: Search your library for a basic Mountain or Forest card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/272.png" num="297">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/272.png" num="308">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4839,7 +4839,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Sunscorched Ruins</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice Sunscorched Ruins: Search your library for a basic Mountain or Plains card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/273.png" num="294">VTK</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/273.png" num="305">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4853,7 +4853,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 		<card>
 			<name>Breach from the Depths</name>
 			<text>At the beginning of your upkeep, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in random order.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/274.png" num="203">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/274.png" num="204">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4869,7 +4869,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 		<card>
 			<name>Rhyme of Unmaking</name>
 			<text>Surveil 3. Draw two cards. Lose 1 life. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/275.png" num="230">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/275.png" num="236">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4886,7 +4886,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Morbid Collector</name>
 			<text>When Morbid Collector enters, create a Treasure token, a Map token and a 1/1 black Rat creature token with &quot;This token can&apos;t block.&quot;.
 {1}{B}{R}, Sacrifice an artifact or creature: Exile the top card of your library, you may play it this turn.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/276.png" num="221">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/276.png" num="227">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4904,7 +4904,7 @@ Incantation 4 (If you cast this spell from your hand, exile it with 4 time count
 			<name>Moss-Made Paladin</name>
 			<text>Whenever one or more +1/+1 counters are put on another permanent you control, if it&apos;s the first time +1/+1 counters have been put on that permanent this turn, put a +1/+1 counter on Moss-Made Paladin.
 When Moss-Made Paladin dies, put its counters on target creature you control.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/277.png" num="222">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/277.png" num="228">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4922,7 +4922,7 @@ When Moss-Made Paladin dies, put its counters on target creature you control.</t
 			<name>Black Reliquary Banshee</name>
 			<text>Flying
 Whenever Black Reliquary Banshee deals combat damage to a player, you may return target creature card from your graveyard to your hand. If that card has mana value 1, return it to the battlefield instead.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/278.png" num="198">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/278.png" num="199">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4939,7 +4939,7 @@ Whenever Black Reliquary Banshee deals combat damage to a player, you may return
 		<card>
 			<name>Expressive Iteration</name>
 			<text>Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/279.png" num="212">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/279.png" num="216">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4955,7 +4955,7 @@ Whenever Black Reliquary Banshee deals combat damage to a player, you may return
 		<card>
 			<name>Khar-Duun Map Merchant</name>
 			<text>{BG}: Create a Map token then you may exile target card from a graveyard until that Map leaves the battlefield. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/280.png" num="217">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/280.png" num="223">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4975,7 +4975,7 @@ Whenever Black Reliquary Banshee deals combat damage to a player, you may return
 • Create two 1/1 white Human Knight creature tokens.
 • Target creature you control gets +2/+0 and gains trample until end of turn.
 Incantation 5 (If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/281.png" num="227">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/281.png" num="233">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4993,7 +4993,7 @@ Incantation 5 (If you cast this spell from your hand, exile it with 5 time count
 			<text>Flash
 You may use Fleshbind abilities at instant speed.
 When Carrioncaster Mage enters, target creature card in your graveyard gains Fleshbind {1}{G}{U} until end of turn. ({1}{G}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature&apos;s abilities until end of turn. Activate only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/282.png" num="204">VTK</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/VTK-files/img/282.png" num="205">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5031,7 +5031,7 @@ Valiant — Whenever this creature becomes the target of a spell or ability you 
 			<text>If an instant or sorcery card would be put into your graveyard from your hand or library, exile it instead and put a hex counter on it.
 [+1]: Draw two cards, then discard a card.
 [-2]: You may cast a copy of an instant or sorcery card with mana value 3 or less from among cards in exile with hex counters on them.</text>
-			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/284.png" num="226">VTK</set>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/284.png" num="232">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5049,7 +5049,7 @@ Valiant — Whenever this creature becomes the target of a spell or ability you 
 			<name>Catacomb Warden</name>
 			<text>Trample
 When Catacomb Warden dies, target land you control becomes a Swamp in addition to its other types and gains: &quot;{3}{B}, {T}, Sacrifice this land: Return target card named Catacomb Warden from your graveyard to the battlefield tapped.&quot;</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/285.png" num="205">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/285.png" num="206">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5192,7 +5192,7 @@ Whenever one or more cards leave your graveyard, you may cast a copy of one of t
 		<card>
 			<name>Coven&apos;s Offering</name>
 			<text>Choose up to five target cards in your graveyard. Target opponent separates them into two piles. Put a pile of your choice into your hand, and the other pile in your graveyard.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/293.png" num="208">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/293.png" num="210">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5228,7 +5228,7 @@ Whenever one or more cards leave your graveyard, you may cast a copy of one of t
 			<name>Monster Tracker&apos;s Song</name>
 			<text>Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order. Each creature put onto the battlefield this way explores and gains haste until end of turn.
 Incantation 3</text>
-			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/295.png" num="220">VTK</set>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/295.png" num="226">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5342,7 +5342,7 @@ Whenever Albino Dreadkite attacks, exile the top card of your library. You may h
 			<name>Althea, Hope of Khar-Duun</name>
 			<text>Althea has First strike while attacking.
 Whenever Althea attacks, create a 1/1 white Human Knight creature token that is tapped and attacking.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/300.png" num="196">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/300.png" num="197">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5360,7 +5360,7 @@ Whenever Althea attacks, create a 1/1 white Human Knight creature token that is 
 			<name>Gore Omadi, Daughter of Ash</name>
 			<text>Whenever Gore Omadi enters or attacks, you may sacrifice another creature or artifact. If you do, discard a card, then draw a card.
 Whenever another creature or artifact you control dies, target opponent loses 1 life.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/301.png" num="213">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/301.png" num="218">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5380,7 +5380,7 @@ Whenever another creature or artifact you control dies, target opponent loses 1 
 Flying, vigilance
 Whenever Nira enters or attacks, put a +1/+1 counter on target creature you control.
 Whenever a creature you control with +1/+1 counter on it dies, return it to the battlefield.</text>
-			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/302.png" num="223">VTK</set>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/302.png" num="229">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5401,7 +5401,7 @@ Whenever Rhaz attacks, you may sacrifice an artifact or creature. When you do Rh
 When Rhaz dies, return it to the battlefield tapped and transformed under its owner&apos;s control.
 ---
 (Back): Slumbering Tomb</text>
-			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/303_front.png" num="229a">VTK</set>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/303_front.png" num="235a">VTK</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5422,7 +5422,7 @@ When Rhaz dies, return it to the battlefield tapped and transformed under its ow
 {1}{B}{R}, Sacrifice three artifacts and/or creatures:Transform this land.
 ---
 (Front): Rhaz, Old God of Flame</text>
-			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/303_back.png" num="229b">VTK</set>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/303_back.png" num="235b">VTK</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5531,7 +5531,7 @@ Fleshbind {B} ({B}, Exile this card from your graveyard: Put a +1/+1 counter on 
 When Ritual Flute enters, return target creature card with mana value 1 from your graveyard with a finality counter. When you do equip Ritual Flute to that creature.
 {W}{B}: Return target creature card with mana value 1 from your graveyard with a finality counter. When you do equip Ritual Flute to that creature.
 Equip {W}{B}</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/309.png" num="233">VTK</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/309.png" num="239">VTK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5543,6 +5543,208 @@ Equip {W}{B}</text>
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wish Granting Priest</name>
+			<text>Flash
+When Wish Granting Priest enters, if you cast it, you may play an instant or sorcery card you own from outside the game this turn.</text>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/310.png" num="245">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Everywhere VTK</name>
+			<text>This land is a Plains, Island, Swamp, Mountain, and Forest.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/VTK-files/img/311.png" num="11">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Flamecasting Fury</name>
+			<text>At the beginning of your upkeep, exile the top card of your library. You may create a 1/1 blue and red Elemental creature token with prowess. If you don&apos;t, you may play that card this turn.</text>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/312.png" num="217">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Old One&apos;s Tomb</name>
+			<text>Old One&apos;s Tomb enters the battlefield tapped with 10 slumber counters and a stun counter.
+{T}: Add {C}{C}. Old One&apos;s Tomb deals 2 damage to you.
+Whenever a creature dies, remove a slumber counter from Old One&apos;s Tomb. Then if it has no counters on it, it becomes a 7/7 black God Horror creature with menace and &quot;Whenever this attacks each opponent losses 7 life&quot;.</text>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/313.png" num="299">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Congregation of Flesh</name>
+			<text>Changeling (This card is every creature type.)
+When Congregation of Flesh enters choose a creature type.
+Creatures of the chosen type get +1/+1
+Whenever one or more creatures would enter from a graveyard under your control, they enter as copies of Congregation of Flesh instead.</text>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/314.png" num="209">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>WBB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soulstone Dominion</name>
+			<text>{T}: Add {C}.
+{6}: This land becomes a 5/5 creature with vigilance and all creature types, it gains: &quot;Whenever this creature attacks, discard a card, then draw a card. &quot;. It&apos;s still a land.</text>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/315.png" num="304">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mysterious Challenger</name>
+			<text>When Mysterious Challenger enters, search tour library for an artifact card reveal it, put it into your hand. Shuffle. If that card is an equipment, you may put it onto the battlefield instead.</text>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/316.png" num="279">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elyndor Falls to the Curse</name>
+			<text>Time loop(As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)
+I — Mill three cards.
+II — Return a creature or land card from your graveyard to your hand.
+III — Gain 2 life.</text>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/317.png" num="213">VTK</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Veteran Battle Cleric</name>
+			<text>Flying
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Then if that creature has power 4 or greater create a 1/1 white Human Knight creature token.</text>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/318.png" num="243">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Endless War</name>
+			<text>The first time you attack each turn, untap all creatures you control. After this phase, there is an additional combat phase.</text>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/319.png" num="215">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hunter&apos;s Lullaby</name>
+			<text>Look at the top six cards of your library. You may put a land card from among them onto the battlefield tapped and another card into your hand. If you did not put a land onto the battlefield this way, you may put two cards in your hand instead. Shuffle.</text>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/VTK-files/img/320.png" num="222">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aelun, New God of Prosperity</name>
+			<text>Flash
+When Aelun enters, attacks and at the beginning of each end step you may draw a card then you may put a land card from your hand onto the battlefield.</text>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/VTK-files/img/321.png" num="196">VTK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

@@ -1,4 +1,22 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Wish Granting Priest added.
+Everywhere added.
+Flamecasting Fury added.
+Old One's Tomb added.
+Congregation of Flesh added.
+Soulstone Dominion added.
+Mysterious Challenger added.
+Elyndor Falls to the Curse added.
+Veteran Battle Cleric added.
+Endless War added.
+Hunter's Lullaby added.
+Aelun, New God of Prosperity added.
+
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Witchcourt's Highest Seat added.
