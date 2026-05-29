@@ -1,4 +1,1041 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Ruinsworn Knight added.
+Devoted Knight added.
+Crimson Lily Elite added.
+Ridgefang Ravager added.
+Guild's Monster Hunter's added.
+Eternal Congregants added.
+Waychime Troubadour added.
+Old God's Call added.
+Escaping the Dungeon added.
+Prayer of Rebirth added.
+Oathbreak added.
+Courageous Charge added.
+Grimwoods Cutthroat added.
+Offering Nibbler added.
+Sacrificial Cultist added.
+Litany of Return added.
+Voyage Through the Depths added.
+Odile's Oathkeeper added.
+Canticle of Frost added.
+Flockcaller Guildmage added.
+Armored Boar added.
+Grimwoods Critter added.
+Swamp-Prowler's Trail added.
+Depths Entrance Warden added.
+Crone's Offering added.
+Rutili, Rotbound Expeditionist added.
+Kingdom Breaker Hydra added.
+Rotbound Enforcer added.
+Dungeon Architect added.
+Refined Taste added.
+Tala, New Goddess of Beasts added.
+Broken Benediction added.
+Luminous Esca added.
+Bird added.
+Hollowfang Weaver added.
+Forest Protector added.
+
+Luminous Reinforcements removed.
+Devoted Priests removed.
+Underground Dog Trainer removed.
+Seasoned Adventurer removed.
+Guild's Cartographer removed.
+Black Reliquary Executioner removed.
+Thieving Harpy removed.
+Wrath of the Old Gods removed.
+Escaping a Dungeon removed.
+Drvog, Hero's Guide removed.
+Corrupted by the Depths removed.
+Valorous Charge removed.
+Reliquary Spiritbinder removed.
+Valenor's Return removed.
+Temple of the Old Gods removed.
+Gloomwood Cutthroat removed.
+Consulting the Patron removed.
+Litany of the Faithful Dead removed.
+March of the Rat-Piper removed.
+Graveshifter removed.
+Black Reliquary Oracle removed.
+Pitborn Imps removed.
+Undead Plundering removed.
+Voyage Trough the Depths removed.
+Radiant Repulse removed.
+Frost Command removed.
+Arcane-Called Drake removed.
+Scaldscale Scout removed.
+Vortex Manta removed.
+Sapphire Rift Dragon removed.
+Skitterback Mercenary removed.
+Verdant Acolyte removed.
+Swamprowler's Trail removed.
+Warden of Depths Enterence removed.
+Oculus of the Crone removed.
+Rutili,Rotbound Expeditionist removed.
+Thornfather Ancient removed.
+Claimed by the Procession removed.
+Khar-Duun Map Merchant removed.
+Carrioncaster Mage removed.
+The Architect removed.
+Mirrorbrood Horror removed.
+Black Market Connections removed.
+Nira, New God of Courage removed.
+Rhaz, Old God of Flame removed.
+Tala, New Godess of Beasts removed.
+Witchcourt's Highest Seat removed.
+Ritual Flute removed.
+Congregation of Flesh removed.
+
+Blade of Regrowth
+rules_text: Destroy target nonland permanent.
+Return target permanent card from your graveyard to your hand. => Destroy target nonland permanent.
+Return up to one target permanent card from your graveyard to your hand.
+
+Underfolk Scavenger
+rules_text: When Underfolk Scavenger enters, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => When Underfolk Scavenger enters, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+pt: 2/2 => 2/1
+
+Belowborn Lullaby
+rules_text: Search your library for a basic land card, reveal it, put it into your hand then shuffle.
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Search your library for a basic land card, reveal it, put it into your hand then shuffle.
+Incantation 4 [i](if you cast this from your hand, exile it with 4 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Rotbound Paladin
+type: Creature — Human Knight => Creature — Human Knight Cleric
+pt: 2/3 => 2/2
+
+Tomb Titan
+rules_text: Vigilance, trample
+Whenever Tomb Titan enters or attacks, create a tapped colorless land token named Everywhere that is every basic land type.
+Fleshbind {2}{G} [i]({2}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Vigilance, trample
+Whenever Tomb Titan enters or attacks, create a tapped colorless land token named Everywhere that is every basic land type.
+
+Grimwoods Hag
+rules_text: Menace
+Whenever you cast an instant or sorcery spell, draw a card then discard a card. This ability triggers only once each turn. => Menace
+Whenever you cast an instant or sorcery spell, draw a card, then discard a card. This ability triggers only once each turn.
+
+Boasting Commander
+rules_text: Vigilance
+Whenever you cast a spell targeting a creature you control, put a +1/+1 counter on it and gain 1 life. => Vigilance
+Whenever you cast a spell that targets a creature you control, put a +1/+1 counter on that creature and you gain 1 life.
+
+Rite of the Second Oath
+rules_text: Return all creature cards with mana value 2 or less from your graveyard to the battlefield.
+Incantation 3 [i](If you cast this spell from your hand, exile it with 3 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Return all creature cards with mana value 2 or less from your graveyard to the battlefield.
+Incantation 3 [i](if you cast this from your hand, exile it with 3 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Big Game Hunt
+rules_text: Target creature you control deals damage equal to its power to up to one target creature an opponent controls. Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Target creature you control deals damage equal to its power to up to one target creature an opponent controls. Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Radiant Charge
+rules_text: Target creature you control gets +3/+0 and gains haste until end of turn. If you cast this card from exile, that creature gains trample.
+Incantation 3 [i](If you cast this spell from your hand, exile it with 3 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Target creature you control gets +3/+0 and gains haste until end of turn. If you cast this card from exile, that creature gains trample instead.
+Incantation 3 [i](if you cast this from your hand, exile it with 3 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Blasphemous Lightning
+rules_text: Blasphemous Lightning deals 1 damage to you and 2 damage any other target.
+Incantation 5 [i](If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Blasphemous Lightning deals 1 damage to you and 2 damage any other target.
+Incantation 5 [i](if you cast this from your hand, exile it with 5 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Elyndor Dragonrider
+rules_text: Flying
+When Elyndor Dragonrider enters, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Flying
+When Elyndor Dragonrider enters, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Elyndor Lookout
+rules_text: When Elyndor Lookout enters, target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => Vigilance, lifelink
+
+Elyndor Footknight
+rules_text: Vigilance
+[i]Valiant[/i] — Whenever Elyndor Footknight becomes the target of a spell or ability you control for the first time each turn, it gains first strike until end of turn. => Vigilance
+[i]Valiant[/i] — Whenever Elyndor Footknight becomes the target of a spell or ability you control for the first time each turn, it gains lifelink until end of turn.
+
+Siege on the South Front
+cost: {1}{B}{B} => {2}{B}{B}
+
+Descent of the Radiant
+rules_text: Creatures you control get +2/+1 until end of turn.
+Incantation 3 [i](If you cast this spell from your hand, exile it with 3 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Creatures you control get +2/+1 until end of turn.
+Incantation 3 [i](if you cast this from your hand, exile it with 3 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Firebound Oath
+rules_text: Target creature gets +2/+2 and gains first strike until end of turn.
+Incantation 2 [i](If you cast this spell from your hand, exile it with 2 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Target creature gets +2/+2 and gains first strike until end of turn.
+Incantation 2 [i](if you cast this from your hand, exile it with 2 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Tomb Spirit
+rules_text: Flying
+When Tomb Spirit enters, return target creature or artifact card with mana value 1 or less from your graveyard to your hand. => Flying, vigilance
+[i]Infusion[/i] — When this creature enters, put two +1/+1 counters on it if you gained life this turn.
+pt: 2/3 => 2/2
+
+Canyonline Explorer
+rules_text: When Canyonline Explorer enters, create two Map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => When Canyonline Explorer enters, distribute two +1/+1 counters among one or two target creatures you control.
+
+Concord Cavalry
+rules_text: [i]Valiant[/i] — Whenever Concord Cavalry becomes the target of a spell or ability you control for the first time each turn, scry 1. If that spell has incantation, scry 2 instead. => [i]Valiant[/i] — Whenever Concord Cavalry becomes the target of a spell or ability you control for the first time each turn, scry 1.
+
+Incantation of Sacred Flame
+rules_text: Put a +1/+1 counter on target creature. Scry 1.
+Incantation 3 [i](If you cast this spell from your hand, exile it with 3 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Put a +1/+1 counter on target creature. Scry 1.
+Incantation 3 [i](if you cast this from your hand, exile it with 3 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Wayfinder's Cloak
+rules_text: Equipped creature gets +1/+1 and has vigilance.
+Whenever quipped creature attacks, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Equip {1} => Equipped creature gets +1/+1 and has vigilance.
+Whenever quipped creature attacks, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Equip {2}
+
+Fallen Champion
+cost: {W} => {2}{W}
+pt: 1/1 => 2/2
+
+Light Unyielding
+
+Dungeon Shackler
+rules_text: When Dungeon Shackler enters, target creature losses all abilities and can't attack or block until Dungeon Shackler leaves the battlefield. If that creature has power 2 or less, put a shield counter on Dungeon Shackler. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => When Dungeon Shackler enters, exile up to one target creature an opponent controls until Dungeon Shackler leaves the battlefield. If that creature has power 2 or less, put a shield counter on Dungeon Shackler. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+Wingborne Knights
+rules_text: Flying
+When Wingborne Knights enters, create two Map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Whenever you put a +1/+1 counter on a creature you control, it gains flying until end of turn. => Flying
+When Wingborne Knights enters, create two 1/1 white Human Knight creature tokens.
+
+Highblade Justicar
+rules_text: First strike
+[i]Valiant[/i] — Whenever Highblade Justicar becomes the target of a spell or ability you control for the first time each turn, create a 1/1 white Human Knight creature token. => [i]Valiant[/i] — Whenever Highblade Justicar becomes the target of a spell or ability you control for the first time each turn, create a 1/1 white Human Knight creature token.
+pt: 3/2 => 3/3
+
+Black Reliquary Champion
+rules_text: First strike, vigilance
+Whenever Black Reliquary Champion enters or attacks, you may return target nonland permanent card with mana value 1 or less from your graveyard to the battlefield. => First strike, vigilance
+Whenever Black Reliquary Champion enters or attacks, you may return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+pt: 4/4 => 2/3
+
+Liturgical Ignition
+rules_text: Exile target creature you control, then return that card to the battlefield under its owner's control.
+Incantation 2 [i](If you cast this spell from your hand, exile it with 2 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Exile target creature you control, then return that card to the battlefield under its owner's control.
+Incantation 2 [i](if you cast this from your hand, exile it with 2 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Graveside Lament
+rules_text: Choose One —
+• Destroy target artifact or enchantment.
+• Exile target player's graveyard.
+Incantation 5 [i](If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Choose one —
+• Destroy target artifact or enchantment.
+• Exile target player's graveyard.
+Incantation 5 [i](if you cast this from your hand, exile it with 5 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Holy Smite
+rules_text: Return target creature card with mana value 1 from your graveyard to the battlefield. Holy Smite deals damage equal to the number of creatures you control to target creature. You gain 3 life. => Return target creature card with mana value 3 or less from your graveyard to the battlefield. Put a +1/+1 counter on target creature you control. You gain 2 life.
+
+Cliffpath Wayfarer
+rules_text: When Cliffpath Wayfarer dies, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => When Cliffpath Wayfarer dies, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Arvek, Sword of the Church
+rules_text: [i]Valiant[/i] — Whenever Arvek becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.
+When Arvek dies, if it had power 4 or greater, create a 1/1 white Human Knight creature token. => [i]Valiant[/i] — Whenever Arvek becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on him.
+When Arvek dies, if he had power 4 or greater, create a 1/1 white Human Knight creature token.
+
+From Depths Reborn
+
+Valenor, Bow of the Church
+
+Lunapollen Dancer
+
+Guild's Confiscator
+rules_text: Flash
+Vigilance, lifelink
+If one or more tokens would be created under opponents control, a Map token is created instead. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Flash
+Vigilance, lifelink
+If one or more tokens would be created under opponents control, a Map token is created instead. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+pt: 2/3 => 2/2
+
+Bad Omen
+rules_text: Flying
+Whenever one or more cards leave your graveyard, each opponent losses 1 life and you gain 1 life. => Flying
+Whenever one or more cards leave your graveyard during your turn, each opponent losses 1 life and you gain 1 life.
+
+Crowcleaver Reaper
+
+Veiled Corpsecaller
+rules_text: Whenever Veiled Corpsecaller enters or attacks, mill a card.
+Fleshbind {2}{B} [i]({2}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => [i]Morbid[/i] — When this creature enters, if a creature died this turn, draw a card and lose 1 life.
+
+Depth's Edict
+rules_text: Each opponent sacrifices a creature. Up to two target players mill two cards. => Each opponent sacrifices a creature. Any number of target players each mill two cards.
+
+Pact to the Old Gods
+
+Skullfeather Harrier
+rules_text: Flying
+Whenever Skullfeather Harrier enters or attacks, you may sacrifice another creature or artifact. If you do, draw a card. => Flying
+Whenever Skullfeather Harrier attacks, you may sacrifice another creature or artifact. If you do, surveil 1 then draw a card.
+
+Gravebloom Bug
+
+Reliquary Excision
+
+Blightwing
+rules_text: Flying
+Fleshbind {3}{B} [i]({3}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Flying
+When Blightwing enters, each opponent loses 2 life and you gain 2 life.
+
+Defy the Depths
+
+Exposed to the Void
+
+Ball of Rats
+rules_text: Deathtouch
+When Ball of Rats dies, return target creature card with mana value 1 or less from your graveyard to the battlefield tapped. => When Ball of Rats dies, return target creature card with mana value 1 or less from your graveyard to the battlefield tapped.
+pt: 2/2 => 3/2
+
+Gilded Reanimation
+
+Enraged Bat
+rules_text: Flying, lifelink
+Fleshbind {1}{B} [i]({1}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Flying, lifelink
+[i]Morbid[/i] — At the beginning of your end step, if a creature died this turn, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+pt: 2/1 => 1/2
+
+Rat Hurl
+cost: {2}{B} => {2}{B}{B}
+
+Witches' Sabbath
+rules_text: This spell costs {4} less to cast, if it targets a creature card with mana value 3 or less.
+Return target creature card from your graveyard to the battlefield. => Mill five cards. You may put up to three cards from among the cards milled this way into your hand.
+
+Graveyard Golem
+rules_text: Graveyard Golem's power and toughness are each equal to the number of creature cards in your graveyard.
+Fleshbind {1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Graveyard Golem's power and toughness are each equal to the number of creature cards in your graveyard.
+[i]Morbid[/i] — At the beginning of your end step, if a creature died this turn, mill three cards.
+
+Walking Ossuary
+rules_text: Menace
+Whenever Walking Ossuary deals combat damage to a player, you may return target creature card from your graveyard to your hand.
+Fleshbind {1}{B} [i]({1}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => [i]Morbid[/i] — At the beginning of your end step, if a creature died this turn, you may return target creature card that was not put into your graveyard this turn, from your graveyard to your hand.
+pt: 4/3 => 4/4
+
+Cursed Dunegon Scroll
+
+Witchcourt Enforcer
+rules_text: Flying, lifelink
+Whenever one or more cards leave your graveyard, you lose 1 life and draw a card. => Flying, lifelink
+Whenever one or more cards leave your graveyard during your turn, you lose 1 life and draw a card.
+
+Corrupted Smite
+rules_text: Target player sacrifices a creature, discards a card and losses 3 life. => Target player sacrifices a creature, discards a card and loses 3 life.
+
+Opportunistic Dungeoneer
+rules_text: Sacrifice another creature or artifact: Opportunistic Dungeoneer explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => Sacrifice another creature or artifact: Opportunistic Dungeoneer explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Zombie Hyena
+cost: {4}{B} => {3}{B}
+rules_text: Menace
+Whenever Zombie Hyena attacks, any number of target players mill number of cards equal to Zombie Hyena's power.
+Fleshbind {B} [i]({B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Menace
+[i]Morbid[/i] — When Zombie Hyena enters, if a creature died this turn, it gains haste until end of turn.
+
+Seraphine, King's Blade
+
+Grog, the Creative
+type: Legendary Creature — Troll Painter => Legendary Creature — Troll
+rules_text: Prowess
+Whenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value less than or equal to Grog's power. Exile it. You may cast that card for as long as it remains exiled and you have cast an instant or sorcery spell this turn. Put the rest on the bottom of your library in a random order. => Prowess
+Whenever Grog attacks, reveal cards from the top of your library until you reveal an instant or sorcery card with mana value less than or equal to Grog's power. Exile it. You may cast that card for as long as it remains exiled if you've have cast an instant or sorcery spell this turn. Put the rest on the bottom of your library in a random order.
+
+Netherwood Beast
+
+Sylvan Prayer
+rules_text: Put a +1/+1 counter on each creature you control.
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Put a +1/+1 counter on each creature you control.
+Incantation 4 [i](if you cast this from your hand, exile it with 4 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Nina, Spore-Sheltered
+
+Song of Steel
+rules_text: Target creature you control gains double strike until end of turn.
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Target creature you control gains double strike until end of turn.
+Incantation 4 [i](if you cast this from your hand, exile it with 4 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Luminous Concord Cleric
+cost: {1}{RW}{RW} => {2}{RW}{RW}
+
+Rotbound Pursuer
+rules_text: Deathtouch
+Whenever Rotbound Pursuer deals combat damage to a player, they lose half their life, rounded up.
+Fleshbind {3}{B} [i]({3}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Deathtouch
+Whenever Rotbound Pursuer attacks, you may mill three cards.
+Blasphemy — {1}{B}{B}: Until end of turn, you may play lands and cast spells from your graveyard.
+If a card would be put into your graveyard from anywhere this turn, exile that card instead.
+
+Linnet, Depths Delver
+
+Melia, Gentle Caretaker
+
+Hagar, the Ruthless
+
+Bellis, Steward of Offerings
+rules_text: Lifelink
+{T}, Sacrifice a creature: Surveil 1.
+[i]From the depths[/i] — At the beginning of each end step, if there are ten or more cards in your graveyard, untap Bellis and transform it. => Lifelink
+{T}, Sacrifice another creature: Surveil 1.
+[i]From the depths[/i] — At the beginning of each end step, if there are ten or more cards in your graveyard, untap Bellis and transform her.
+
+Crystal Cave Stasis
+rules_text: Enchant creature
+When Crystal Cave Stasis enters, tap enchanted creature and create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Enchanted creature can't become untapped. => Enchant creature
+When Crystal Cave Stasis enters, tap enchanted creature and create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Enchanted creature can't become untapped.
+
+Skylore Aerie-Mage
+
+Duskscout Sprite
+
+Falling-Leaf Arcanist
+
+Incantation of Repulsion
+rules_text: Return target creature an opponent control's to its owners hand. 
+Incantation 5 [i](If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Return target creature an opponent control's to its owners hand. 
+Incantation 5 [i](if you cast this from your hand, exile it with 5 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Misthall Savant
+rules_text: Vigilance
+When Misthall Savant dies, up to two target creatures you control explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => Vigilance
+When Misthall Savant dies, up to one target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Cliffward Apex
+cost: {4}{U} => {3}{U}
+rules_text: Flying
+Whenever Cliffward Apex deals combat damage to a player, draw a card, then discard a card. 
+Fleshbind {2}{U} [i]({2}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Flying, vigilance
+
+Lumenhex Witch
+rules_text: Whenever Lumenhex Witch attacks, up to two target players mill a card.
+
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Whenever Lumenhex Witch attacks, up to two target players each mill a card.
+pt: 2/2 => 2/1
+
+Incantation of Insight
+rules_text: Draw two cards.
+Incantation 3 [i](If you cast this spell from your hand, exile it with 3 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Draw two cards.
+Incantation 3 [i](if you cast this from your hand, exile it with 3 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Refute
+
+Coven-Stitched Horror
+rules_text: Whenever you cast a spell from anywhere other than your hand, draw a card, then discard a card. => Whenever you cast a spell from anywhere other than your hand, Coven-Stitched Horror gets +1/+1 and gains vigilance until end of turn.
+
+Arcane Murmur
+rules_text: Draw a card.
+Incantation 5 [i](If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Draw a card.
+Incantation 5 [i](if you cast this from your hand, exile it with 5 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Elemental Incantation
+rules_text: Create a 1/1 blue and red Elemental creature token with prowess. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]
+Incantation 5 [i](If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Create a 1/1 blue and red Elemental creature token with prowess. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]
+Incantation 5 [i](if you cast this from your hand, exile it with 5 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Desperate Spark
+
+Witch of the Ember Rose
+rules_text: Prowess 
+Whenever Witch of the Ember Rose attacks, you may exile an instant or sorcery card from your graveyard with mana value equal to or less than its power. You may cast it without paying its cost. => Prowess 
+Whenever Witch of the Ember Rose attacks, you may exile an instant or sorcery card from your graveyard with mana value equal to or less than its power. You may cast it without paying its mana cost.
+pt: 1/5 => 1/4
+
+Veilwing Harpy
+
+Sphinx of New Horizons
+rules_text: Flying
+Whenever a creature you control deals combat damage to a player, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+Fleshbind {U} [i]({U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Flying, vigilance
+Whenever Sphinx of New Horizons deals combat damage to a player, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+pt: 4/4 => 2/2
+
+Sphinx Prayer
+rules_text: Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.
+Incantation 4 [i](if you cast this from your hand, exile it with 4 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Crustacean Curse
+
+Incantation of Duplication
+rules_text: Create a token that's a copy of target artifact or creature, 
+Incantation 5 [i](If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Create a token that's a copy of target artifact or creature.
+Incantation 5 [i](if you cast this from your hand, exile it with 5 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Spellcurrent Jellymage
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Instant and sorcery spells you cast cost {1} less to cast.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Instant and sorcery spells you cast cost {1} less to cast.
+
+Arcane Smite
+
+Academy Mentor
+pt: 2/4 => 2/3
+
+Croak-Hag Warlock
+
+Nightcap Hexer
+rules_text: Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => Flying
+Whenever Nightcap Hexer deals combat damage to a player, if it has no counters, put a prowess counter on it.
+
+Chart a Course
+
+Tidecall Temptress
+
+Luminous Ceremony
+rules_text: Draw three cards. Then discard two cards unless you discard an instant or creature card with flash. => Draw three cards. Then discard two cards unless you discard an instant card or creature card with flash.
+
+Pathfinder Relic
+
+Bloodaxe Berserker
+
+Trailreading Adept
+cost: {2}{R} => {3}{R}
+rules_text: When Trailreading Adept enters, create two Map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Menace, haste
+pt: 2/2 => 3/3
+
+Path of the Reaping
+rules_text: Path of the Reaping deals 5 damage to target creature. Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Path of the Reaping deals 5 damage to target creature. Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Bloodmask Zealot
+
+Heir of the High Pass
+rules_text: When Heir of the High Pass enters, choose one:
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+• Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => When Heir of the High Pass enters, choose one:
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+• Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Curious Appraiser
+rules_text: {3}{R}, {T}: Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Blasphemy — {3}{R}: Discard a card. Draw two cards. [i](When you activate a blasphemy ability of a permanent, sacrifice that permanent at the beginning of your endstep. Activate each blasphemy ability only once.)[/i]
+
+Ironclad Guard
+
+Scrapstick Skulker
+rules_text: Haste
+When Scrapstick Skulker dies, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Haste
+When Scrapstick Skulker dies, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Scorching Dragonfire
+
+Crimson Petal Knight
+
+Demolition Expert
+
+Savage Interruption
+
+Rootwarden Minotaur
+cost: {1}{RG}{RG} => {1}{GU}{GU}
+rules_text: Trample
+Whenever you reveal a creature spell, while exploring, you may put it into your hand.
+At the beginning of your upkeep Rootwarden Minotaur explores. => Trample
+Whenever you reveal a creature card, while exploring, you may put it into your hand.
+At the beginning of your upkeep Rootwarden Minotaur explores.
+
+Shielded Resolve
+
+Luminous High Justicar
+rules_text: Flash
+Vigilance
+Whenever a creature you control deals combat damage to a player, create a 1/1 white Human Knight creature token. => Flash
+Vigilance
+Whenever a nontoken creature you control deals combat damage to a player, create a 1/1 white Human Knight creature token.
+pt: 3/4 => 3/3
+
+Antiquity Salvager
+
+Blinding Rebuff
+
+Manasiphon Witch
+
+Cult Father
+
+Hired Monster Hunter
+rules_text: Menace
+Whenever Hired Monster Hunter attacks, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Menace
+Whenever Hired Monster Hunter attacks, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Valkor, Cult-Called Harrier
+
+Living Reliquary
+
+Restorative Current
+rules_text: Target creature has base power and toughness 3/3 until end of turn.
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Target creature has base power and toughness 3/3 until end of turn.
+Incantation 4 [i](if you cast this from your hand, exile it with 4 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Guiding Emberlantern
+rules_text: Flash
+When Guiding Emberlantern enters, it deals 1 damage to each creature.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i] => Flash
+When Guiding Emberlantern enters, it deals 1 damage to each creature your opponents control.
+{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Ember Rune-Reader
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast a spell from anywhere other than your hand, add {R}. => Whenever you cast a spell from anywhere other than your hand, create a tapped treasure token.
+
+Ember-Rose Watcher
+
+Burning Sentence
+
+Valkor's Claim
+
+Raven's Incantation
+rules_text: Target creature you control gets +2/+0 and “Whenever this creature deals combat damage to a player, exile the top card of your library. You may play that card this turn.” until end of turn.
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Target creature you control gets +2/+0 and “Whenever this creature deals combat damage to a player, exile the top card of your library. You may play that card this turn.” until end of turn.
+Incantation 4 [i](if you cast this from your hand, exile it with 4 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Feral Invocation
+rules_text: Whenever a creature you control enters this turn, it gains haste until end of turn.
+Incantation 3 [i](If you cast this spell from your hand, exile it with 3 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Whenever a creature you control enters this turn, it gains haste until end of turn.
+Incantation 3 [i](if you cast this from your hand, exile it with 3 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Incantation of Autumn Sleep
+rules_text: Exile the top card of your library. You may play that card this turn.
+Incantation 3 [i](If you cast this spell from your hand, exile it with 3 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Exile the top card of your library. You may play that card this turn.
+Incantation 3 [i](if you cast this from your hand, exile it with 3 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Ember Vigil
+
+Furious Smite
+rules_text: Furious Smite deals 3 damage divided as you choose among any number of target creatures. Destroy target artifact with mana value 3 or less. Discard a card, then draw a card. => Furious Smite deals 3 damage divided as you choose among any number of target creatures. Destroy up to one target artifact with mana value 3 or less. Discard a card, then draw a card.
+
+Ursine Goblin Rider
+
+Elyndor Street Thief
+rules_text: When Elyndor Street Thief dies, create a tapped Treasure token.
+{3}{R}, Sacrifice Elyndor Street Thief: Create a tapped Treasure token. => When Elyndor Street Thief dies, exile the top card of your library. You may play it until the end of your next turn.
+Blasphemy — {1}{R}: Create a tapped Treasure token. [i](When you activate a blasphemy ability of a permanent, sacrifice that permanent at the beginning of your endstep. Activate each blasphemy ability only once.)[/i]
+
+Cult Judge
+rules_text: Whenever you sacrifice an artifact or creature, if that permanent had mana value 1 or less discard a card then draw a card, otherwise draw a card. => Creatures you control have: “Blasphemy — {R}{R}: This creature gets +2/+0 until end of turn.” [i](When you activate a blasphemy ability of a permanent, sacrifice that permanent at the beginning of your endstep. Activate each blasphemy ability only once.)[/i]
+
+Ember Incantation
+rules_text: Exile target instant or sorcery card from your graveyard. You may cast it until the end of your next turn.
+Incantation 3 [i](If you cast this spell from your hand, exile it with 3 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Exile target instant or sorcery card from your graveyard. You may cast it until the end of turn.
+Incantation 3 [i](if you cast this from your hand, exile it with 3 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Church Knight's Compass
+
+Cardshark Cultist
+rules_text: {T}, Sacrifice an artifact or creature: If sacrificed permanent had mana value 1 or less Cardshark Cultist deals 2 damage to target opponent, otherwise Cardshark Cultist deals 2 damage to any target. => As additional cost to cast this spell, sacrifice a creature or an artifact.
+Menace, haste.
+pt: 2/3 => 4/1
+
+Marksman's Instinct
+
+Crosswood Sharpshooter
+rules_text: Reach
+When Crosswood Sharpshooter enters, up to two target creatures you control explore. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => Reach
+When Crosswood Sharpshooter enters, up to two one target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+pt: 3/3 => 3/4
+
+Rootwake Elemental
+rules_text: Trample
+Whenever one or more cards leave your graveyard, Rootwake Elemental gains vigilance until end of turn. => Reach, trample.
+
+Traveling Treefolk
+rules_text: {3}{G}: Target creature you control explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => {3}{G}: Traveling Treefolk explores. Activate only as a sorcery. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Roots Take Hold
+rules_text: Search your library for a basic land card, put it onto the battlefield tapped then shuffle.
+Incantation 2 [i](If you cast this spell from your hand, exile it with 2 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Incantation 2 [i](if you cast this from your hand, exile it with 2 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Earthen Chant
+
+Greenpath Explorer Squad
+rules_text: When Greenpath Explorer Squad enters, each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => When Greenpath Explorer Squad enters, each creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Wayfinder Relic
+
+Hightrail Surveyor
+
+Bone-Throwing Ooze
+rules_text: Reach
+When Bone-Throwing Ooze enters, destroy up to one target artifact or enchantment. Destroyed permanent's controller creates a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Reach
+When Bone-Throwing Ooze enters, destroy up to one target artifact or enchantment. Destroyed permanent's controller creates a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Underfolk Pathrunner
+rules_text: Whenever one or more cards leave your graveyard, create a 1/1 black Rat creature token with “This token can't block.” => Whenever one or more cards leave your graveyard during your turn, create a 1/1 black Rat creature token with “This token can't block.”
+
+Bloodtrail Hounds
+rules_text: Haste
+When Bloodtrail Hounds enters, create two Map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i] => Haste
+When Bloodtrail Hounds enters, create two Map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Verdant Monarch
+rules_text: Vigilance, trample, haste
+Fleshbind {1}{G}{G} [i]({1}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Feral 3 [i](At the beginning of your end step, if sources you control dealt 3 or more damage to one of your opponents this turn and this creature is not feral, put a +1/+1 counter on it and it becomes feral.)[/i]
+Vigilance, haste
+As long as this creature is feral, it has trample.
+pt: 4/3 => 3/3
+
+Khar-Duun Scrapscarab
+rules_text: Trample
+Whenever Khar-Duun Scrapscarab attacks, it gets +1/+0 for each time one or more cards left your graveyard this turn.
+Fleshbind {G}{G} [i]({G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Trample
+[i]Morbid[/i] — At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on Khar-Duun Scrapscarab.
+
+Blooming Smite
+rules_text: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Target creature you control fights target creature an opponent controls. Exile up to three target cards in graveyards. => Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Up to one target creature you control fights target creature an opponent controls. Exile up to three target cards in graveyards.
+
+Challenge of the Depths
+
+Subterrane Skitterlizard
+rules_text: Trample
+Whenever Subterrane Skitterlizard attacks, double its power until end of turn.
+Fleshbind {1}{G}{G} [i]({1}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Trample
+[i]Morbid[/i] — Whenever Subterrane Skitterlizard attacks, if a creature died this turn, double its power until end of turn.
+pt: 3/6 => 4/6
+
+Rootforged Golem
+rules_text: Reach
+When Rootforged Golem enters you gain 2 life and draw a card. => Reach
+When Rootforged Golem enters, you gain 2 life and draw a card.
+
+Mycelial Dominion
+rules_text: Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional {G}.
+{X}{G}: Enchanted land becomes a copy of target creature card in your graveyard with mana value x or less until end of turn. Activate only as a sorcery. => Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional {G}.
+{X}{G}: Enchanted land becomes a copy of target creature card in your graveyard with mana value X or less until end of turn. Activate only as a sorcery.
+
+Wildheart Ascension
+
+Boulderaxe Minotaur
+pt: 2/3 => 2/2
+
+Underfolk Bonecaller
+
+Old God's Wisdom
+rules_text: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in random order.
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in random order.
+Incantation 4 [i](if you cast this from your hand, exile it with 4 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Cultforged Abomination
+type: Creature — Demon => Creature — Horror Sheep Wolf
+rules_text: Menace
+Whenever Cultforged Abomination attacks, each opponent discards a card.
+Fleshbind {2}{B} [i]({2}{B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Menace
+Whenever Cultforged Abomination enters or attacks, you may sacrifice an artifact or creature. If you do, you lose 1 life and draw a card.
+[i]Morbid[/i] — At the beginning of your end step, if a creature died this turn, each opponent discards a card.
+pt: 4/4 => 3/3
+
+Dungeon Overseer
+
+Triune Bladefall
+
+Elderwild Behemoth
+cost: {3}{G}{G}{G} => {4}{G}{G}
+rules_text: Trample, haste
+Whenever Elderwild Behemoth attacks, create two 3/3 green Beast creature tokens.
+Fleshbind {4}{G}{G} [i]({4}{G}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Feral 3 [i](At the beginning of your end step, if sources you control dealt 3 or more damage to one of your opponents this turn and this creature is not feral, put a +1/+1 counter on it and it becomes feral.)[/i]
+Trample
+When this creature becomes feral, create two 3/3 green Beast creature tokens.
+pt: 5/5 => 6/6
+
+Beast
+
+Map
+
+Odile, Elyndor Princess
+cost: {4}{W}{W} => {2}{W}{W}
+rules_text: [+1]: Create three 1/1 white Human Knight creature tokens.
+[-3]: Each creature target opponent controls loses all abilities, and has base power and toughness 1/1.
+[-8]: Each opponent gets an emblem with “Nonland permanents you control lose all abilities. Creatures you control have base power and toughness 1/1” => [+1]: Create a 1/1 white Human Knight creature token.
+[-3]: Create a Cloister token.[i](A white enchantment with “When this enters, exile target nonland permanent until this leaves.”)[/i]
+[-6]: You get an emblem with “At the beginning of your end step, create two white 1/1 Human Knight creature tokens.”
+special_text: [+1]: Create three 1/1 white Human Knight creature tokens.
+[-3]: Each creature target opponent controls loses all abilities, and has base power and toughness 1/1.
+[-8]: Each opponent gets an emblem with “Nonland permanents you control lose all abilities. Creatures you control have base power and toughness 1/1” => [+1]: Create a 1/1 white Human Knight creature token.
+[-3]: Create a Cloister token.[i](A white enchantment with “When this enters, exile target nonland permanent until this leaves.”)[/i]
+[-6]: You get an emblem with “At the beginning of your end step, create two white 1/1 Human Knight creature tokens.”
+loyalty: 5 => 4
+
+Abysswake Leviathan
+rules_text: Whenever Abysswake Leviathan attacks, draw a card.
+When Abysswake Leviathan dies, you have no maximum hand size for the rest of the game.
+Fleshbind {1}{U} [i]({1}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Flash
+Whenever Abysswake Leviathan or another nontoken creature you control enters, create a Luminous Esca token attached to that creature.[i](A blue enchantment Aura with “Enchant creature” and “Whenever enchanted creature deals combat damage to an opponent, you may draw a card.”)[/i]
+pt: 3/3 => 2/3
+
+Crimson-Flame Summoner
+cost: {2}{R} => {1}{R}{R}
+
+Old God's Cruelty
+
+Rite of Blood and Flame
+
+Preparations for the Descent
+
+Underworld Guide
+rules_text: Whenever one or more cards leave your graveyard Underworld Guide, gains trample until end of turn.
+Whenever Underworld Guide deals combat damage to a player, return target permanent card from your graveyard to your hand.
+Fleshbind {1}{G} => [i]Morbid[/i] — This creature enters with a +1/+1 and a trample counter on it if a creature died this turn.
+Whenever Underworld Guide deals combat damage to a player, return target permanent card from your graveyard to your hand.
+pt: 3/4 => 3/3
+
+Bearer of Blessings
+rules_text: [i]Valiant[/i] — Whenever Bearer of Blessings becomes the target of a spell or ability you control for the first time each turn, it gains double strike until end of turn.
+Vigilance, haste => Vigilance, haste
+[i]Valiant[/i] — Whenever Bearer of Blessings becomes the target of a spell or ability you control for the first time each turn, it gains double strike until end of turn.
+
+Bloomsting Assassin
+rules_text: Flash
+Reach
+Whenever Bloomsting Assassin deals combat damage to a player, draw a card, you may play an additional land this turn.
+Fleshbind {1}{G} [i]({1}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Flash
+Reach
+Whenever Bloomsting Assassin deals combat damage to a player, draw a card, you may play an additional land this turn.
+
+Map of Carrion Grove
+
+Guild Provisions
+
+Hunter's Lantern
+
+Ordinary Scarecrow
+rules_text: {1}, {T}: Add one mana of any color.
+{4}: Put four +1/+1 counters on Ordinary Scarecrow. It becomes a 0/0 scarecrow creature in addition to its other types. Activate only once. => {1}, {T}: Add one mana of any color.
+{4}: Put four +1/+1 counters on Ordinary Scarecrow. It becomes a 0/0 scarecrow creature in addition to its other types. Activate only once and only as a sorcery.
+
+Sturdy Bow
+
+Mysterious Horseman
+rules_text: Vigilance, ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Mysterious Horseman attacks, exile target card from a graveyard and gain 1 life. => Vigilance, ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Mysterious Horseman attacks, exile target card from a graveyard and you gain 1 life.
+
+Rat
+
+Treasure
+
+Clattercrew
+
+Odile
+rules_text: Nonland permanents you control lose all abilities. Creatures you control have base power and toughness 1/1. => At the beginning of your end step, create two white 1/1 Human Knight creature tokens.
+
+Skeleton
+
+Luminous High Priestess
+cost: {1}{W}{U} => {W}{U}{U}
+rules_text: Flash 
+Flying
+When Luminous High Priestess enters, you may cast an instant or sorcery spell with mana value 2 or less from your hand without paying its mana cost. If that spell is an incantation, you gain 2 life and draw a card, otherwise it gains incantation 3. => Flash
+Flying.
+You may cast knight and sorcery spells as though they had flash.
+
+Oath-Mender Paladin
+
+Idas, Ruined King
+rules_text: Flying, lifelink
+Sacrifice a creature: Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+Discard a card: Idas gains indestructible until end of turn. Tap it. => Flying, lifelink
+Sacrifice another creature: Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+Discard a card: Idas gains indestructible until end of turn. Tap it.
+
+Lightforged Prayer
+rules_text: Choose one —
+• Return target creature card with mana value 1 from your graveyard to the battlefield tapped.
+• Copy target instant or sorcery card in your graveyard with mana value 1. You may cast the copy.
+Incantation 4 [i](If you cast this spell from your hand, exile it with 4 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Choose one —
+• Return target creature card with mana value 1 from your graveyard to the battlefield tapped.
+• Copy target instant or sorcery card in your graveyard with mana value 1. You may cast the copy.
+Incantation 4 [i](if you cast this from your hand, exile it with 4 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Fallen Kingdom of the Moon
+
+Fallen Kingdom of the Ancients
+
+Fallen Kingdom of the Flame
+
+Fallen Kingdom of the Sun
+
+Fallen Kingdom of the Tides
+
+Marble Ruins
+
+Overgrown Ruins
+
+Sanctified Ruins
+
+Crackling Ruins
+
+Ashen Ruins
+
+Cursed Ruins
+
+Underground Ruins
+
+Echoing Ruins
+
+Titanic Ruins
+
+Sunscorched Ruins
+
+Breach from the Depths
+
+Rhyme of Unmaking
+type: Instant => Sorcery
+rules_text: Surveil 3. Draw two cards. Lose 1 life. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Surveil 3. Draw two cards. You lose 1 life. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Morbid Collector
+type: Creature — Zombie => Creature — Zombie Warlock
+cost: {2}{B}{R} => {1}{B}{R}
+rules_text: When Morbid Collector enters, create a Treasure token, a Map token and a 1/1 black Rat creature token with “This token can't block.”.
+{1}{B}{R}, Sacrifice an artifact or creature: Exile the top card of your library, you may play it this turn. => Sacrifice another creature or artifact: Surveil 1
+Blasphemy — {B}{R}: Return target creature or artifact card with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery, [i](When you activate a blasphemy ability of a permanent, sacrifice that permanent at the beginning of your endstep. Activate each blasphemy ability only once.)[/i]
+pt: 4/3 => 3/3
+
+Moss-Made Paladin
+
+Black Reliquary Banshee
+cost: {3}{W}{B} => {2}{W}{B}
+rules_text: Flying
+Whenever Black Reliquary Banshee deals combat damage to a player, you may return target creature card from your graveyard to your hand. If that card has mana value 1, return it to the battlefield instead. => Flying
+[i]Infusion[/i] — At the beginning of your end step, if you gained life this turn, target opponent loses 3 life unless they sacrifice a nonland permanent of their choice or discard a card.
+pt: 2/3 => 2/4
+
+Expressive Iteration
+
+Paladin's Resolve
+rules_text: Choose one —
+• Create two 1/1 white Human Knight creature tokens.
+• Target creature you control gets +2/+0 and gains trample until end of turn.
+Incantation 5 [i](If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Choose one —
+• Create two 1/1 white Human Knight creature tokens.
+• Target creature you control gets +2/+0 and gains trample until end of turn.
+Incantation 5 [i](if you cast this from your hand, exile it with 5 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Daring Dungeon Raider
+
+Orva, Cauldron Rider
+
+Catacomb Warden
+
+Ember Smite
+
+Eternal Hunter
+rules_text: Vigilance
+Once during each of your turns, you may cast a permanent spell with mana value 1 from your graveyard. It enters with a finality counter. => Vigilance, lifelink
+[i]Infusion[/i] — At the beginning of your end step, if you gained life this turn, create a 1/1 white Human Knight creature token.
+
+Saint Gwen's Blessing
+rules_text: Return up to one target creature card with mana value 3 or less from your graveyard to the battlefield. Then if you've spent no mana to cast spells this turn, put a +1/+1 counter on each creature you control. They gain indestructible until end of turn.
+Incantation 5 [i](If you cast this spell from your hand, exile it with 5 time counters as it resolves. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i] => Return up to one target creature card with mana value 3 or less from your graveyard to the battlefield. Then if you've spent no mana to cast spells this turn, put a +1/+1 counter on each creature you control.
+Incantation 5 [i](if you cast this from your hand, exile it with 5 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Autumn Witch
+
+False New God
+rules_text: Menace
+Whenever one or more cards leave your graveyard, you may cast a copy of one of those cards. This ability triggers only once each turn. => Whenever one or more cards leave your graveyard during your turn, you may cast a copy of one of those cards. This ability triggers only once each turn.
+pt: 3/4 => 2/4
+
+Coven's Offering
+rules_text: Choose up to five target cards in your graveyard. Target opponent separates them into two piles. Put a pile of your choice into your hand, and the other pile in your graveyard. => Choose up to five target cards in your graveyard. Target opponent separates them into two piles. Put a pile of your choice into your hand.
+Exile Coven's Offering.
+
+Monster Tracker's Song
+rules_text: Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order. Each creature put onto the battlefield this way explores and gains haste until end of turn.
+Incantation 3 => Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order. Each creature put onto the battlefield this way explores and gains haste until end of turn.
+Incantation 3 [i](if you cast this from your hand, exile it with 3 time counters. Remove one at the beginning of your upkeep. When the last is removed, cast this without paying its mana cost.)[/i]
+
+Khar-Duun Dragon Breeder
+
+Sanctwhale of Prayer
+
+Egg
+
+Albino Dreadkite
+rules_text: Flying, haste
+Whenever Albino Dreadkite attacks, exile the top card of your library. You may have Albino Dreadkite deal damage equal to half that card's mana value rounded down to any non player target. If you don't, you may play that card this turn. => Flying, haste
+Whenever Albino Dreadkite attacks, exile the top card of your library. You may have Albino Dreadkite deal 3 damage to any non player target. If you don't, you may play that card this turn.
+
+Althea, Hope of Khar-Duun
+cost: {G}{W} => {W}{U}
+rules_text: Althea has First strike while attacking.
+Whenever Althea attacks, create a 1/1 white Human Knight creature token that is tapped and attacking. => Althea has First strike as long as she is attacking.
+Whenever Althea attacks, create a 1/1 white Human Knight creature token that is tapped and attacking.
+
+Gore Omadi, Daughter of Ash
+rules_text: Whenever Gore Omadi enters or attacks, you may sacrifice another creature or artifact. If you do, discard a card, then draw a card.
+Whenever another creature or artifact you control dies, target opponent loses 1 life. => Whenever Gore Omadi enters or attacks, you may sacrifice another creature or artifact. If you do, draw a card.
+Whenever another creature or artifact you control dies, target opponent loses 1 life.
+
+Eclipsed Tormentor
+rules_text: Ward—Pay 3 life
+When Eclipsed Tormentor enters, create a red enchantment token named Agony with: “You can't gain life. Whenever you cast a spell, Agony deals 1 damage to you for each spell you've cast this turn.” under target opponents control. => Ward—Pay 3 life
+When Eclipsed Tormentor enters, target opponent creates a red enchantment token named Agony with: “You can't gain life. Whenever you cast a spell, Agony deals 1 damage to you for each spell you've cast this turn.”.
+
+Agony
+
+Rotbound Awakener
+rules_text: Menace
+Fleshbind {B} [i]({B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains this creature's abilities until end of turn. Activate only as a sorcery.)[/i] => Menace
+{3}{B}: Return this card from your graveyard to your hand
+
+Wish Granting Priest
+cost: {1}{U}{R} => {2}{U}{R}
+rules_text: Flash
+When Wish Granting Priest enters, if you cast it, you may play an instant or sorcery card you own from outside the game this turn. => Flash
+Flying
+When Wish Granting Priest enters, if you cast it, you may play an instant or sorcery card you own from outside the game this turn.
+
+Everywhere
+
+Flamecasting Fury
+
+Old One's Tomb
+
+Soulstone Dominion
+rules_text: {T}: Add {C}.
+{6}: This land becomes a 5/5 creature with vigilance and all creature types, it gains: “Whenever this creature attacks, discard a card, then draw a card. “. It's still a land. => {T}: Add {C}.
+{6}: This land becomes a 5/5 creature with vigilance and all creature types, it gains: “Whenever this creature attacks, you may discard a card, then draw a card. “. It's still a land.
+
+Mysterious Challenger
+rules_text: When Mysterious Challenger enters, search tour library for an artifact card reveal it, put it into your hand. Shuffle. If that card is an equipment, you may put it onto the battlefield instead. => When Mysterious Challenger enters, search your library for an artifact card reveal it, put it into your hand. Shuffle. If that card is an equipment, you may put it onto the battlefield instead.
+
+Elyndor Falls to the Curse
+rules_text: Time loop[i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Mill three cards.
+II — Return a creature or land card from your graveyard to your hand.
+III — Gain 2 life. => Time loop[i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — You mill three cards.
+II — Return a creature or land card from your graveyard to your hand.
+III — You gain 2 life.
+special_text: Time loop[i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — Mill three cards.
+II — Return a creature or land card from your graveyard to your hand.
+III — Gain 2 life. => Time loop[i](As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)[/i]
+I — You mill three cards.
+II — Return a creature or land card from your graveyard to your hand.
+III — You gain 2 life.
+
+Veteran Battle Cleric
+
+Endless War
+
+Hunter's Lullaby
+
+Aelun, New God of Prosperity
+rules_text: Flash
+Whenever Aelun enters or attacks and at the beginning of each end step, you may draw a card. Then you may put a land card from your hand onto the battlefield. => Flash
+Whenever Aelun enters or attacks and at the beginning of your upkeep, you may draw a card. Then you may put a land card from your hand onto the battlefield.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 
