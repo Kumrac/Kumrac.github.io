@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "EAJ",
+            "set_name": "Eternal Autumn of Javor",
+            "formats": ""
+        },
+        {
             "set_code": "VTK",
             "set_name": "Vaelcairn, Tomb of Kingdoms",
             "formats": ""
