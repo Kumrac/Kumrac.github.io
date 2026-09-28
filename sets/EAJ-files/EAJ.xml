@@ -5,7 +5,7 @@
 			<name>EAJ</name>
 			<longname>Eternal Autumn of Javor</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-23</releasedate>
+			<releasedate>2026-09-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -83,7 +83,7 @@ Enchanted creature can&apos;t become untapped and can&apos;t have counters put o
 			<text>Rotten 3— {1}{W}{B} (If you cast this spell for its rotten cost, it enters with three -1/-1 counters on it.)
 Menace
 Whenever one or more modified creatures you control deal combat damage to a player, you draw a card and lose 1 life. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/4.png" num="164">EAJ</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/4.png" num="165">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,15 +118,15 @@ Whenever you cast an instant or sorcery spell, each opponent loses 1 life and yo
 		<card>
 			<name>Ashen Dismissal</name>
 			<text>Rite {2} (As aditional cost to cast this spell you may pay {2}. This cost is reduced by {1} for each counter among permanents you control.)
-Counter target spell. If rite was performed, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+The owner of target creature puts it on their choice of the top or bottom of their library. If rite was performed, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
 			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/6.png" num="34">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1UU</manacost>
-				<cmc>3</cmc>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -152,7 +152,7 @@ Destroy target creature.</text>
 		<card>
 			<name>Nadia&apos;s Intervention</name>
 			<text>Destroy target creature. If that creature dealt damage to you or a creature you control this turn, its controller loses 2 life.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/8.png" num="84">EAJ</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/8.png" num="85">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -200,16 +200,15 @@ Ferocious — If you control a creature with power 4 or greater, Hunter&apos;s M
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Old Grudge</name>
-			<text>Rite {1} (As aditional cost to cast this spell you may pay {1}. This cost is reduced by {1} for each counter among permanents you control.)
-Destroy target creature or planeswalker an opponent controls if it has mana value 3 or less or if rite was performed.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/11.png" num="86">EAJ</set>
+			<name>Huntress&apos;s Reflexes</name>
+			<text>Target creature gains first strike and deathtouch until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/11.png" num="76">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>BB</manacost>
+				<manacost>1B</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -237,7 +236,7 @@ Whenever you sacrifice an artifact or creature, Zyrgast Hexpiper deals 1 damage 
 		<card>
 			<name>Javorian Hill-Troll</name>
 			<text>Rotten 4— {R}{G} (If you cast this spell for its rotten cost, it enters with four -1/-1 counters on it.)
-Ferocious — As long as you control a creature with power 4 or greater, Javorian Hill-Troll has trample and haste.</text>
+Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, Javorian Hill-Troll gains trample and haste until end of turn.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/13.png" num="167">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -255,7 +254,7 @@ Ferocious — As long as you control a creature with power 4 or greater, Javoria
 		<card>
 			<name>Russet Dryad</name>
 			<text>Rite— {2}{G}{W} (As aditional cost to cast this spell you may pay {2}{G}{W}. This cost is reduced by {1} for each counter among permanents you control.)
-When Russet Dryad enters return target enchantment card from your graveyard to your hand. If rite was performed, return that card to the battlefield instead.</text>
+When Russet Dryad enters, return target enchantment card from your graveyard to your hand. If rite was performed, return that card to the battlefield instead.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/14.png" num="172">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -310,7 +309,7 @@ As long as Rootwarden Paladin is equipped, it has vigilance.</text>
 			<name>Honey-Hued Rog</name>
 			<text>Rite {3}{G}{U} (As aditional cost to cast this spell you may pay {3}{G}{U}. This cost is reduced by {1} for each counter among permanents you control.)
 When Honey-Hued Rog enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle. Then if rite was performed you gain 2 life and draw two cards.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/17.png" num="165">EAJ</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/17.png" num="166">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -705,7 +704,7 @@ Draw two cards. If rite was performed, draw three cards instead.</text>
 			<name>King&apos;s Arrival</name>
 			<text>Return target creature an opponent controls to its owner&apos;s hand.
 Choose one —
-• Create Javorian King, a legendary 2/2 white Noble creature token. 
+• Target player creates Javorian King, a legendary 2/2 white Noble creature token. 
 • Target creature can&apos;t be blocked this turn.</text>
 			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/39.png" num="45">EAJ</set>
 			<prop>
@@ -826,7 +825,7 @@ As long as you control six or more lands, Laughing Witch has vigilance.</text>
 		<card>
 			<name>Mamai&apos;s Song</name>
 			<text>Until end of turn, target creature gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control. If it was attacking, return it tapped and attacking.&quot;</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/46.png" num="80">EAJ</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/46.png" num="81">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -914,7 +913,7 @@ You draw two cards and lose 2 life.</text>
 			<name>Living Nest</name>
 			<text>Rotten 1— {4}{B}{B} (If you cast this spell for its rotten cost, it enters with a -1/-1 counter on it.)
 Whenever Living Nest attacks, if it is modified, it gains indestructible until end of turn and you lose 1 life and draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/51.png" num="79">EAJ</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/51.png" num="80">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -968,7 +967,7 @@ When Wandering Gorun enters, if rite was performed you draw a card and lose 1 li
 			<name>Moonwater Witch</name>
 			<text>Menace
 Whenever you cast an instant or sorcery spell Moonwater Witch gains lifelink until end of turn.</text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/54.png" num="83">EAJ</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/54.png" num="84">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1001,8 +1000,8 @@ Each opponent discards two cards. If rite was performed, each opponent loses 3 l
 		</card>
 		<card>
 			<name>Harvest Lurker</name>
-			<text>Menace
-This spell costs {2} less to cast if you have sacrificed an artifact or creature this turn.</text>
+			<text>This spell costs {2} less to cast if you have sacrificed an artifact or creature this turn.
+Menace</text>
 			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/56.png" num="107">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -1235,7 +1234,7 @@ Vigilance</text>
 		<card>
 			<name>Hungry Warbeast</name>
 			<text>Rotten 2— {3}{G} (If you cast this spell for its rotten cost, it enters with two -1/-1 counters on it.)
-When Hungry Warbeast enters, you gain life equal to half its power.</text>
+When Hungry Warbeast enters, you gain life equal to half its power, rounded up.</text>
 			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/69.png" num="135">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -1531,7 +1530,8 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Earthshattering Boulder</name>
-			<text>When Earthshattering Boulder enters, target permanent loses indestructible until end of turn, then destroy it.</text>
+			<text>When Earthshattering Boulder enters, target permanent loses indestructible until end of turn, then destroy it.
+{1}, {T}, Sacrifice Earthshattering Boulder: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
 			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/86.png" num="178">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -1715,7 +1715,7 @@ Destroy target artifact or enchantment. If rite was performed, destroy all artif
 		</card>
 		<card>
 			<name>Flash of Steel</name>
-			<text>Attach target equipment you control to target creature you control.
+			<text>Attach target Equipment you control to target creature you control.
 Draw a card.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/97.png" num="14">EAJ</set>
 			<prop>
@@ -1771,10 +1771,10 @@ III — You gain 5 life.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Binding Circle</name>
+			<name>Binding Malison</name>
 			<text>Flash 
 Ward {2} (Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-When Binding Circle enters, exile up to one target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
+When Binding Malison enters, exile up to one target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/100.png" num="2">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -1849,7 +1849,7 @@ When Hexstopper Faerie enters, counter target spell unless its controller pays {
 		<card>
 			<name>Fae Infestation</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Fae Infestation gains: &quot;Whenever a creature you control deals combat damage to an opponent, you may draw a card.&quot;
+I — Fae Infestation gains &quot;Whenever a creature you control deals combat damage to an opponent, you may draw a card.&quot;
 II, III — Creatures you control gain flying until end of turn.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/104.png" num="38">EAJ</set>
 			<prop>
@@ -2041,7 +2041,7 @@ When Elf Thaumaturge enters, look at the top two cards of your library. Put one 
 			<name>Inviting Stranger</name>
 			<text>Lifelink
 Sacrifice another artifact or creature: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/115.png" num="76">EAJ</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/115.png" num="77">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2059,7 +2059,7 @@ Sacrifice another artifact or creature: Surveil 1. (Look at the top card of your
 			<name>Miasmic Cur</name>
 			<text>Rotten 2— {1}{B} (If you cast this spell for its rotten cost, it enters with two -1/-1 counters on it.)
 Menace, haste</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/116.png" num="81">EAJ</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/116.png" num="82">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2093,7 +2093,7 @@ Whenever a creature you control dies, each opponent loses 1 life and you gain 1 
 		<card>
 			<name>Deathly Comfort</name>
 			<text>Rite {2} (As aditional cost to cast this spell you may pay {2}. This cost is reduced by {1} for each counter among permanents you control.)
-Target player reveals their hand. You choose a nonland card from it. That player discards that card if it has mana value 2 or less, or if rite was performed.</text>
+Target player reveals their hand. You choose a nonland card from it. That player discards that card if it has mana value 2 or less or if rite was performed.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/118.png" num="67">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -2134,8 +2134,8 @@ Menace</text>
 		<card>
 			<name>Lake Ferrier</name>
 			<text>Rotten 2— {2}{B} (If you cast this spell for its rotten cost, it enters with two -1/-1 counters on it.)
-When Lake Ferrier enters, return target creature card with mana value equal to or less than Lake Ferrier&apos;s power from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/120.png" num="77">EAJ</set>
+When Lake Ferrier enters, if it was cast, return target creature card with mana value equal to or less than Lake Ferrier&apos;s power from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/120.png" num="78">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2205,7 +2205,7 @@ Whenever a player casts a noncreature spell, they lose 1 life.</text>
 			<name>Nadia&apos;s Technique</name>
 			<text>Rite {3}{B} (As aditional cost to cast this spell you may pay {3}{B}. This cost is reduced by {1} for each counter among permanents you control.)
 Return target creature card from your graveyard to your hand. If rite was performed, return that card to the battlefield instead.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/124.png" num="85">EAJ</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/124.png" num="86">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2242,7 +2242,7 @@ Whenever you cast an instant or sorcery spell, create a 1/1 black Vampire creatu
 Choose one —
 • Target creature gets -3/-3 until end of turn.
 • Remove up to three loyalty counters from target planeswalker.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/126.png" num="82">EAJ</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/126.png" num="83">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2488,8 +2488,8 @@ When Giant&apos;s Bane enters, it deals damage equal to its power to any target.
 		</card>
 		<card>
 			<name>Miro&apos;s Wrath</name>
-			<text>Target creature gets +4/+0 and gains trample until end of turn.
-Ferocious — As long as you control a creature with power 4 or greater, you may cast Miro&apos;s Wrath from your graveyard. If you cast it this way, exile it.</text>
+			<text>Target creature gains double strike until end of turn.
+Ferocious — If you control a creature with power 4 or greater, target creature can&apos;t block this turn and damage can&apos;t be prevented this turn.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/140.png" num="113">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -2558,15 +2558,15 @@ I, II, III — Reveal cards from the top of your library until you reveal a crea
 		</card>
 		<card>
 			<name>Reverdie</name>
-			<text>Return target card from your graveyard to your hand.</text>
+			<text>Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. You gain 3 life.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/144.png" num="145">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>GG</manacost>
-				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -2594,7 +2594,7 @@ I, II, III — Reveal cards from the top of your library until you reveal a crea
 		<card>
 			<name>Morana, Ancient Broodmother</name>
 			<text>Vigilance, reach
-At the beginning of your first main phase, add {G}.
+Whenever Morana attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {4}{G}{G}: Create a 1/2 green Spider creature token with reach for each creature card in your graveyard. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/146.png" num="139">EAJ</set>
 			<prop>
@@ -2635,7 +2635,7 @@ When Cursed Shepherd enters, if it was cast, search your library for a creature 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1G</manacost>
 				<cmc>2</cmc>
@@ -2648,11 +2648,11 @@ When Cursed Shepherd enters, if it was cast, search your library for a creature 
 		<card>
 			<name>Many-Mourned Hydra</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Gain 3 life.
+I — You gain 3 life.
 II — Create a 3/3 green Beast creature token with haste.
 III — Until end of turn, creatures you control get +2/+2 and gain trample.
 ---
-When Many-Mourned Hydra enters, distribute X lore counters among sagas you control.</text>
+When Many-Mourned Hydra enters, distribute X lore counters among Sagas you control.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/149.png" num="137">EAJ</set>
 			<prop>
 				<layout>saga</layout>
@@ -2687,19 +2687,20 @@ When Many-Mourned Hydra enters, distribute X lore counters among sagas you contr
 		</card>
 		<card>
 			<name>Colossus Strength</name>
-			<text>Target creature you control gets +10/+10 and gains reach and trample until end of turn. It loses flying until end of turn.</text>
+			<text>Enchant creature
+Enchanted creature gets +10/+10, has reach and loses flying.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/151.png" num="129">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
 				<manacost>4GG</manacost>
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Brotherly Blessing</name>
@@ -2801,7 +2802,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Amber Shell</name>
-			<text>Enchant creature you control.
+			<text>Enchant creature you control
 Whenever enchanted creature deals combat damage, you draw that many cards and gain that much life.</text>
 			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/158.png" num="157">EAJ</set>
 			<prop>
@@ -2833,14 +2834,14 @@ Whenever enchanted creature deals combat damage, you draw that many cards and ga
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Impaler&apos;s Might</name>
-			<text>Impaler&apos;s Might deals 3 damage to any target and you gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/160.png" num="166">EAJ</set>
+			<name>Conqueror&apos;s Might</name>
+			<text>Target opponent reveals their hand. You choose a nonland card from it. Exile that card. Discard a card, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/160.png" num="161">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>BR</manacost>
 				<cmc>2</cmc>
 				<colors>BR</colors>
@@ -2853,7 +2854,7 @@ Whenever enchanted creature deals combat damage, you draw that many cards and ga
 			<text>Choose one —
 • Corrode deals 3 damage to target creature.
 • Destroy target artifact or enchantment.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/161.png" num="161">EAJ</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/161.png" num="162">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2886,7 +2887,7 @@ Whenever you cast a permanent spell, you gain 1 life.</text>
 		<card>
 			<name>Crushing Wisdom</name>
 			<text>Destroy target creature, enchantment, or planeswalker. If it had mana value 4 or greater, you lose 3 life.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/163.png" num="162">EAJ</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/163.png" num="163">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2934,7 +2935,7 @@ Whenever you cast a permanent spell, you gain 1 life.</text>
 		<card>
 			<name>Hero&apos;s Arrival</name>
 			<text>Exile target creature you control, then return it to the battlefield under its owner&apos;s control. Then that creature deals damage equal to its power to any nonplayer target.</text>
-			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/166.png" num="163">EAJ</set>
+			<set rarity="uncommon" picurl="https://Kumrac.github.io/sets/EAJ-files/img/166.png" num="164">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3023,7 +3024,7 @@ II, III — Exile target creature you control, then return that card to the batt
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/171.png" num="199">EAJ</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/171.png" num="202">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3038,7 +3039,7 @@ II, III — Exile target creature you control, then return that card to the batt
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/172.png" num="211">EAJ</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/172.png" num="216">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3053,7 +3054,7 @@ II, III — Exile target creature you control, then return that card to the batt
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/173.png" num="210">EAJ</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/173.png" num="212">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3068,7 +3069,7 @@ II, III — Exile target creature you control, then return that card to the batt
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/174.png" num="208">EAJ</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/174.png" num="210">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3083,7 +3084,7 @@ II, III — Exile target creature you control, then return that card to the batt
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/175.png" num="206">EAJ</set>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/175.png" num="209">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3154,8 +3155,8 @@ III — Gods Punish Vragor&apos;s Greed deals 4 damage to each opponent.</text>
 		<card>
 			<name>Borgan Sacrifices for Javor</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Sacrifice a creature. Draw cards equal to the sacrificed creature&apos;s power. Then you may put any number of lands onto the battlefield.
-II — Gain life equal to the number of lands you control.
+I — Sacrifice a creature. Draw cards equal to the sacrificed creature&apos;s power. Then you may put any number of land cards from your hand onto the battlefield.
+II — You gain life equal to the number of lands you control.
 III — Until end of turn, whenever you tap a land for mana, you add an additional {G}.</text>
 			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/179.png" num="127">EAJ</set>
 			<prop>
@@ -3172,7 +3173,7 @@ III — Until end of turn, whenever you tap a land for mana, you add an addition
 		</card>
 		<card>
 			<name>Candlewarden Squad Leader</name>
-			<text>Whenever you or a permanent you control becomes target of a spell or an ability opponent controls,create a 1/1 white Knight creature token with &quot;Equip abilities that target this creature cost {1} less to activate.&quot;</text>
+			<text>Whenever you or a permanent you control becomes target of a spell or an ability opponent controls, create a 1/1 white Knight creature token with &quot;Equip abilities that target this creature cost {1} less to activate.&quot;</text>
 			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/180.png" num="7">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3224,7 +3225,7 @@ III — Until end of turn, whenever you tap a land for mana, you add an addition
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Hexing Command</name>
+			<name>Hexing Evocation</name>
 			<text>Rite {3}{U} (As aditional cost to cast this spell you may pay {3}{U}. This cost is reduced by {1} for each counter among permanents you control.)
 Choose one. If rite was performed, you may choose any number instead.
 • Counter target spell.
@@ -3247,7 +3248,7 @@ Choose one. If rite was performed, you may choose any number instead.
 			<name>Gorovin Avenger</name>
 			<text>Ward—Discard a card.
 Menace
-Whenever Gorovin Avenger deals combat damage to a player, that player exiles a card from their hand. For as long as that card remains exiled, its owner may cast it by paying 3 life in addition to its other costs.</text>
+Whenever Gorovin Avenger deals combat damage to a player, that player exiles a card from their hand. For as long as a nonland card is exiled this way, its owner may cast it by paying 3 life in addition to its other costs.</text>
 			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/184.png" num="70">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3450,7 +3451,7 @@ Whenever Nadia attacks, exile up to one other target nonland permanent. At the b
 I — Each opponent sacrifices two creatures of their choice.
 II — Put target creature card from a graveyard onto the battlefield under your control.
 III — Each opponent loses 3 life and you gain 3 life.</text>
-			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/EAJ-files/img/195.png" num="78">EAJ</set>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/EAJ-files/img/195.png" num="79">EAJ</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3466,7 +3467,7 @@ III — Each opponent loses 3 life and you gain 3 life.</text>
 		<card>
 			<name>Borzan, Carnage Incarnate</name>
 			<text>Trample
-Whenever Borzan enters or attacks, put a hunger counter on it. Then each opponent may have you draw a card, if they don&apos;t Borzan deals damage to them equal to the number of hunger counters on him.</text>
+Whenever Borzan enters or attacks, put a hunger counter on him. Then each opponent may have you draw a card. If they don&apos;t, Borzan deals damage to them equal to the number of hunger counters on him.</text>
 			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/EAJ-files/img/196.png" num="96">EAJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3544,22 +3545,22 @@ Flying</text>
 		<card>
 			<name>Hero-Drowning Karsula</name>
 			<text>Time loop (As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)
-I — When Hero-Drowning Karsula enters, tap target creature.
+I — Tap up to one target creature.
 II — Put a stun counter on up to one target creature.
-III — Draw a card for each tapped creature your opponents control, then discard a card.
+III — Draw a card, then discard a card. 
 ---
 Flash</text>
 			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/EAJ-files/img/200.png" num="39">EAJ</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
-				<type>Enchantment Creature — Saga</type>
+				<type>Enchantment Creature — Saga Spirit</type>
 				<maintype>Creature</maintype>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3567,7 +3568,7 @@ Flash</text>
 			<name>Ominous Beguiler</name>
 			<text>Time loop (As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)
 I — Ominous Beguiler deals 1 damage to each opponent.
-II — Next creature spell you cast this turn can&apos;t be countered.
+II — The next creature spell you cast this turn can&apos;t be countered.
 III — Exile the top card of your library. You may play that card this turn.
 ---
 Menace</text>
@@ -3589,7 +3590,7 @@ Menace</text>
 			<name>Hallowed Fae</name>
 			<text>Time loop (As this Saga enters and after your draw step, add a lore counter. Remove them all after III.)
 I — Create a 1/1 blue Faerie creature token with flying.
-II — Next time Hallowed Fae attacks this turn. you may sacrifice a creature. When you do, draw a card.
+II — Whenever you attack with Hallowed Fae this turn. you may sacrifice a creature. When you do, draw a card.
 III — Each opponent loses 1 life and you gain 1 life.
 ---
 Flying</text>
@@ -3615,7 +3616,7 @@ Flying</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Mountain Forest</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3627,11 +3628,11 @@ Flying</text>
 			<name>Cruel Court</name>
 			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
 {T}: Add {U} or {B}.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/204.png" num="196">EAJ</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/204.png" num="200">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Island Swamp</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3643,11 +3644,11 @@ Flying</text>
 			<name>Idyllic Respite</name>
 			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
 {T}: Add {G} or {U}.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/205.png" num="205">EAJ</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/205.png" num="208">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Forest Island</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3659,11 +3660,11 @@ Flying</text>
 			<name>Holy Ground</name>
 			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
 {T}: Add {W} or {U}.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/206.png" num="204">EAJ</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/206.png" num="207">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Plains Island</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3675,11 +3676,11 @@ Flying</text>
 			<name>Creeking Windmill</name>
 			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
 {T}: Add {B} or {G}.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/207.png" num="195">EAJ</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/207.png" num="199">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Swamp Forest</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3691,11 +3692,11 @@ Flying</text>
 			<name>Hidden Springs</name>
 			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
 {T}: Add {G} or {W}.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/208.png" num="203">EAJ</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/208.png" num="205">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Forest Plains</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3707,11 +3708,11 @@ Flying</text>
 			<name>Peaceful Cemetery</name>
 			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
 {T}: Add {W} or {B}.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/209.png" num="209">EAJ</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/209.png" num="211">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Plains Swamp</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3723,11 +3724,11 @@ Flying</text>
 			<name>Blasphemous River</name>
 			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
 {T}: Add {U} or {R}.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/210.png" num="194">EAJ</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/210.png" num="196">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Island Mountain</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3739,11 +3740,11 @@ Flying</text>
 			<name>Heroic Passage</name>
 			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
 {T}: Add {W} or {R}.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/211.png" num="202">EAJ</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/211.png" num="204">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Mountain Plains</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3755,11 +3756,11 @@ Flying</text>
 			<name>Hanging Oak</name>
 			<text>This land enters tapped unless it&apos;s your first, second, or third turn of the game.
 {T}: Add {B} or {R}.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/212.png" num="201">EAJ</set>
+			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/212.png" num="203">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Swamp Mountain</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -3768,96 +3769,11 @@ Flying</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Great Beast&apos;s Territory</name>
-			<text>This land enters tapped, unless you control a Forest.
-{T}: Add {G}.
-{4}{G}{G}, {T}: Create a 3/3 green Beast creature token with haste.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/213.png" num="200">EAJ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Divine Roots</name>
-			<text>This land enters tapped, unless you control a Mountain.
-{T}: Add {R}.
-{1}{R}, {T}: Target creature gains haste until end of turn.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/214.png" num="197">EAJ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Eternal Monument</name>
-			<text>This land enters tapped, unless you control a Plains.
-{T}: Add {W}.
-{2}{W}, {T}: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/215.png" num="198">EAJ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Well of Evil</name>
-			<text>This land enters tapped, unless you control a Swamp.
-{T}: Add {B}.
-{1}{B}, {T}: Up to two target players, mill three cards.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/216.png" num="212">EAJ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Mesmerizing River</name>
-			<text>This land enters tapped, unless you control a Island.
-{T}: Add {U}.
-{3}{U}, {T}: Draw a card.</text>
-			<set rarity="rare" picurl="https://Kumrac.github.io/sets/EAJ-files/img/217.png" num="207">EAJ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
 			<name>The Severer</name>
 			<text>[+1]: Create two 3/3 green Beast creature tokens with haste.
 [-3]: Destroy target nonland permanent.
 [-8]: Destroy all lands target opponent controls.</text>
-			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/EAJ-files/img/218.png" num="173">EAJ</set>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/EAJ-files/img/213.png" num="173">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3874,7 +3790,7 @@ Flying</text>
 		<card>
 			<name>The Great Gathering Tree</name>
 			<text>At the beginning of your end step, surveil 1, draw a card and create a Treasure token. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/EAJ-files/img/219.png" num="180">EAJ</set>
+			<set rarity="mythic" picurl="https://Kumrac.github.io/sets/EAJ-files/img/214.png" num="180">EAJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3884,6 +3800,166 @@ Flying</text>
 				<cmc>5</cmc>
 			</prop>
 			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arcane Archive</name>
+			<text>This land enters tapped unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/215.png" num="194">EAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cursed Road</name>
+			<text>This land enters tapped unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/216.png" num="201">EAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Witching Woods</name>
+			<text>This land enters tapped unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {G} or {U}.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/217.png" num="217">EAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sheep Crossing</name>
+			<text>This land enters tapped unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/218.png" num="215">EAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bloodroot Glade</name>
+			<text>This land enters tapped unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/219.png" num="197">EAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Runic Ruins</name>
+			<text>This land enters tapped unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/220.png" num="213">EAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hollow Church</name>
+			<text>This land enters tapped unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {W} or {B}.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/221.png" num="206">EAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Carrion Grove</name>
+			<text>This land enters tapped unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/222.png" num="198">EAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Autumn Canopy</name>
+			<text>This land enters tapped unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {R} or {W}.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/223.png" num="195">EAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Secret Mire</name>
+			<text>This land enters tapped unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://Kumrac.github.io/sets/EAJ-files/img/224.png" num="214">EAJ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

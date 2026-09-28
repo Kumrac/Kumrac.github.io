@@ -57,7 +57,7 @@
     },
     {
         "card_name": "The Last Witches' Sabbath",
-        "number": 78,
+        "number": 79,
         "shape": "saga",
         "set": "EAJ",
         "rotated": false,
@@ -128,7 +128,7 @@
         "position": "181"
     },
     {
-        "card_name": "Hexing Command",
+        "card_name": "Hexing Evocation",
         "number": 40,
         "shape": "normal",
         "set": "EAJ",
@@ -200,7 +200,7 @@
         "position": "191"
     },
     {
-        "card_name": "Binding Circle",
+        "card_name": "Binding Malison",
         "number": 2,
         "shape": "normal",
         "set": "EAJ",
@@ -416,12 +416,12 @@
         "position": "106"
     },
     {
-        "card_name": "Inviting Stranger",
+        "card_name": "Huntress's Reflexes",
         "number": 76,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
-        "position": "115"
+        "position": "11"
     },
     {
         "card_name": "Giant's Bane",
@@ -456,12 +456,12 @@
         "position": "105"
     },
     {
-        "card_name": "Lake Ferrier",
+        "card_name": "Inviting Stranger",
         "number": 77,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
-        "position": "120"
+        "position": "115"
     },
     {
         "card_name": "Graveyard Shrieker",
@@ -496,12 +496,12 @@
         "position": "111"
     },
     {
-        "card_name": "Miasmic Cur",
-        "number": 81,
+        "card_name": "Lake Ferrier",
+        "number": 78,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
-        "position": "116"
+        "position": "120"
     },
     {
         "card_name": "Lightning Lash",
@@ -536,12 +536,12 @@
         "position": "107"
     },
     {
-        "card_name": "Miro's Technique",
+        "card_name": "Miasmic Cur",
         "number": 82,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
-        "position": "126"
+        "position": "116"
     },
     {
         "card_name": "Miro's Wrath",
@@ -576,12 +576,12 @@
         "position": "112"
     },
     {
-        "card_name": "Nadia's Technique",
-        "number": 85,
+        "card_name": "Miro's Technique",
+        "number": 83,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
-        "position": "124"
+        "position": "126"
     },
     {
         "card_name": "Protector's Rampage",
@@ -616,12 +616,12 @@
         "position": "114"
     },
     {
-        "card_name": "Old Grudge",
+        "card_name": "Nadia's Technique",
         "number": 86,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
-        "position": "11"
+        "position": "124"
     },
     {
         "card_name": "Satyr Axe Thrower",
@@ -937,7 +937,7 @@
     },
     {
         "card_name": "Living Nest",
-        "number": 79,
+        "number": 80,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -977,7 +977,7 @@
     },
     {
         "card_name": "Mamai's Song",
-        "number": 80,
+        "number": 81,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1017,7 +1017,7 @@
     },
     {
         "card_name": "Moonwater Witch",
-        "number": 83,
+        "number": 84,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1057,7 +1057,7 @@
     },
     {
         "card_name": "Nadia's Intervention",
-        "number": 84,
+        "number": 85,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1289,8 +1289,8 @@
         "position": "5"
     },
     {
-        "card_name": "Impaler's Might",
-        "number": 166,
+        "card_name": "Conqueror's Might",
+        "number": 161,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1298,7 +1298,7 @@
     },
     {
         "card_name": "Corrode",
-        "number": 161,
+        "number": 162,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1369,7 +1369,7 @@
     },
     {
         "card_name": "Hollow Hierarch",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1393,7 +1393,7 @@
     },
     {
         "card_name": "Hero's Arrival",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1425,7 +1425,7 @@
     },
     {
         "card_name": "Crushing Wisdom",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1441,7 +1441,7 @@
     },
     {
         "card_name": "Honey-Hued Rog",
-        "number": 165,
+        "number": 166,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1468,7 +1468,7 @@
         "shape": "planeswalker",
         "set": "EAJ",
         "rotated": false,
-        "position": "218"
+        "position": "213"
     },
     {
         "card_name": "e"
@@ -1501,7 +1501,7 @@
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
-        "position": "219"
+        "position": "214"
     },
     {
         "card_name": "Mountain Leveler",
@@ -1622,65 +1622,12 @@
     {
         "card_name": "er"
     },
-    "a->land",
-    {
-        "card_name": "Eternal Monument",
-        "number": 198,
-        "shape": "normal",
-        "set": "EAJ",
-        "rotated": false,
-        "position": "215"
-    },
-    {
-        "card_name": "Mesmerizing River",
-        "number": 207,
-        "shape": "normal",
-        "set": "EAJ",
-        "rotated": false,
-        "position": "217"
-    },
-    {
-        "card_name": "Well of Evil",
-        "number": 212,
-        "shape": "normal",
-        "set": "EAJ",
-        "rotated": false,
-        "position": "216"
-    },
-    {
-        "card_name": "Divine Roots",
-        "number": 197,
-        "shape": "normal",
-        "set": "EAJ",
-        "rotated": false,
-        "position": "214"
-    },
-    {
-        "card_name": "Great Beast's Territory",
-        "number": 200,
-        "shape": "normal",
-        "set": "EAJ",
-        "rotated": false,
-        "position": "213"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
     {
         "card_name": "er"
     },
     {
         "card_name": "Holy Ground",
-        "number": 204,
+        "number": 207,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1688,7 +1635,7 @@
     },
     {
         "card_name": "Cruel Court",
-        "number": 196,
+        "number": 200,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1696,7 +1643,7 @@
     },
     {
         "card_name": "Hanging Oak",
-        "number": 201,
+        "number": 203,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1712,11 +1659,51 @@
     },
     {
         "card_name": "Hidden Springs",
-        "number": 203,
+        "number": 205,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
         "position": "208"
+    },
+    {
+        "card_name": "Arcane Archive",
+        "number": 194,
+        "shape": "normal",
+        "set": "EAJ",
+        "rotated": false,
+        "position": "215"
+    },
+    {
+        "card_name": "Secret Mire",
+        "number": 214,
+        "shape": "normal",
+        "set": "EAJ",
+        "rotated": false,
+        "position": "224"
+    },
+    {
+        "card_name": "Cursed Road",
+        "number": 201,
+        "shape": "normal",
+        "set": "EAJ",
+        "rotated": false,
+        "position": "216"
+    },
+    {
+        "card_name": "Bloodroot Glade",
+        "number": 197,
+        "shape": "normal",
+        "set": "EAJ",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "Sheep Crossing",
+        "number": 215,
+        "shape": "normal",
+        "set": "EAJ",
+        "rotated": false,
+        "position": "218"
     },
     {
         "card_name": "er"
@@ -1735,7 +1722,7 @@
     },
     {
         "card_name": "Peaceful Cemetery",
-        "number": 209,
+        "number": 211,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1743,7 +1730,7 @@
     },
     {
         "card_name": "Blasphemous River",
-        "number": 194,
+        "number": 196,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1751,7 +1738,7 @@
     },
     {
         "card_name": "Creeking Windmill",
-        "number": 195,
+        "number": 199,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1759,7 +1746,7 @@
     },
     {
         "card_name": "Heroic Passage",
-        "number": 202,
+        "number": 204,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1767,11 +1754,51 @@
     },
     {
         "card_name": "Idyllic Respite",
-        "number": 205,
+        "number": 208,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
         "position": "205"
+    },
+    {
+        "card_name": "Hollow Church",
+        "number": 206,
+        "shape": "normal",
+        "set": "EAJ",
+        "rotated": false,
+        "position": "221"
+    },
+    {
+        "card_name": "Runic Ruins",
+        "number": 213,
+        "shape": "normal",
+        "set": "EAJ",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "Carrion Grove",
+        "number": 198,
+        "shape": "normal",
+        "set": "EAJ",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "Autumn Canopy",
+        "number": 195,
+        "shape": "normal",
+        "set": "EAJ",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "Witching Woods",
+        "number": 217,
+        "shape": "normal",
+        "set": "EAJ",
+        "rotated": false,
+        "position": "217"
     },
     {
         "card_name": "er"
@@ -1790,7 +1817,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 199,
+        "number": 202,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1798,7 +1825,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 211,
+        "number": 216,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1806,7 +1833,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 210,
+        "number": 212,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1814,7 +1841,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 208,
+        "number": 210,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
@@ -1822,7 +1849,7 @@
     },
     {
         "card_name": "Island",
-        "number": 206,
+        "number": 209,
         "shape": "normal",
         "set": "EAJ",
         "rotated": false,
