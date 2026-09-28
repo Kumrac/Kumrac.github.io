@@ -1,4 +1,60 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Witchfire
+
+Shade of Sacred Tree
+
+Weave the Golden Thread
+
+Amber Gatherer
+
+Shrine Defiler
+
+The Great Gathering Tree
+
+Knighting of Nikolaj
+
+Hexstopper Faerie
+
+Deathly Comfort
+
+Cruel Witch Hunters
+
+Sundering Blow
+
+Ornate Kadionica
+
+Kukla of Hatred
+
+Wicked Ambition
+
+Conqueror's Might
+
+Corrode
+
+Crushing Wisdom
+
+Vesna, Queen of the Coven
+
+Candlewarden Squad Leader
+
+Solemn Balladist
+
+Bloodsworn Cavalier
+
+Long-Eared Quadruplets
+
+Borzan, Carnage Incarnate
+
+Hero-Drowning Karsula
+
+The Severer
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

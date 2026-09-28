@@ -19,7 +19,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png",
             "v_mana": ""
         },
@@ -226,7 +226,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag sideboard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -985,7 +985,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag cantrip",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1698,7 +1698,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag ramp",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1859,7 +1859,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag sideboard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2066,7 +2066,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag card-engine",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2112,7 +2112,7 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2388,7 +2388,7 @@
             "alias": "",
             "position": "103",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag counterspell",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2733,7 +2733,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag discard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2848,7 +2848,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag aggro-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3101,7 +3101,7 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag sideboard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3561,7 +3561,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag sideboard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3607,7 +3607,7 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag sideboard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3676,7 +3676,7 @@
             "alias": "",
             "position": "159",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag draw",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3699,7 +3699,7 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag discard",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3722,7 +3722,7 @@
             "alias": "",
             "position": "161",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3768,7 +3768,7 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3883,7 +3883,7 @@
             "alias": "",
             "position": "168",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4159,7 +4159,7 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag aggro-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4274,7 +4274,7 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4297,7 +4297,7 @@
             "alias": "",
             "position": "186",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag aggro-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4343,7 +4343,7 @@
             "alias": "",
             "position": "188",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4527,7 +4527,7 @@
             "alias": "",
             "position": "196",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag value-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4619,7 +4619,7 @@
             "alias": "",
             "position": "200",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag interactive-threat",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4918,7 +4918,7 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },

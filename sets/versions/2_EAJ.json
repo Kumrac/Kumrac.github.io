@@ -26,7 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Mighty Thwack",
@@ -215,7 +215,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sideboard"
         },
         {
             "card_name": "Hunter's Mark",
@@ -908,7 +908,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag cantrip"
         },
         {
             "card_name": "Abominable Wisdom",
@@ -1559,7 +1559,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Hunting Hounds",
@@ -1706,7 +1706,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sideboard"
         },
         {
             "card_name": "Silver Anvil",
@@ -1895,7 +1895,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag card-engine"
         },
         {
             "card_name": "Wise Winggiver",
@@ -1937,7 +1937,7 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Breaking the Hex",
@@ -2189,7 +2189,7 @@
             "alias": "",
             "position": "103",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag counterspell"
         },
         {
             "card_name": "Fae Infestation",
@@ -2504,7 +2504,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag discard"
         },
         {
             "card_name": "Dissolving Kelpie",
@@ -2609,7 +2609,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Nadia's Technique",
@@ -2840,7 +2840,7 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sideboard"
         },
         {
             "card_name": "Graveyard Shrieker",
@@ -3260,7 +3260,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sideboard"
         },
         {
             "card_name": "Soul Shredding Lantern",
@@ -3302,7 +3302,7 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag sideboard"
         },
         {
             "card_name": "Makeshift Helm",
@@ -3365,7 +3365,7 @@
             "alias": "",
             "position": "159",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag draw"
         },
         {
             "card_name": "Conqueror's Might",
@@ -3386,7 +3386,7 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag discard"
         },
         {
             "card_name": "Corrode",
@@ -3407,7 +3407,7 @@
             "alias": "",
             "position": "161",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Stone of Remembrance",
@@ -3449,7 +3449,7 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Soul Harvest",
@@ -3554,7 +3554,7 @@
             "alias": "",
             "position": "168",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Faerie",
@@ -3806,7 +3806,7 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Relentless Witch Hunter",
@@ -3911,7 +3911,7 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Bloodsworn Cavalier",
@@ -3932,7 +3932,7 @@
             "alias": "",
             "position": "186",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Ghoul Slaying Blade",
@@ -3974,7 +3974,7 @@
             "alias": "",
             "position": "188",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Copy",
@@ -4142,7 +4142,7 @@
             "alias": "",
             "position": "196",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag value-threat"
         },
         {
             "card_name": "Ever-Growing Hellion",
@@ -4226,7 +4226,7 @@
             "alias": "",
             "position": "200",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag interactive-threat"
         },
         {
             "card_name": "Ominous Beguiler",
@@ -4499,7 +4499,7 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "The Great Gathering Tree",
